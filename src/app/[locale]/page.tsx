@@ -36,13 +36,13 @@ export default async function HomePage({
         <DeepDive />
         <HistoryTimeline />
         <DidYouKnow />
-        <FAQ />
         <RouteSection />
         <HoursSection />
         <TicketsSection />
         <TransportSection />
         <Gallery />
         <Reviews />
+        <FAQ />
         <MapEmbed />
       </main>
       <Footer />

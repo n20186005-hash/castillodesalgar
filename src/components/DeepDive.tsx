@@ -34,10 +34,12 @@ export default function DeepDive() {
                 <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('geology.subtitle1')}</h4>
                 <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('geology.desc1')}</p>
               </div>
-              <div>
-                <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('geology.subtitle2')}</h4>
-                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('geology.desc2')}</p>
-              </div>
+              {deepDiveData.geology?.subtitle2 && deepDiveData.geology?.desc2 && (
+                <div>
+                  <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('geology.subtitle2')}</h4>
+                  <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('geology.desc2')}</p>
+                </div>
+              )}
             </div>
           </div>
 
@@ -54,10 +56,12 @@ export default function DeepDive() {
                 <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('architecture.subtitle1')}</h4>
                 <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('architecture.desc1')}</p>
               </div>
-              <div>
-                <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('architecture.subtitle2')}</h4>
-                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('architecture.desc2')}</p>
-              </div>
+              {deepDiveData.architecture?.subtitle2 && deepDiveData.architecture?.desc2 && (
+                <div>
+                  <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('architecture.subtitle2')}</h4>
+                  <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('architecture.desc2')}</p>
+                </div>
+              )}
             </div>
           </div>
 
@@ -74,10 +78,12 @@ export default function DeepDive() {
                 <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('art.subtitle1')}</h4>
                 <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('art.desc1')}</p>
               </div>
-              <div>
-                <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('art.subtitle2')}</h4>
-                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('art.desc2')}</p>
-              </div>
+              {deepDiveData.art?.subtitle2 && deepDiveData.art?.desc2 && (
+                <div>
+                  <h4 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>{t('art.subtitle2')}</h4>
+                  <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('art.desc2')}</p>
+                </div>
+              )}
             </div>
           </div>
         </div>

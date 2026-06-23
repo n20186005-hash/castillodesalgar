@@ -41,7 +41,7 @@ function FAQItem({ question, answer, index }: {
   answer: string;
   index: number;
 }) {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(true);
 
   return (
     <div
