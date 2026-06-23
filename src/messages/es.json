@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "title": "Castle Salgar | Atracción Turística en Atlántico, Colombia",
+    "description": "Explora el Castle Salgar, un monumento histórico en Puerto Colombia, Atlántico, Colombia, y experimenta la fusión perfecta de fortaleza militar del siglo XIX y turismo moderno."
+  },
+  "header": {
+    "siteName": "Castle Salgar",
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Castle Salgar",
+    "subtitle": "Una fortaleza militar centenaria en la costa del Caribe, de bastión colonial a destino turístico moderno.\nAquí, siente el legado histórico desde 1848, disfruta de la alta cocina y admira las impresionantes vistas del Mar Caribe.",
+    "rating": "4.5",
+    "reviewCount": "1,200+",
+    "hours": "Monumento Histórico / Restaurante / Lugar de Eventos",
+    "openMaps": "Obtener Ruta",
+    "viewGuide": "Ver Guía de Visita"
+  },
+  "intro": {
+    "title": "Explora el Castillo",
+    "description": "Descubre un importante hito histórico en Atlántico, Colombia — una atracción única que combina perfectamente la arquitectura militar del siglo XIX, instalaciones turísticas modernas y el encanto caribeño.\n\nEl Castle Salgar se encuentra en el municipio de Puerto Colombia, a unos 20 minutos de Barranquilla. El castillo fue originalmente construido en 1848 sobre las ruinas del antiguo Fuerte de San Antonio (construido por los españoles para monitorear el contrabando marítimo en el Caribe).\n\nEn su historia posterior, fue utilizado como estación de control aduanero, prisión, campamento de refugiados e incluso escuela. Después de una cuidadosa restauración, el castillo ahora sirve como un restaurante de alta cocina, mirador y lugar de eventos para bodas y conciertos, convirtiéndose en un excelente lugar para experimentar la historia y modernidad de la región caribeña de Colombia.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "🌅 Recorrido Matutino: Visita los edificios históricos del castillo ➔ Aprende sobre la historia de la fortaleza militar ➔ Disfruta de las vistas del Mar Caribe",
+        "🍽️ Recorrido Gastronómico por la Tarde: Prueba la cocina local en el restaurante del castillo ➔ Visita los espacios modernos de eventos ➔ Experimenta la fusión de historia y modernidad",
+        "🌅 Tiempo de Atardecer: Disfruta del atardecer en el mirador ➔ Fotografía el castillo por la noche ➔ Experimenta la brisa nocturna del Caribe"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Aspectos Destacados",
+      "items": [
+        "🏰 Fortaleza Militar Centenaria: Una fortaleza militar construida en 1848, originalmente utilizada para monitorear el contrabando en el Caribe. Después de múltiples restauraciones, ahora es un monumento histórico bien conservado.",
+        "🍽️ Restaurante de Alta Cocina y Lugar de Eventos: El castillo cuenta con un restaurante de alta cocina que sirve cocina local. También es un lugar ideal para bodas, conciertos y otros eventos.",
+        "🌊 Vistas del Mar Caribe: Ubicado en Puerto Colombia, ofrece hermosas vistas del Mar Caribe, perfecto para fotografía y turismo."
+      ]
+    },
+    "items": [
+      {
+        "title": "🏰 Explora la Fortaleza Centenaria",
+        "description": "Construido en 1848 como bastión militar sobre las ruinas del Fuerte de San Antonio. Aprende sobre la historia legendaria del castillo desde fortaleza militar hasta estación aduanera, prisión, escuela y destino turístico moderno."
+      },
+      {
+        "title": "🍽️ Saborea la Cocina del Restaurante de Alta Cocina",
+        "description": "El castillo alberga un restaurante de alta cocina que ofrece especialidades de la región caribeña de Colombia. Cena en un edificio histórico centenario y siente la atmósfera histórica única."
+      },
+      {
+        "title": "🌅 Admira Impresionantes Atardeceres Caribeños",
+        "description": "Ubicado en Puerto Colombia, el castillo es un excelente lugar para disfrutar de los atardeceres caribeños. Por la tarde, fotografía la hermosa vista del castillo y el mar."
+      }
+    ]
+  },
+  "route": {
+    "title": "Guía de Visita",
+    "overview": "Itinerario Perfecto de Un Día:",
+    "steps": [
+      "Mañana (Exploración Histórica): Visita los edificios históricos del castillo, aprende sobre los cambios históricos desde 1848 y explora las características arquitectónicas de la fortaleza militar.",
+      "Tarde (Experiencia Culinaria): Disfruta de la cocina local en el restaurante del castillo, visita los espacios modernos de eventos y siente la fusión perfecta de historia y modernidad.",
+      "Noche (Observación del Atardecer): Dirígete al mirador, disfruta del atardecer caribeño y fotografía la hermosa vista del castillo y el mar."
+    ],
+    "supplementsTitle": "Consejos Prácticos",
+    "supplements": [
+      "Mejor Momento: Se recomienda ir en el atardecer, ya que puedes disfrutar tanto de los edificios históricos durante el día como de las vistas nocturnas.",
+      "Protección Solar e Hidratación: La región caribeña tiene luz solar fuerte. Por favor, lleva protector solar, gafas de sol y mucha agua potable.",
+      "Preparación Fotográfica: El castillo es una excelente ubicación para fotografiar el paisaje caribeño. Se recomienda traer una cámara o asegurar que tu teléfono esté completamente cargado."
+    ],
+    "scheduleTitle": "🗓️ Itinerario Recomendado (2-3 horas)",
+    "scheduleItems": [
+      {
+        "time": "10:00 AM (Exploración Histórica)",
+        "description": "Visita los edificios históricos del castillo, aprende sobre la historia desde 1848 hasta el presente y explora las características arquitectónicas de la fortaleza militar."
+      },
+      {
+        "time": "1:00 PM (Experiencia Culinaria)",
+        "description": "Disfruta del almuerzo en el restaurante del castillo, prueba especialidades de la región caribeña de Colombia y visita los espacios modernos de eventos."
+      },
+      {
+        "time": "5:00 PM (Observación del Atardecer)",
+        "description": "Dirígete al mirador, disfruta del atardecer caribeño, fotografía la hermosa vista del castillo y el mar, y siente la brisa nocturna del Caribe."
+      }
+    ],
+    "tipsTitle": "💡 Consejos Prácticos",
+    "tipsItems": [
+      {
+        "title": "Clima y Equipamiento",
+        "description": "La región caribeña tiene un clima cálido con luz solar fuerte. Por favor, trae protector solar, gafas de sol y mucha agua."
+      },
+      {
+        "title": "Información de Transporte",
+        "description": "El castillo está a unos 20 minutos de Barranquilla. Se recomienda conducir o tomar un taxi. El castillo tiene estacionamiento."
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto de Castle Salgar",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historia y Cultura",
+        "content": "El Castle Salgar es una fortaleza militar de gran valor histórico, construida en 1848. Fue testigo de los cambios históricos en la región caribeña de Colombia, desde un bastión militar colonial español hasta un destino turístico moderno."
+      },
+      {
+        "id": "architecture",
+        "title": "Características Arquitectónicas",
+        "content": "El castillo retiene las características de la arquitectura militar del siglo XIX mientras incorpora restauración y renovación moderna. El exterior amarillo brillante es una característica distintiva del castillo, con restaurantes modernos y espacios para eventos en el interior."
+      },
+      {
+        "id": "location",
+        "title": "Ubicación y Transporte",
+        "content": "El Castle Salgar se encuentra en el municipio de Puerto Colombia, Atlántico, Colombia, a unos 20 minutos de Barranquilla, con transporte conveniente, convirtiéndose en una opción ideal para el turismo en la región caribeña de Colombia."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Datos Rápidos (Quick Facts)",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Castle Salgar",
+    "type": "Tipo de Atracción",
+    "typeValue": "Monumento Histórico / Restaurante / Lugar de Eventos",
+    "country": "País",
+    "countryValue": "Colombia",
+    "city": "Ciudad",
+    "cityValue": "Puerto Colombia, Atlántico",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "Cl. 9 #1316, Salgar, Puerto Colombia, Atlántico, Colombia",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "2395+79",
+    "phone": "Teléfono",
+    "phoneValue": "+57 53207300",
+    "petFriendly": "Mascotas permitidas",
+    "petFriendlyValue": "Por favor consulte al personal en el sitio",
+    "tickets": "Entradas",
+    "ticketsValue": "Entrada gratuita (cena en el restaurante y alquiler del lugar de eventos cobrados por separado)",
+    "facilities": "Instalaciones",
+    "facilitiesValue": "Baños públicos cercanos, restaurantes, estacionamiento y espacios para eventos",
+    "hours": "Horario de Atención",
+    "hoursValue": "Lun-Vie 08:00–17:00, Sáb-Dom 08:00–19:00",
+    "rating": "Calificación",
+    "ratingValue": "4.5 / 5.0 (basado en más de 1,200 opiniones)",
+    "location": "Ubicación",
+    "locationValue": "Puerto Colombia, Atlántico (a unos 20 minutos de Barranquilla)"
+  },
+  "hours": {
+    "title": "Horarios y Consejos para Visitantes",
+    "outdoor": "Horario Comercial",
+    "outdoorTime": "Lun-Vie 08:00–17:00, Sáb-Dom 08:00–19:00",
+    "lighthouse": "Mejor Momento de Visita",
+    "summer": "Horas del atardecer",
+    "summerTime": "(Depende del clima y la temporada, consulte Google Maps)",
+    "winter": "Notas",
+    "winterTime": "Traiga protector solar, cámara y abundante agua",
+    "warning": "💡 Clima Dinámico",
+    "warningTime": "La región caribeña tiene un clima cálido, ideal para visitas al aire libre. Recomendamos traer protector solar y abundante agua.",
+    "tip": "El castillo tiene un restaurante de alta cocina donde puedes probar especialidades de la región caribeña de Colombia."
+  },
+  "tickets": {
+    "title": "Información Importante",
+    "outdoor": "Tarifa de Entrada",
+    "outdoorPrice": "Entrada gratuita",
+    "lighthouse": "Información de Transporte",
+    "adults": "Desde Barranquilla",
+    "adultsPrice": "Tomar un taxi o conducir aproximadamente 20 minutos",
+    "students": "Duración Recomendada de Visita",
+    "studentsPrice": "2-3 horas",
+    "card": "Atracciones Cercanas",
+    "cardPrice": "Playas de Puerto Colombia, centro de Barranquilla. 👉 [Ir a Barranquilla]",
+    "officialNotice": "Para obtener las últimas actualizaciones, consulte el",
+    "officialNoticeLinkLabel": "Sitio Web Oficial de la Gobernación de Atlántico",
+    "officialNoticeLink": "https://www.atlantico.gov.co/"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "airport": "✈️ Aeropuerto al Destino (Recomendación Principal)",
+    "airportDesc": "El aeropuerto más cercano a Castle Salgar es el Aeropuerto Internacional Ernesto Cortissoz (BAQ). Al llegar, puedes tomar un taxi o servicio de transporte para ir al municipio de Puerto Colombia, luego dirigirte a Castle Salgar. El viaje es de aproximadamente 30 minutos a 1 hora directamente al castillo, que es la forma más eficiente de llegar.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "Desde el centro de Barranquilla, sigue el camino por aproximadamente 20 minutos para llegar a Castle Salgar.",
+    "bus": "🚌 Transporte Público (Desde el centro de Barranquilla)",
+    "busDesc": "Desde el centro de Barranquilla, puedes tomar autobuses o taxi al municipio de Puerto Colombia, luego caminar o tomar un taxi al castillo. Se recomienda consultar a la gente local para obtener rutas de autobús específicas y horarios.",
+    "intercity": "Dentro de la Región",
+    "intercityDesc": "El Castle Salgar está ubicado en el municipio de Puerto Colombia, fácilmente accesible desde el centro de Barranquilla.",
+    "cycling": "Otras Opciones",
+    "cyclingDesc": "Puede alquilar transporte en Barranquilla o tomar un taxi para explorar y apreciar mejor el paisaje caribeño.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "El viaje desde el centro de Barranquilla es corto. Se recomienda planificar con anticipación su itinerario y transporte.",
+    "addressTitle": "📍 Dirección",
+    "addressValue": "Cl. 9 #1316, Salgar, Puerto Colombia, Atlántico",
+    "taxiTitle": "🚕 Taxi / Uber (Más Recomendado)",
+    "taxiDesc": "No importa desde dónde salgas en Barranquilla, tomar un taxi directamente hasta Castle Salgar es la forma más rápida y sin esfuerzo.",
+    "metroTitle": "🚌 Transporte Público",
+    "metroDesc": "Desde el centro de Barranquilla, puedes tomar autobuses al municipio de Puerto Colombia, luego tomar un taxi al castillo.",
+    "airportTitle": "✈️ Transporte desde el Aeropuerto",
+    "airportItems": [
+      {
+        "name": "Aeropuerto Internacional Ernesto Cortissoz (BAQ)",
+        "desc": "Aproximadamente 30 minutos en auto desde el castillo."
+      },
+      {
+        "name": "Centro de Barranquilla",
+        "desc": "A solo 20 minutos en auto desde el castillo, extremadamente conveniente."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "Sienta el Encanto Histórico de la Región Caribeña de Colombia",
+    "captions": [
+      "Vista Panorámica de Castle Salgar",
+      "Exterior del Castillo",
+      "Detalles de Arquitectura Histórica",
+      "Vistas del Mar Caribe",
+      "Restaurante del Castillo",
+      "Espacios para Eventos",
+      "Mirador",
+      "Paisaje de Puerto Colombia",
+      "Escenas de Actividades de Turistas",
+      "Vista Nocturna del Castillo",
+      "Fusión de Historia y Modernidad",
+      "Estilo Caribeño",
+      "Elementos Arquitectónicos del Castillo",
+      "Integración de Naturaleza e Historia",
+      "Escenas de Actividades de Turistas",
+      "Escenas de Actividades Culturales",
+      "Sol y Océano"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Hermoso castillo, se puede sentir el encanto de la historia."
+      },
+      {
+        "name": "María González",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la vista del Caribe."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Hermoso castillo con historia interesante. Muy recomendado."
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "hace 3 meses",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar de la historia y la comida."
+      },
+      {
+        "name": "John Smith",
+        "date": "hace 6 meses",
+        "rating": 5,
+        "text": "A charming historical castle. Great for family trips."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "A must-visit place in Puerto Colombia! The view is beautiful."
+      },
+      {
+        "name": "Li Xiaoming",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "El castillo es muy interesante, un gran lugar para aprender sobre la historia colombiana!"
+      },
+      {
+        "name": "Zhang Wei",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "¡Visita obligada cuando vengas a Puerto Colombia, siente la fusión de historia y modernidad!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "Cl. 9 #1316, Salgar, Puerto Colombia, Atlántico, Colombia",
+    "openMaps": "Ver en Google Maps",
+    "nearbyTitle": "Recomendaciones Cercanas",
+    "nearby1Name": "Playas de Puerto Colombia",
+    "nearby1Desc": "🚗 En coche",
+    "nearby2Name": "Centro de Barranquilla",
+    "nearby2Desc": "🚗 Aproximadamente 20 minutos"
+  },
+  "footer": {
+    "rights": "© 2026 Castle Salgar. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales y Enlaces",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "Portal Oficial de Turismo Nacional de Colombia (Colombia Travel)",
+        "url": "https://colombia.travel/es"
+      },
+      "barranquilla": {
+        "name": "Gobierno Municipal de Barranquilla",
+        "url": "https://www.barranquilla.gov.co/"
+      },
+      "atlantico": {
+        "name": "Gobernación de Atlántico",
+        "url": "https://www.atlantico.gov.co/"
+      },
+      "mincit": {
+        "name": "Ministerio de Comercio, Industria y Turismo de Colombia (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "Agencia de Promoción de Turismo, Inversión Extranjera y Exportaciones No Tradicionales de Colombia (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "migracion": {
+        "name": "Agencia Nacional de Migración de Colombia (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ninguna atracción turística, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Limitación de Responsabilidad",
+        "content": "No seremos responsables por ningún daño directo o indirecto derivado del uso de este sitio web o la dependencia de la información aquí proporcionada."
+      }
+    ]
+  },
+  "about": {
+    "title": "Acerca de Castle Salgar",
+    "introTitle": "Introducción",
+    "introText": "Castle Salgar es un monumento histórico ubicado en Puerto Colombia, Atlántico, Colombia. Construido en 1848, originalmente sirvió como fortaleza militar y estación de control aduanero para monitorear el comercio marítimo en la región del Caribe. Después de múltiples restauraciones, el castillo ahora funciona principalmente como un restaurante de alta cocina, mirador y lugar para eventos como bodas y conciertos.\n\nSituado en la costa del Caribe, el castillo ofrece excelentes vistas al mar. Su exterior amarillo brillante es una característica distintiva que crea un hermoso contraste con las aguas azules del mar Caribe.",
+    "managementTitle": "Información de Gestión",
+    "managedBy": "Gestionado por",
+    "managementOrg": "Gobierno del Departamento del Atlántico, Colombia",
+    "location": "Ubicación",
+    "locationValue": "Puerto Colombia, Atlántico, Colombia",
+    "officialInfo": "Información Oficial",
+    "websiteText": "Visitar el sitio web del Gobierno del Atlántico",
+    "websiteUrl": "https://www.atlantico.gov.co/",
+    "historyTitle": "Antecedentes Históricos",
+    "historyText": "La historia de Castle Salgar se remonta al período colonial español. Originalmente, los españoles construyeron el Fuerte de San Antonio aquí para monitorear el contrabando marítimo en el Caribe. En 1848, Castle Salgar fue construido sobre las ruinas del Fuerte de San Antonio.\n\nEn su historia posterior, fue utilizado como estación de control aduanero, prisión, campamento de refugiados e incluso una escuela. Después de perder sus funciones prácticas como aduana, el castillo fue abandonado por más de 60 años. A partir de la década de 1940, se llevaron a cabo múltiples restauraciones a gran escala. Especialmente en los últimos años, el gobierno local ha realizado transformaciones masivas para convertirlo en un destino turístico de clase mundial."
+  },
+  "historyTimeline": {
+    "title": "Orígenes Históricos: De Fortaleza Militar a Destino Turístico",
+    "items": [
+      {
+        "year": "Época Colonial Española",
+        "title": "Establecimiento del Fuerte de San Antonio",
+        "plaque": "Bastión Militar",
+        "description": "Los españoles construyeron el Fuerte de San Antonio aquí para monitorear el contrabando marítimo en el Caribe. Este es el origen histórico más temprano del castillo."
+      },
+      {
+        "year": "1848",
+        "title": "Castle Salgar Construido",
+        "plaque": "Construcción del Castillo",
+        "description": "Sobre las ruinas del Fuerte de San Antonio, se construyó Castle Salgar. Originalmente sirvió como fortaleza militar y estación de control aduanero para controlar el comercio marítimo en la región del Caribe."
+      },
+      {
+        "year": "Finales del Siglo XIX - Principios del Siglo XX",
+        "title": "Período Multifuncional",
+        "plaque": "Diversidad Funcional",
+        "description": "El castillo fue utilizado para múltiples propósitos, incluyendo estación de control aduanero, prisión, campamento de refugiados e incluso una escuela. Esto refleja la historia compleja de la sociedad colombiana en ese momento."
+      },
+      {
+        "year": "Mediados del Siglo XX",
+        "title": "Período de Abandono",
+        "plaque": "Olvido Histórico",
+        "description": "Después de perder funciones prácticas como aduana, el castillo fue abandonado por más de 60 años, e incluso enfrentó el peligro de colapso debido a la erosión costera."
+      },
+      {
+        "year": "Desde 1940",
+        "title": "Restauración y Renacimiento",
+        "plaque": "Proyecto de Restauración",
+        "description": "A partir de la década de 1940, se llevaron a cabo múltiples restauraciones a gran escala. Especialmente en los últimos años (como alrededor de 2022), para convertirlo en un destino turístico de clase mundial, el gobierno local ha llevado a cabo transformaciones a gran escala."
+      }
+    ]
+  },
+  "officialManagement": {
+    "title": "Acerca de Castle Salgar",
+    "text": "Castle Salgar es un monumento histórico en Puerto Colombia, Atlántico, Colombia. Como una atracción turística y lugar cultural, es un lugar importante para experimentar la historia y modernidad de la región caribeña de Colombia."
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "deepDive": {
+    "title": "Fusión de Historia y Modernidad: Análisis Profundo",
+    "geology": {
+      "title": "Geografía y Ubicación: Fortaleza Histórica en la Costa del Caribe",
+      "subtitle1": "Ubicación Geográfica: Bastión Costero de Atlántico",
+      "desc1": "El Castle Salgar se encuentra en el municipio de Puerto Colombia, Atlántico, en la costa del Caribe. Esta ubicación geográfica fue ventajosa para controlar el comercio marítimo y monitorear las actividades de contrabando.",
+      "subtitle2": "Características Climáticas: Clima Tropical",
+      "desc2": "La región de Puerto Colombia tiene un clima tropical con temperaturas altas durante todo el año y luz solar fuerte. Las hermosas vistas del Mar Caribe y el clima cálido atraen a muchos turistas a visitar."
+    },
+    "architecture": {
+      "title": "Arquitectura y Restauración: Transformación Moderna de una Fortaleza Centenaria",
+      "subtitle1": "Arquitectura Militar del Siglo XIX",
+      "desc1": "El castillo retiene las características típicas de la arquitectura militar del siglo XIX, incluyendo paredes gruesas, arcos y diseño defensivo. Estos elementos arquitectónicos son testigos de la historia del castillo como bastión militar."
+    },
+    "art": {
+      "title": "Funciones Modernas: De la Historia al Futuro",
+      "subtitle1": "Restauración y Renovación Moderna",
+      "desc1": "Después de múltiples restauraciones, el castillo ahora tiene instalaciones modernas, incluyendo restaurantes de alta cocina, miradores y espacios de eventos de \"cubo de vidrio\". Estas instalaciones modernas se fusionan perfectamente con los edificios históricos, proporcionando a los visitantes una experiencia única."
+    }
+  },
+  "didYouKnow": {
+    "title": "💡 Huevo de Pascua Oculto: ¿Sabías que...?",
+    "description": "¡Las paredes exteriores de Castle Salgar están pintadas con una pintura amarilla muy brillante y hermosa, y se mantienen con una frecuencia muy alta de repintado! Este color brillante crea un hermoso contraste con las aguas azules del Mar Caribe, convirtiéndose en una característica distintiva del castillo."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "items": [
+      {
+        "question": "¿Es Castle Salgar un edificio moderno?",
+        "answer": "No, no es un edificio moderno, sino una auténtica reliquia histórica centenaria. El castillo fue originalmente construido en 1848 sobre las ruinas del más antiguo Fuerte de San Antonio (una fortaleza colonial). Fue originalmente construido por los españoles para monitorear el contrabando marítimo en el Caribe.\n\nEn cuanto a por qué parece no solo carecer de pátina histórica, sino también parecer un edificio moderno, hay principalmente las siguientes razones:\n\n1. Múltiples renovaciones pesadas: Después de perder sus funciones prácticas como aduana, el castillo fue abandonado por más de 60 años, e incluso enfrentó el peligro de colapso debido a la erosión costera. A partir de la década de 1940, se llevaron a cabo múltiples restauraciones a gran escala. Especialmente en los últimos años (como el proyecto de intervención a gran escala alrededor de 2022), para convertirlo en un destino turístico de clase mundial, el gobierno local incluso lo ha reconfigurado, eliminando todos los rastros de deterioro.\n\n2. Funciones comerciales modernas: Este edificio ahora sirve principalmente como un restaurante de alta cocina, mirador y lugar para eventos como bodas o conciertos. Para satisfacer estas necesidades comerciales y de entretenimiento modernas, se han agregado una gran cantidad de instalaciones modernas dentro y alrededor del castillo, e incluso se ha planificado un espacio de eventos de \"cubo de vidrio\" moderno y un sistema de iluminación moderno.\n\n3. Mantenimiento exterior extremadamente fino: A diferencia de aquellos sitios históricos que retienen piedras expuestas y muestran condiciones de intemperie, las paredes exteriores de Castle Salgar están pintadas con una pintura amarilla muy brillante y hermosa, y se mantienen con una frecuencia muy alta de repintado. Las paredes lisas, las piedras de pavimentación limpias y los arcos intactos enmascaran su atmósfera original de bastión de defensa militar rústico.\n\nEn resumen, es una fortaleza militar del siglo XIX que viste un \"abrigo exquisito moderno\". Dado que el enfoque de la restauración se inclina hacia el turismo y los banquetes comerciales, en lugar de la \"restauración arqueológica\" pura, le da a los visitantes una ilusión de un edificio pseudo-antiguo moderno."
+      },
+      {
+        "question": "¿Cuáles son los horarios de apertura de Castle Salgar?",
+        "answer": "Los horarios de apertura de Castle Salgar son los siguientes:\n\nLunes a viernes: 08:00–17:00\nSábado a domingo: 08:00–19:00\n\nSe recomienda ir por la tarde-noche, ya que puede disfrutar tanto de los edificios históricos durante el día como de las vistas nocturnas. Los horarios de apertura específicos pueden ajustarse debido a eventos especiales o feriados, por lo que se recomienda consultar Google Maps para obtener la información más reciente antes de viajar."
+      },
+      {
+        "question": "¿Necesito comprar entradas?",
+        "answer": "El castillo en sí es de entrada gratuita. Sin embargo, si planea cenar en el restaurante de alta cocina dentro del castillo, o asistir a eventos específicos, es posible que deba pagar tarifas correspondientes. Se recomienda consultar el menú y los precios del restaurante con anticipación, o consultar al personal del evento en el sitio."
+      },
+      {
+        "question": "¿Cómo llegar a Castle Salgar?",
+        "answer": "Castle Salgar se encuentra en el municipio de Puerto Colombia, Atlántico, a unos 20 minutos de Barranquilla.\n\nTransporte recomendado:\n1. Taxi/Vehículo de alquiler con conductor: La forma más conveniente, tome un taxi directamente desde el centro de Barranquilla.\n2. Conducción propia: Aproximadamente 20 minutos en automóvil, el castillo tiene estacionamiento.\n3. Transporte público: Tome un autobús desde Barranquilla a Puerto Colombia, luego tome un taxi al castillo.\n\nEl aeropuerto más cercano es el Aeropuerto Internacional Ernesto Cortisos (BAQ), a约 30 minutos del castillo."
+      },
+      {
+        "question": "¿Es Castle Salgar adecuado para viajes familiares?",
+        "answer": "Sí, Castle Salgar es muy adecuado para viajes familiares. El castillo tiene amplios espacios de actividades al aire libre donde los niños pueden correr y jugar en un entorno seguro. Al mismo tiempo, el restaurante de alta cocina del castillo también es adecuado para cenas familiares. Sin embargo, como el castillo está ubicado en la costa del Caribe con luz solar fuerte, se recomienda traer protector solar y abundante agua potable."
+      }
+    ]
+  }
+}
