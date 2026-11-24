@@ -13,7 +13,20 @@
         "route": "Camina desde la plaza del muelle hacia el acceso señalizado. Avanza solo hasta el cierre y regresa mirando tierra adentro hacia la antigua población portuaria.",
         "management": "Alcaldía de Puerto Colombia: espacio público costero. Restaurantes, alquileres y clubes tienen control independiente.",
         "question": "¿Puedo llegar hasta los pilotes antiguos?",
-        "answer": "Solo usa la sección habilitada; los restos aislados se contemplan desde ella."
+        "answer": "Solo usa la sección habilitada; los restos aislados se contemplan desde ella.",
+        "context": "El ferrocarril dio sentido a la longitud del muelle: llevar una carga sobre raíles evitaba descargar un buque en la propia playa. Imagina el recorrido completo en dos direcciones, hacia los barcos y hacia la estación en tierra. Así se aprecia por qué este pequeño municipio fue una puerta de entrada internacional.",
+        "q0": "¿Dónde se reconoce su escala original?",
+        "a0": "Busca la sucesión de apoyos en el agua más allá de la pasarela actual. Míralos de lado antes de subir para distinguir las separaciones.",
+        "q1": "¿Conviene continuar hasta la estación a pie?",
+        "a1": "En el casco de Puerto Colombia puedes enlazar la plaza con el sector de la antigua estación; el tramo hacia Barranquilla requiere otro traslado.",
+        "photo1": "Desde el arranque del muelle, alinea los pilotes hacia mar abierto.",
+        "photo2": "Desde la sección abierta, gira hacia la plaza para mostrar la relación con el pueblo.",
+        "caption": "Muelle histórico y frente marítimo de Puerto Colombia.",
+        "region": "Costa de Puerto Colombia",
+        "transport": "Desde Barranquilla toma transporte hacia Puerto Colombia y pide la parada más próxima al acceso indicado; Salgar, el muelle y Sabanilla tienen entradas distintas. Desde el castillo usa transporte local hasta ese punto.",
+        "stay": "Puerto Colombia centro facilita el regreso desde el muelle y ofrece servicios del pueblo. Salgar o Pradomar acercan al litoral y al castillo; comprueba cómo volver de noche antes de elegir alojamiento.",
+        "hours": "La ficha municipal registra 06:30–17:30 todos los días; consulta cierres de la plataforma antes de salir.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Puerto Colombia Pier",
@@ -21,7 +34,20 @@
         "route": "Walk from the pier square to the signed entrance. Turn back at the barrier and on the return look inland towards the old port town.",
         "management": "Municipality of Puerto Colombia for public coastal space. Restaurants, rentals and clubs manage their own services.",
         "question": "Can I reach the old piles?",
-        "answer": "Stay on the open deck and view the detached remains from there."
+        "answer": "Stay on the open deck and view the detached remains from there.",
+        "context": "The railway explains the pier's length. Rails allowed cargo to move between a ship and the mainland without unloading on the beach. Look in both directions, towards the former berths and towards the station on land. The alignment makes clear why a small coastal municipality could function as an international gateway.",
+        "q0": "Where is the old pier’s scale most apparent?",
+        "a0": "From shore, look sideways along the sequence of supports beyond the modern deck. Their spacing is easier to read before walking onto it.",
+        "q1": "Can I continue on foot to the station?",
+        "a1": "Within Puerto Colombia the plaza connects to the former station area. Reaching Barranquilla itself requires onward transport.",
+        "photo1": "At the landward end, align the piles towards the open sea.",
+        "photo2": "From the open deck turn towards the plaza to show the link to town.",
+        "caption": "Historic pier and Puerto Colombia waterfront.",
+        "region": "Puerto Colombia coast",
+        "transport": "From Barranquilla travel towards Puerto Colombia and request the stop nearest the specified entrance. Salgar, the pier and Sabanilla have different approaches. From the castle take local transport to that starting point.",
+        "stay": "Central Puerto Colombia makes the pier and town services easy to reach. Salgar or Pradomar place you closer to beach stops and the castle; check evening transport before choosing the coastal option.",
+        "hours": "The city directory lists 06:30–17:30 daily. Check for deck closures before leaving.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "哥伦比亚港历史码头",
@@ -29,9 +55,23 @@
         "route": "从码头广场走向有标识的桥头，只沿获准开放的桥面前行。到围栏折返，回程朝内陆看老港镇与码头的关系。",
         "management": "公共海岸空间归哥伦比亚港市管理；餐饮、租赁和俱乐部服务各自运营。",
         "question": "能走到旧桥桩处吗？",
-        "answer": "只走开放桥面，分离的旧桩需从开放处远望。"
+        "answer": "只走开放桥面，分离的旧桩需从开放处远望。",
+        "context": "理解这座长桥需要把铁路线也放进画面。货物可以在船边换上铁路，不必在浅滩上卸船。先朝旧泊位看，再回身寻找内陆车站方向，同一条直线解释了小港镇为何能成为国际门户。",
+        "q0": "在哪里最容易判断旧桥的规模？",
+        "a0": "先在岸侧斜看现代桥面外延续的旧桩，桩间距离比上桥后沿中轴看更清楚。",
+        "q1": "能继续走到车站吗？",
+        "a1": "在哥伦比亚港镇内可从广场衔接旧站一带，前往巴兰基亚市区则需另行搭车。",
+        "photo1": "在陆侧桥头沿桩列朝海取景。",
+        "photo2": "在开放桥面回望广场，把港镇摄入背景。",
+        "caption": "哥伦比亚港历史码头及海岸。",
+        "region": "哥伦比亚港海岸",
+        "transport": "从巴兰基亚搭往哥伦比亚港方向的交通，按本页具体入口向司机核对下车处。萨尔加尔、码头和萨瓦尼利亚使用不同入口，从城堡宜先搭当地交通至相应起点。",
+        "stay": "住哥伦比亚港镇中心方便往返码头和使用镇内服务。住萨尔加尔或普拉多马尔更靠近海岸和城堡，订房前先核对夜间返程交通。",
+        "hours": "市旅游目录列每日06:30至17:30，出发前核对桥面是否临时封闭。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "playa-pradomar",
@@ -47,7 +87,20 @@
         "route": "Usa el acceso público de Pradomar y sigue la arena firme paralela a los rompientes. Regresa por el mismo acceso antes de que la marea corte el paso.",
         "management": "Alcaldía de Puerto Colombia: espacio público costero. Restaurantes, alquileres y clubes tienen control independiente.",
         "question": "¿Dónde mirar el surf?",
-        "answer": "De costado a los rompientes, fuera de la trayectoria de tablas."
+        "answer": "De costado a los rompientes, fuera de la trayectoria de tablas.",
+        "context": "Esta playa funciona como un punto de observación en tierra tanto para surfistas como para acompañantes. La rompiente no ocupa toda la costa por igual: sigue una sola serie y observa dónde se vuelve espuma y por dónde regresan las tablas. Dos personas separadas a lo largo de la orilla pueden ver una sesión muy distinta.",
+        "q0": "¿Es necesario entrar en un club?",
+        "a0": "Para ver las olas usa un acceso público. Para usar duchas, sillas o instalaciones de un establecimiento consulta directamente al personal.",
+        "q1": "¿Cómo hacer una parada corta?",
+        "a1": "Quédate cerca de la salida y mira varias series desde el mismo lugar antes de seguir la orilla; no necesitas alquilar una tabla.",
+        "photo1": "Desde el borde seco encuadra una rompiente de lado.",
+        "photo2": "De regreso al acceso incluye la franja de arena y los surfistas al fondo.",
+        "caption": "Costa de Pradomar en Salgar.",
+        "region": "Costa de Puerto Colombia",
+        "transport": "Desde Barranquilla toma transporte hacia Puerto Colombia y pide la parada más próxima al acceso indicado; Salgar, el muelle y Sabanilla tienen entradas distintas. Desde el castillo usa transporte local hasta ese punto.",
+        "stay": "Puerto Colombia centro facilita el regreso desde el muelle y ofrece servicios del pueblo. Salgar o Pradomar acercan al litoral y al castillo; comprueba cómo volver de noche antes de elegir alojamiento.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Pradomar Beach",
@@ -55,7 +108,20 @@
         "route": "Take the public approach to Pradomar, then follow the firm sand parallel to the breakers. Return to that same exit before the water narrows the beach.",
         "management": "Municipality of Puerto Colombia for public coastal space. Restaurants, rentals and clubs manage their own services.",
         "question": "Where can I watch surfing?",
-        "answer": "Stand to the side of the breakers, clear of boards entering and leaving."
+        "answer": "Stand to the side of the breakers, clear of boards entering and leaving.",
+        "context": "Pradomar works as a shoreside viewing point for surfers and their companions. Breakers do not extend evenly along the coast. Follow a single set and see where it becomes white water and where boards return to shore. Two people standing a short distance apart can have very different views of the same session.",
+        "q0": "Do I need club admission?",
+        "a0": "Use a public beach approach to watch the waves. Ask staff before using a club’s showers, chairs or other facilities.",
+        "q1": "How should I use a short stop?",
+        "a1": "Stay near the beach exit and watch several sets from one position before walking along shore. No board rental is needed.",
+        "photo1": "From dry sand frame a breaker side-on.",
+        "photo2": "On the return to the entrance include the sand strip with surfers beyond.",
+        "caption": "Pradomar shore at Salgar.",
+        "region": "Puerto Colombia coast",
+        "transport": "From Barranquilla travel towards Puerto Colombia and request the stop nearest the specified entrance. Salgar, the pier and Sabanilla have different approaches. From the castle take local transport to that starting point.",
+        "stay": "Central Puerto Colombia makes the pier and town services easy to reach. Salgar or Pradomar place you closer to beach stops and the castle; check evening transport before choosing the coastal option.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "普拉多马尔海滩",
@@ -63,9 +129,23 @@
         "route": "由普拉多马尔的公共入口下滩，沿破浪线内侧的硬沙步行。海水开始收窄通道时，沿原路回到同一出口。",
         "management": "公共海岸空间归哥伦比亚港市管理；餐饮、租赁和俱乐部服务各自运营。",
         "question": "哪里适合看冲浪？",
-        "answer": "站在破浪线侧面，避开冲浪板进出海的位置。"
+        "answer": "站在破浪线侧面，避开冲浪板进出海的位置。",
+        "context": "这处海滩也适合陪同冲浪者的人在岸上欣赏。破浪段并非均匀覆盖整条海岸。选一组涌浪，看它在哪儿化作白沫，再看板手从哪儿回岸。沿岸相隔一小段距离，对同一次冲浪的视角就会明显不同。",
+        "q0": "看海一定要进俱乐部吗？",
+        "a0": "观浪可走公共通道，使用俱乐部的桌椅、淋浴间等设施须另问工作人员。",
+        "q1": "时间不多怎样安排？",
+        "a1": "留在靠近出口的地方，在同一站位连看几组浪，再沿岸走一小段即可，无需租板。",
+        "photo1": "在干沙处侧拍破浪。",
+        "photo2": "返回入口时，以沙地为前景，远端留出冲浪区域。",
+        "caption": "萨尔加尔的普拉多马尔海岸。",
+        "region": "哥伦比亚港海岸",
+        "transport": "从巴兰基亚搭往哥伦比亚港方向的交通，按本页具体入口向司机核对下车处。萨尔加尔、码头和萨瓦尼利亚使用不同入口，从城堡宜先搭当地交通至相应起点。",
+        "stay": "住哥伦比亚港镇中心方便往返码头和使用镇内服务。住萨尔加尔或普拉多马尔更靠近海岸和城堡，订房前先核对夜间返程交通。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "playa-solinilla",
@@ -81,7 +161,20 @@
         "route": "Entra por el acceso de Solinilla, identifica un punto de regreso en tierra y camina siguiendo la curva de arena. Vuelve antes de perder de vista la salida.",
         "management": "Alcaldía de Puerto Colombia: espacio público costero. Restaurantes, alquileres y clubes tienen control independiente.",
         "question": "¿Qué momento deja ver mejor la costa?",
-        "answer": "La luz baja dibuja la curva de la orilla; guarda luz para el regreso."
+        "answer": "La luz baja dibuja la curva de la orilla; guarda luz para el regreso.",
+        "context": "El paseo más revelador aquí es de ida y vuelta. En una dirección la luz se refleja sobre el agua; al girar, se ven las entradas y el perfil de la costa que a la ida quedaban a la espalda. Esta segunda lectura ayuda a localizar el camino de salida cuando la playa está concurrida.",
+        "q0": "¿Conviene caminar hasta otra playa?",
+        "a0": "Usa Solinilla como tramo independiente: la anchura de arena y los pasos disponibles cambian; vuelve por la entrada conocida.",
+        "q1": "¿Dónde fijar un punto de encuentro?",
+        "a1": "En el acceso terrestre de Solinilla. Un punto concreto en tierra es más fácil de volver a encontrar que una silla junto al agua.",
+        "photo1": "Desde la salida pública enmarca la curva de la orilla.",
+        "photo2": "En el extremo de tu paseo mira hacia tierra para situar el poblado respecto al mar.",
+        "caption": "Franja de playa en Solinilla.",
+        "region": "Costa de Puerto Colombia",
+        "transport": "Desde Barranquilla toma transporte hacia Puerto Colombia y pide la parada más próxima al acceso indicado; Salgar, el muelle y Sabanilla tienen entradas distintas. Desde el castillo usa transporte local hasta ese punto.",
+        "stay": "Puerto Colombia centro facilita el regreso desde el muelle y ofrece servicios del pueblo. Salgar o Pradomar acercan al litoral y al castillo; comprueba cómo volver de noche antes de elegir alojamiento.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Solinilla Beach",
@@ -89,7 +182,20 @@
         "route": "From the Solinilla access choose a conspicuous return landmark inland, then follow the curve of sand. Turn back while that exit is still visible.",
         "management": "Municipality of Puerto Colombia for public coastal space. Restaurants, rentals and clubs manage their own services.",
         "question": "When is the coastline easiest to see?",
-        "answer": "Low light outlines its curve; leave enough daylight to return."
+        "answer": "Low light outlines its curve; leave enough daylight to return.",
+        "context": "An out-and-back walk works particularly well here. In one direction light reflects off the water. On the return, landward entrances and the profile of the coast that were behind you come into view. It also helps identify the exit when visitors and beach furniture fill the back of the shore.",
+        "q0": "Should I walk all the way to another beach?",
+        "a0": "Treat Solinilla as its own walk. Sand width and available passages vary, so return through the entrance you know.",
+        "q1": "Where should our group meet?",
+        "a1": "At the landward Solinilla access. A fixed point inland is easier to find again than a chair by the water.",
+        "photo1": "From the public exit frame the curve of the waterline.",
+        "photo2": "At your turning point look landward to place the settlement in relation to the sea.",
+        "caption": "Beach at Solinilla.",
+        "region": "Puerto Colombia coast",
+        "transport": "From Barranquilla travel towards Puerto Colombia and request the stop nearest the specified entrance. Salgar, the pier and Sabanilla have different approaches. From the castle take local transport to that starting point.",
+        "stay": "Central Puerto Colombia makes the pier and town services easy to reach. Salgar or Pradomar place you closer to beach stops and the castle; check evening transport before choosing the coastal option.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "索利尼利亚海滩",
@@ -97,9 +203,23 @@
         "route": "从索利尼利亚入口先选一个靠陆侧的返程地标，再沿沙滩弧线走。趁还看得见出口时原路返回。",
         "management": "公共海岸空间归哥伦比亚港市管理；餐饮、租赁和俱乐部服务各自运营。",
         "question": "何时容易看清岸线？",
-        "answer": "低角度光线勾勒出弧线，记得预留天亮时的返程时间。"
+        "answer": "低角度光线勾勒出弧线，记得预留天亮时的返程时间。",
+        "context": "往返比单向走更容易看懂这里。一程面向水面反光，回身时，来路背后的出入口和岸线轮廓会进入视野。人多、遮阳设施摆满后缘时，这种观察方式还能帮助辨认回镇的通道。",
+        "q0": "建议沿岸一直走到下一处海滩吗？",
+        "a0": "把索利尼利亚当作独立一段。沙面宽度和可走通道会变化，沿熟悉入口返回更可靠。",
+        "q1": "结伴走散后在哪里集合？",
+        "a1": "选索利尼利亚陆侧入口，固定路口比靠水的临时桌椅容易辨认。",
+        "photo1": "从公共出口拍弧形岸线。",
+        "photo2": "折返点朝陆侧取景，表现聚落和海岸的距离。",
+        "caption": "索利尼利亚海滩。",
+        "region": "哥伦比亚港海岸",
+        "transport": "从巴兰基亚搭往哥伦比亚港方向的交通，按本页具体入口向司机核对下车处。萨尔加尔、码头和萨瓦尼利亚使用不同入口，从城堡宜先搭当地交通至相应起点。",
+        "stay": "住哥伦比亚港镇中心方便往返码头和使用镇内服务。住萨尔加尔或普拉多马尔更靠近海岸和城堡，订房前先核对夜间返程交通。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "playas-de-sabanilla-sector-country",
@@ -115,7 +235,20 @@
         "route": "Desde el área de llegada sigue el itinerario señalizado hasta las carpas; vuelve por el lado de los servicios para localizar baños y salida accesible.",
         "management": "Alcaldía de Puerto Colombia: espacio público costero. Restaurantes, alquileres y clubes tienen control independiente.",
         "question": "¿Dónde están los servicios?",
-        "answer": "En el sector organizado detrás de las carpas; confirma allí la ruta accesible."
+        "answer": "En el sector organizado detrás de las carpas; confirma allí la ruta accesible.",
+        "context": "Aquí la primera impresión no es un paisaje vacío sino una playa organizada por usos. Compara el ancho de los corredores con la ocupación de las carpas. Una familia puede separar el momento de juego de la comida y del baño; los pasos comunes deben quedar despejados para quienes se desplazan con apoyo.",
+        "q0": "¿Es la misma entrada que cualquier playa de Sabanilla?",
+        "a0": "Busca el sector Country en el mapa. El nombre de toda la costa no identifica las zonas de baños y carpas de este sector.",
+        "q1": "¿Puedo dejar objetos en el paso accesible?",
+        "a1": "Colócalos dentro del área que ocupas. El corredor entre servicios y playa tiene que seguir libre.",
+        "photo1": "Desde el paso de llegada muestra la transición entre servicios y arena.",
+        "photo2": "Desde la arena gira hacia la línea de carpas sin retratar a los usuarios de cerca.",
+        "caption": "Sector Country de las playas de Sabanilla.",
+        "region": "Costa de Puerto Colombia",
+        "transport": "Desde Barranquilla toma transporte hacia Puerto Colombia y pide la parada más próxima al acceso indicado; Salgar, el muelle y Sabanilla tienen entradas distintas. Desde el castillo usa transporte local hasta ese punto.",
+        "stay": "Puerto Colombia centro facilita el regreso desde el muelle y ofrece servicios del pueblo. Salgar o Pradomar acercan al litoral y al castillo; comprueba cómo volver de noche antes de elegir alojamiento.",
+        "hours": "El directorio turístico indica 08:00–18:00 para el sector organizado. Confirma los servicios disponibles al llegar.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Sabanilla Beach, Country sector",
@@ -123,7 +256,20 @@
         "route": "From the arrival area follow the marked passage towards the shade tents. Return along the service side to locate the toilets and accessible exit.",
         "management": "Municipality of Puerto Colombia for public coastal space. Restaurants, rentals and clubs manage their own services.",
         "question": "Where are the facilities?",
-        "answer": "In the serviced area behind the tents. Check the accessible route there."
+        "answer": "In the serviced area behind the tents. Check the accessible route there.",
+        "context": "This is a beach laid out by activity. Compare the width of the circulation lanes with the occupation of the tent area. Families can separate games, meals and the trip to the water. Shared passages matter especially for visitors using mobility aids, who depend on an unobstructed route back to the facilities.",
+        "q0": "Will any Sabanilla beach entrance do?",
+        "a0": "Look for the Country sector. The coast’s general name will not pinpoint this sector’s toilets and tent area.",
+        "q1": "Can I leave beach gear on the accessible passage?",
+        "a1": "Keep it inside your own sitting area so the connection between facilities and beach remains clear.",
+        "photo1": "From the arrival passage show the transition from facilities to sand.",
+        "photo2": "From the sand turn towards the shade tents, avoiding close-ups of users.",
+        "caption": "Sabanilla beaches, Country sector.",
+        "region": "Puerto Colombia coast",
+        "transport": "From Barranquilla travel towards Puerto Colombia and request the stop nearest the specified entrance. Salgar, the pier and Sabanilla have different approaches. From the castle take local transport to that starting point.",
+        "stay": "Central Puerto Colombia makes the pier and town services easy to reach. Salgar or Pradomar place you closer to beach stops and the castle; check evening transport before choosing the coastal option.",
+        "hours": "The tourism directory lists 08:00–18:00 for the serviced sector. Check individual facilities on arrival.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "萨瓦尼利亚海滩乡村俱乐部段",
@@ -131,9 +277,23 @@
         "route": "由到达区循标识通往帐篷区，再沿服务设施一侧折返，认清洗手间及无障碍出口。",
         "management": "公共海岸空间归哥伦比亚港市管理；餐饮、租赁和俱乐部服务各自运营。",
         "question": "服务设施在哪里？",
-        "answer": "在帐篷后方的服务区，可在那里核对当日无障碍路线。"
+        "answer": "在帐篷后方的服务区，可在那里核对当日无障碍路线。",
+        "context": "这里的特色是按活动划分空间。比较公共通道宽度和帐篷区占地，可以看出游戏、用餐、下水可以各自安排。对于使用辅助器具的人，通道是否畅通直接决定能否顺利回到服务区。",
+        "q0": "搜萨瓦尼利亚海滩就能到吗？",
+        "a0": "请同时加上Country区段，整个海岸的通用名称未必会导至这里的淋浴与帐篷设施。",
+        "q1": "可以把沙滩用品放通道上吗？",
+        "a1": "物品放自己使用的区域，服务设施与沙滩间的通道应保持畅通。",
+        "photo1": "从抵达通道表现设施到沙面的过渡。",
+        "photo2": "站在沙面回望帐篷区，避开游客特写。",
+        "caption": "萨瓦尼利亚海岸Country区段。",
+        "region": "哥伦比亚港海岸",
+        "transport": "从巴兰基亚搭往哥伦比亚港方向的交通，按本页具体入口向司机核对下车处。萨尔加尔、码头和萨瓦尼利亚使用不同入口，从城堡宜先搭当地交通至相应起点。",
+        "stay": "住哥伦比亚港镇中心方便往返码头和使用镇内服务。住萨尔加尔或普拉多马尔更靠近海岸和城堡，订房前先核对夜间返程交通。",
+        "hours": "市旅游目录列该服务区08:00至18:00，具体设施开放情况到场核对。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "playa-cano-dulce",
@@ -149,7 +309,20 @@
         "route": "Llega al sector de quioscos de Caño Dulce, sal por un paso público hacia el mar y recorre la arena frente a la línea de palmas. Regresa por el mismo paso.",
         "management": "Alcaldía de Tubará: acceso público de playa. Las marinas y los prestadores náuticos fijan el acceso a sus instalaciones.",
         "question": "¿Hay sombra para descansar?",
-        "answer": "Los quioscos y árboles quedan al fondo de la playa; pregunta si el mobiliario tiene consumo."
+        "answer": "Los quioscos y árboles quedan al fondo de la playa; pregunta si el mobiliario tiene consumo.",
+        "context": "El paseo se entiende mejor en dos franjas. Desde la arena se ve la cubierta vegetal que protege los quioscos; al regresar por el borde de los árboles se aprecia cuánto cambia el ambiente entre sol y sombra. Los quioscos son servicios independientes y no constituyen un único establecimiento con tarifa común.",
+        "q0": "¿Dónde empezar antes de almorzar?",
+        "a0": "Camina primero frente a los quioscos para reconocer la salida; al volver podrás comparar en persona las opciones de comida.",
+        "q1": "¿Pertenece a Puerto Colombia?",
+        "a1": "Caño Dulce pertenece a Tubará. Organiza el traslado desde Salgar hasta este municipio antes de empezar el paseo a pie.",
+        "photo1": "Desde el borde de sombra encuadra la playa bajo el arbolado.",
+        "photo2": "En la arena seca mira hacia los quioscos para situar el servicio de playa.",
+        "caption": "Playa Caño Dulce en Tubará.",
+        "region": "Costa de Atlántico",
+        "transport": "Desde Barranquilla o Puerto Colombia organiza el trayecto por la Vía al Mar hasta el ramal de la playa. Pide al conductor bajar en el acceso público, no en una marina o club privado.",
+        "stay": "Santa Verónica permite empezar temprano a caminar por la costa de Juan de Acosta. Puerto Colombia centro facilita combinar el muelle y Salgar; desde allí reserva el traslado por carretera para este balneario.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Caño Dulce Beach",
@@ -157,7 +330,20 @@
         "route": "Arrive at the Caño Dulce kiosks. Take a public passage to the water and walk in front of the palm line; return through the same opening.",
         "management": "Tubará municipality oversees public beach access. Marinas and boating operators control their own facilities.",
         "question": "Where is the shade?",
-        "answer": "At the kiosks and trees behind the beach. Ask whether use of furniture requires a purchase."
+        "answer": "At the kiosks and trees behind the beach. Ask whether use of furniture requires a purchase.",
+        "context": "Read the beach in two bands. From the open sand you can see the vegetation sheltering the kiosks. On the return, walk along the edge of the trees to feel how quickly the setting changes between sun and shade. The kiosks are independent businesses rather than one resort with a single tariff.",
+        "q0": "Where should I start before lunch?",
+        "a0": "Walk in front of the kiosks first so you recognise the exit. On the return you can compare lunch options in person.",
+        "q1": "Is it in Puerto Colombia?",
+        "a1": "Caño Dulce is in Tubará. Travel from Salgar to that municipality before starting the shore walk.",
+        "photo1": "From the edge of shade frame the sand beneath the trees.",
+        "photo2": "From dry sand look back to the kiosks for the beach-service setting.",
+        "caption": "Caño Dulce Beach in Tubará.",
+        "region": "Atlántico coast",
+        "transport": "From Barranquilla or Puerto Colombia arrange transport along Vía al Mar to the beach turnoff. Ask for the public entrance rather than a private club or marina.",
+        "stay": "Santa Verónica suits an early start on the Juan de Acosta coast. Central Puerto Colombia works better for combining the pier and Salgar, with a separate road transfer to this beach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "卡尼奥杜尔塞海滩",
@@ -165,9 +351,23 @@
         "route": "抵达卡尼奥杜尔塞的小亭区，经公共通道向海，沿棕榈树列前方散步，再由原通道回去。",
         "management": "图瓦拉市负责公共海滩通行；游艇码头和水上运动服务商分别管理各自设施。",
         "question": "哪里可以歇脚？",
-        "answer": "沙滩后缘的树木、小亭有遮阴，使用桌椅前先问是否需要消费。"
+        "answer": "沙滩后缘的树木、小亭有遮阴，使用桌椅前先问是否需要消费。",
+        "context": "这处海滩可分两带观察。在开阔沙地看后方为小亭遮阴的树冠，回程则沿树缘比较日晒与阴影之间的变化。各小亭独立经营，不能将整片海滩当成统一收费的度假区。",
+        "q0": "午饭前先怎么走？",
+        "a0": "先沿食亭前方走一段并记住出口，回程再比较各亭当天提供的菜品。",
+        "q1": "这里属于哥伦比亚港吗？",
+        "a1": "卡尼奥杜尔塞属图瓦拉，先从萨尔加尔搭车到该市镇再开始海滩步行。",
+        "photo1": "从树荫边缘透过枝叶拍沙滩。",
+        "photo2": "在干沙处向小亭取景，展示海滨服务带。",
+        "caption": "图瓦拉的卡尼奥杜尔塞海滩。",
+        "region": "大西洋省海岸",
+        "transport": "从巴兰基亚或哥伦比亚港沿滨海公路到对应海滩岔口，向司机说明要到公共入口，而非私人俱乐部或游艇码头。",
+        "stay": "住圣韦罗尼卡适合清早探索胡安德阿科斯塔海岸。住哥伦比亚港镇中心更方便衔接码头和萨尔加尔，但到这处海滩需要另外搭车。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "playa-puerto-velero",
@@ -183,7 +383,20 @@
         "route": "Desde la entrada de playa avanza por la arena pública hacia la vista de los veleros. Da la vuelta antes de los muelles de servicio y evita los corredores de embarcaciones.",
         "management": "Alcaldía de Tubará: acceso público de playa. Las marinas y los prestadores náuticos fijan el acceso a sus instalaciones.",
         "question": "¿Puedo caminar por la marina?",
-        "answer": "Los pantalanes tienen control propio; usa la playa para observar los barcos."
+        "answer": "Los pantalanes tienen control propio; usa la playa para observar los barcos.",
+        "context": "El atractivo de la escala náutica está en observar desde tierra cómo conviven tres usos: la arena para caminar, el espacio donde se preparan embarcaciones y las instalaciones de servicio. Reconocer esos límites aporta más a la visita que acercarse a un pantalán sin saber si está abierto.",
+        "q0": "¿Es un embarcadero público para cualquier salida?",
+        "a0": "Las excursiones y salidas dependen del operador. Acuerda antes el punto de presentación, especialmente si llegas solo para pasear.",
+        "q1": "¿Desde dónde comparar la costa y las velas?",
+        "a1": "Desde la arena pública con la línea de mástiles de lado; así entran en el mismo encuadre la playa y la actividad náutica.",
+        "photo1": "Desde el sector público alinea las velas con el horizonte.",
+        "photo2": "Con los muelles de lado encuadra la separación entre zona náutica y arena.",
+        "caption": "Litoral de Puerto Velero.",
+        "region": "Costa de Atlántico",
+        "transport": "Desde Barranquilla o Puerto Colombia organiza el trayecto por la Vía al Mar hasta el ramal de la playa. Pide al conductor bajar en el acceso público, no en una marina o club privado.",
+        "stay": "Santa Verónica permite empezar temprano a caminar por la costa de Juan de Acosta. Puerto Colombia centro facilita combinar el muelle y Salgar; desde allí reserva el traslado por carretera para este balneario.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Puerto Velero Beach",
@@ -191,7 +404,20 @@
         "route": "Take the beach entrance and walk on public sand towards the view of the sailboats. Turn before the service piers, keeping boat lanes clear.",
         "management": "Tubará municipality oversees public beach access. Marinas and boating operators control their own facilities.",
         "question": "Can I walk through the marina?",
-        "answer": "Its pontoons have their own access controls. View the boats from public sand."
+        "answer": "Its pontoons have their own access controls. View the boats from public sand.",
+        "context": "From shore you can distinguish three uses: sand for walking, space for preparing boats and service infrastructure. Learning to read those boundaries makes a more rewarding visit than approaching a pontoon without knowing whether it is open. Watch the approach to the marina from the public side instead.",
+        "q0": "Can I use any dock for a trip?",
+        "a0": "Departures are managed by individual operators. Agree the meeting point first, especially if you arrive via the beach entrance.",
+        "q1": "Where can I see both the beach and sails?",
+        "a1": "Stand on public sand with the mast line to one side. The shore and boating activity then fit in the same view.",
+        "photo1": "From the public sector line up sails against the horizon.",
+        "photo2": "With the piers to one side show how the boating area meets the sand.",
+        "caption": "Puerto Velero waterfront.",
+        "region": "Atlántico coast",
+        "transport": "From Barranquilla or Puerto Colombia arrange transport along Vía al Mar to the beach turnoff. Ask for the public entrance rather than a private club or marina.",
+        "stay": "Santa Verónica suits an early start on the Juan de Acosta coast. Central Puerto Colombia works better for combining the pier and Salgar, with a separate road transfer to this beach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "贝莱罗港海滩",
@@ -199,9 +425,23 @@
         "route": "由海滩入口沿公共沙地向可看见帆船的位置步行，服务码头前折返，避开船艇通道。",
         "management": "图瓦拉市负责公共海滩通行；游艇码头和水上运动服务商分别管理各自设施。",
         "question": "码头栈桥能随意走吗？",
-        "answer": "浮桥有独立出入管理，从公共沙滩也可以观看船艇。"
+        "answer": "浮桥有独立出入管理，从公共沙滩也可以观看船艇。",
+        "context": "看懂这处海岸的要点，是从陆上分清三种用途：游客行走的沙地、准备船艇的区域，以及后勤设施。认清边界比贸然走上不知是否开放的浮桥更有收获，在公共一侧也能观察船只进出。",
+        "q0": "海上活动能从任一泊位集合吗？",
+        "a0": "不同运营方的集合点可能不同，从公共海滩入口抵达时尤其要先确认。",
+        "q1": "哪里能同时拍到海滩和帆船？",
+        "a1": "站在公共沙地，让桅杆列位于侧面，沙滩与行船就能进入同一画面。",
+        "photo1": "从公共区拍帆与地平线。",
+        "photo2": "以码头为侧景展示船艇区与沙滩边界。",
+        "caption": "贝莱罗港海岸。",
+        "region": "大西洋省海岸",
+        "transport": "从巴兰基亚或哥伦比亚港沿滨海公路到对应海滩岔口，向司机说明要到公共入口，而非私人俱乐部或游艇码头。",
+        "stay": "住圣韦罗尼卡适合清早探索胡安德阿科斯塔海岸。住哥伦比亚港镇中心更方便衔接码头和萨尔加尔，但到这处海滩需要另外搭车。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "playa-de-santa-veronica",
@@ -217,7 +457,20 @@
         "route": "Parte del acceso del poblado de Santa Verónica, camina frente a los restaurantes sin cruzar las mesas y vuelve al acceso por la franja seca.",
         "management": "Alcaldía de Juan de Acosta: orientación y avisos de playas. Las escuelas y restaurantes gestionan su oferta por separado.",
         "question": "¿Cómo combinar playa y pueblo?",
-        "answer": "Entra por una calle pública del poblado y vuelve por ella para comer; anota el punto de salida."
+        "answer": "Entra por una calle pública del poblado y vuelve por ella para comer; anota el punto de salida.",
+        "context": "Santa Verónica es un balneario dentro de un municipio más amplio. El valor de detenerse en el poblado está en ver cómo los servicios de comida se orientan a la playa y cómo las calles conducen a la arena. No hace falta reservar una experiencia náutica para apreciar esta relación cotidiana con el mar.",
+        "q0": "¿Sirve como base para visitar Salinas del Rey?",
+        "a0": "Son paradas del mismo municipio. Confirma transporte entre los accesos en vez de contar con una caminata continua por arena.",
+        "q1": "¿Qué se puede hacer sin bañarse?",
+        "a1": "Recorre la franja de palmas y vuelve al poblado a comer. El circuito no depende de entrar al agua.",
+        "photo1": "Desde la entrada del poblado mira hacia las palmas y el agua.",
+        "photo2": "Desde el borde seco vuelve la cámara hacia la fachada marítima del pueblo.",
+        "caption": "Frente de playa de Santa Verónica.",
+        "region": "Costa de Atlántico",
+        "transport": "Desde Barranquilla o Puerto Colombia organiza el trayecto por la Vía al Mar hasta el ramal de la playa. Pide al conductor bajar en el acceso público, no en una marina o club privado.",
+        "stay": "Santa Verónica permite empezar temprano a caminar por la costa de Juan de Acosta. Puerto Colombia centro facilita combinar el muelle y Salgar; desde allí reserva el traslado por carretera para este balneario.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Santa Verónica Beach",
@@ -225,7 +478,20 @@
         "route": "Start at the village beach approach. Walk seaward of the restaurants without crossing their dining areas, then return along dry sand.",
         "management": "Juan de Acosta municipality provides beach notices and visitor guidance. Schools and restaurants operate separately.",
         "question": "How do I combine the village and the beach?",
-        "answer": "Use a public street to reach the sand and return along it for lunch; note the exit before walking."
+        "answer": "Use a public street to reach the sand and return along it for lunch; note the exit before walking.",
+        "context": "Santa Verónica is a seaside settlement within the larger Juan de Acosta municipality. Stop to see how meal services face the beach and how village streets lead onto the sand. You do not need a boat trip to see the ordinary working relationship between the settlement and the sea.",
+        "q0": "Can I combine it with Salinas del Rey?",
+        "a0": "Both stops are in the same municipality. Check transport between their entrances rather than assuming a continuous beach walk.",
+        "q1": "What if I am not swimming?",
+        "a1": "Walk the palm-lined shore and return to the village for a meal. The route works entirely on land.",
+        "photo1": "From the village approach look towards palms and water.",
+        "photo2": "From dry sand turn the camera towards the village seafront.",
+        "caption": "Santa Verónica beachfront.",
+        "region": "Atlántico coast",
+        "transport": "From Barranquilla or Puerto Colombia arrange transport along Vía al Mar to the beach turnoff. Ask for the public entrance rather than a private club or marina.",
+        "stay": "Santa Verónica suits an early start on the Juan de Acosta coast. Central Puerto Colombia works better for combining the pier and Salgar, with a separate road transfer to this beach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "圣韦罗尼卡海滩",
@@ -233,9 +499,23 @@
         "route": "由圣韦罗尼卡村内通道下滩，在餐厅朝海的一侧步行，绕开餐桌后沿干沙返回。",
         "management": "胡安德阿科斯塔市提供海滩通告和访客指引，运动学校与餐厅独立经营。",
         "question": "如何把村镇和海滩串起来？",
-        "answer": "从村内公共街道下滩，记住出口，散步后沿原路回村吃饭。"
+        "answer": "从村内公共街道下滩，记住出口，散步后沿原路回村吃饭。",
+        "context": "圣韦罗尼卡是胡安德阿科斯塔境内的海滨聚落。观察餐厅如何朝向沙滩、村街如何通到海边，就能读懂当地居民与海之间的日常关系，不必另外预订船程。",
+        "q0": "能与萨利纳斯德尔雷一起走吗？",
+        "a0": "两处同属一个市镇，但应确认两个入口间的交通，不要假定沙滩全程可步行。",
+        "q1": "不下水能做什么？",
+        "a1": "沿棕榈岸线走一段后回村用餐，整个线路在陆上即可完成。",
+        "photo1": "从村口向棕榈与海面取景。",
+        "photo2": "从干沙处回望村镇临海一侧。",
+        "caption": "圣韦罗尼卡的海滩前缘。",
+        "region": "大西洋省海岸",
+        "transport": "从巴兰基亚或哥伦比亚港沿滨海公路到对应海滩岔口，向司机说明要到公共入口，而非私人俱乐部或游艇码头。",
+        "stay": "住圣韦罗尼卡适合清早探索胡安德阿科斯塔海岸。住哥伦比亚港镇中心更方便衔接码头和萨尔加尔，但到这处海滩需要另外搭车。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "playa-de-salinas-del-rey",
@@ -251,7 +531,20 @@
         "route": "Ubica el acceso público y pregunta dónde empieza la zona de despegue. Camina por fuera de esa zona hasta un punto lateral y vuelve sin pasar bajo las cometas.",
         "management": "Alcaldía de Juan de Acosta: orientación y avisos de playas. Las escuelas y restaurantes gestionan su oferta por separado.",
         "question": "¿Puedo cruzar el área de cometas?",
-        "answer": "Respeta la separación indicada por los monitores, incluso con las líneas en tierra."
+        "answer": "Respeta la separación indicada por los monitores, incluso con las líneas en tierra.",
+        "context": "El circuito deportivo dejó aquí un público acostumbrado a leer el cielo tanto como el agua. Antes de empezar a caminar, observa dónde se levantan las cometas y dónde vuelven a tierra. Esa geografía de lanzamiento y recogida cambia con el viento y organiza la experiencia del espectador.",
+        "q0": "¿Es lo mismo mirar una sesión que tomar clase?",
+        "a0": "La observación se hace desde fuera del área técnica. Una clase requiere contratar con una escuela y seguir sus indicaciones de equipo.",
+        "q1": "¿Dónde ver cómo funciona una salida?",
+        "a1": "Busca un punto lateral autorizado por el personal para ver el paso de la cometa desde la arena al aire.",
+        "photo1": "Desde fuera del despegue enmarca una cometa contra el cielo.",
+        "photo2": "Más atrás en la arena muestra a la vez la línea de costa y el área deportiva.",
+        "caption": "Deportes de viento en Salinas del Rey.",
+        "region": "Costa de Atlántico",
+        "transport": "Desde Barranquilla o Puerto Colombia organiza el trayecto por la Vía al Mar hasta el ramal de la playa. Pide al conductor bajar en el acceso público, no en una marina o club privado.",
+        "stay": "Santa Verónica permite empezar temprano a caminar por la costa de Juan de Acosta. Puerto Colombia centro facilita combinar el muelle y Salgar; desde allí reserva el traslado por carretera para este balneario.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Salinas del Rey kite beach",
@@ -259,7 +552,20 @@
         "route": "Locate the public entrance and ask where the launch zone begins. Walk around it to a side-on viewing spot and retrace your steps without passing beneath kites.",
         "management": "Juan de Acosta municipality provides beach notices and visitor guidance. Schools and restaurants operate separately.",
         "question": "Can I cross the kite zone?",
-        "answer": "Follow instructors' boundaries even while kite lines are lying on the ground."
+        "answer": "Follow instructors' boundaries even while kite lines are lying on the ground.",
+        "context": "Competition brought an audience used to reading the sky as well as the water. Before walking, identify where kites rise and where they are brought down. That launch-and-recovery geography changes with the wind and determines where spectators can stand without interfering with a session.",
+        "q0": "Is spectating the same as taking a lesson?",
+        "a0": "Watch from outside the technical area. For instruction, contact a school and follow its equipment requirements.",
+        "q1": "Where can I see a launch?",
+        "a1": "Choose a side position approved by staff to see the transition from rigging on sand to flight.",
+        "photo1": "From outside the launch zone frame a kite against the sky.",
+        "photo2": "Further back on the sand include both shoreline and riding area.",
+        "caption": "Wind sports at Salinas del Rey.",
+        "region": "Atlántico coast",
+        "transport": "From Barranquilla or Puerto Colombia arrange transport along Vía al Mar to the beach turnoff. Ask for the public entrance rather than a private club or marina.",
+        "stay": "Santa Verónica suits an early start on the Juan de Acosta coast. Central Puerto Colombia works better for combining the pier and Salgar, with a separate road transfer to this beach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "萨利纳斯德尔雷风筝冲浪海滩",
@@ -267,9 +573,23 @@
         "route": "在公共入口询问起飞区边界，沿外围步行到侧向观赛位置，返程不要从风筝下方穿过。",
         "management": "胡安德阿科斯塔市提供海滩通告和访客指引，运动学校与餐厅独立经营。",
         "question": "风筝平放时能穿行吗？",
-        "answer": "仍要遵守教练划定的边界，不能从铺开的风筝线之间穿过。"
+        "answer": "仍要遵守教练划定的边界，不能从铺开的风筝线之间穿过。",
+        "context": "赛事让这段海岸的观众学会既看水面也读天空。散步前先辨认风筝从哪儿升空、又在哪儿回收。起降布局随风向改变，这会决定游客站在哪里既看得清楚又不干扰运动。",
+        "q0": "围观和上课需要同样安排吗？",
+        "a0": "观众留在技术区外围，参加课程则须与学校联系并按教练要求准备装备。",
+        "q1": "哪儿最能看清起飞过程？",
+        "a1": "在工作人员允许的侧向位置，能看到风筝由沙地准备转入升空的连续过程。",
+        "photo1": "在起飞区外围以天空作背景拍风筝。",
+        "photo2": "后退至沙滩陆侧，同时表现岸线和运动区。",
+        "caption": "萨利纳斯德尔雷的风筝运动。",
+        "region": "大西洋省海岸",
+        "transport": "从巴兰基亚或哥伦比亚港沿滨海公路到对应海滩岔口，向司机说明要到公共入口，而非私人俱乐部或游艇码头。",
+        "stay": "住圣韦罗尼卡适合清早探索胡安德阿科斯塔海岸。住哥伦比亚港镇中心更方便衔接码头和萨尔加尔，但到这处海滩需要另外搭车。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "ecoparque-cienaga-de-mallorquin",
@@ -285,7 +605,20 @@
         "route": "Entra por el control del ecoparque y confirma qué tramo de pasarela está habilitado. Sigue ese recorrido hasta el primer claro sobre el agua y regresa sobre la plataforma.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe y el Distrito de Barranquilla publican información del circuito. Confirma el acceso del día en el control o taquilla de esta parada.",
         "question": "¿Se entra entre las raíces?",
-        "answer": "La observación se hace desde el recorrido habilitado; no se baja al manglar."
+        "answer": "La observación se hace desde el recorrido habilitado; no se baja al manglar.",
+        "context": "El borde de laguna no es uniforme. Donde el manglar se cierra, la vista se concentra en raíces y pequeños movimientos; al abrirse la vegetación, se aprende a distinguir una lámina continua de agua. Alternar ambas escalas es una forma de recorrer el parque sin salir de la infraestructura de observación.",
+        "q0": "¿Qué mirar sin binoculares?",
+        "a0": "La forma en que las raíces penetran el agua y los cambios de vegetación entre sombra y claro se ven desde la pasarela.",
+        "q1": "¿A qué entrada debo dirigirme?",
+        "a1": "Al acceso anunciado por el Ecoparque Ciénaga de Mallorquín para ese día; la laguna tiene más de una ribera.",
+        "photo1": "Desde un claro de la pasarela encuadra la lámina de agua.",
+        "photo2": "Desde una sección sombreada fotografía las raíces sin bajar al fango.",
+        "caption": "Pasarela y mangle de la Ciénaga de Mallorquín.",
+        "region": "Ribera y norte de Barranquilla",
+        "transport": "Desde Puerto Colombia llega primero al norte de Barranquilla. Usa transporte urbano o taxi hasta la entrada concreta de la ficha; el corredor fluvial es largo y los accesos no son intercambiables.",
+        "stay": "Riomar o Alto Prado acortan los traslados a los accesos del norte. El Prado conviene para combinar la ribera con un día de arquitectura; calcula el regreso al hotel después de un programa nocturno.",
+        "hours": "El directorio municipal indica martes a domingo 06:00–18:00. Comprueba la última admisión y los sectores habilitados con el ecoparque.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "Mallorquín Lagoon Ecopark",
@@ -293,7 +626,20 @@
         "route": "At the ecopark checkpoint ask which boardwalk is open. Stay on it to the first unobstructed view of the lagoon; return on the raised platform.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe, and Barranquilla District publish information for this circuit. Confirm access at this stop’s gate or ticket desk.",
         "question": "Can I go among the roots?",
-        "answer": "Observe from the designated visitor route; stay out of the mangroves."
+        "answer": "Observe from the designated visitor route; stay out of the mangroves.",
+        "context": "The lagoon edge is uneven. Where the mangroves close in, roots and small movements become the focus. Where vegetation opens, a continuous sheet of water comes into view. Alternating between those two scales is a rewarding way to explore without stepping off the observation infrastructure.",
+        "q0": "What can I see without binoculars?",
+        "a0": "Look for roots entering the water and the change in vegetation between shaded and open sections of boardwalk.",
+        "q1": "Which entrance should I use?",
+        "a1": "Use the entrance announced by Ecoparque Ciénaga de Mallorquín for the day. The lagoon has more than one shore.",
+        "photo1": "From a break in the boardwalk canopy frame the lagoon surface.",
+        "photo2": "From a shaded section photograph the roots without entering the mud.",
+        "caption": "Boardwalk and mangrove at Mallorquín Lagoon.",
+        "region": "North Barranquilla and its waterside",
+        "transport": "From Puerto Colombia reach northern Barranquilla first. Take city transport or a taxi to the specific entry in this guide. The long river corridor has several entrances which are not interchangeable.",
+        "stay": "Riomar or Alto Prado shorten transfers to the northern entrances. El Prado suits a river visit paired with an architectural day; plan the return to your hotel after evening activities.",
+        "hours": "The city directory lists Tuesday–Sunday 06:00–18:00. Check last admission and accessible boardwalks with the park.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "马略尔金潟湖生态公园",
@@ -301,9 +647,23 @@
         "route": "从生态公园出入口询问当天开放的栈道，沿开放段走到第一处视野开阔的水面，再沿架高步道返回。",
         "management": "Puerta de Oro加勒比发展公司及巴兰基亚特区发布游线信息。实际进入范围请在本景点门岗或票务处核对。",
         "question": "可以下到树根间吗？",
-        "answer": "沿开放步道观察，不进入红树林泥地。"
+        "answer": "沿开放步道观察，不进入红树林泥地。",
+        "context": "潟湖边缘并不单一。红树林密合处适合看根系与细小动静，植被疏开时又能看见连片水面。在这两种尺度间切换，是一条不离开观景设施也能深入理解湿地的走法。",
+        "q0": "没带望远镜看什么？",
+        "a0": "看树根如何伸入水中，并比较栈道阴影段与开阔段的植被变化。",
+        "q1": "应该去哪个入口？",
+        "a1": "以马略尔金潟湖生态公园当天公布的访客入口为准，潟湖有多段岸线。",
+        "photo1": "从栈道林隙取开阔水面。",
+        "photo2": "在栈道阴影段取根系细节，勿下泥地。",
+        "caption": "马略尔金潟湖栈道与红树林。",
+        "region": "巴兰基亚北部与滨水区",
+        "transport": "从哥伦比亚港先到巴兰基亚北部，再换市内交通或出租车至本页所列具体入口。滨水走廊很长，不同入口不可混用。",
+        "stay": "住里奥马尔或上普拉多可缩短前往北部入口的车程。住普拉多更方便把滨水与建筑散步结合，若参加夜间活动应事先安排返程。",
+        "hours": "市旅游目录列周二至周日06:00至18:00，末次入园及开放栈道请核对公园当日公告。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "60–90"
   },
   {
     "slug": "playa-puerto-mocho",
@@ -319,7 +679,20 @@
         "route": "Localiza la estación de Las Flores y confirma el transporte autorizado hasta Puerto Mocho. Desde la llegada camina por la zona de playa señalizada y vuelve al mismo desembarque.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe y el Distrito de Barranquilla publican información del circuito. Confirma el acceso del día en el control o taquilla de esta parada.",
         "question": "¿El viaje desde Las Flores es parte del paseo?",
-        "answer": "Sí; revisa la salida y la última conexión de regreso antes de continuar a la playa."
+        "answer": "Sí; revisa la salida y la última conexión de regreso antes de continuar a la playa.",
+        "context": "El tajamar explica por qué aquí un paseo costero también es una lección sobre navegación fluvial. La obra orienta la desembocadura mientras la playa ofrece otro uso del mismo entorno. No confundas una línea de infraestructura visible desde la arena con un sendero autorizado para llegar a su extremo.",
+        "q0": "¿Debo ir al barrio Las Flores o directamente a la arena?",
+        "a0": "Para usar el recorrido organizado empieza en su estación anunciada de Las Flores y confirma allí el trayecto vigente.",
+        "q1": "¿Es una caminata por todo el tajamar?",
+        "a1": "No se propone recorrer la infraestructura completa. La parada se limita a las zonas de playa habilitadas para visitantes.",
+        "photo1": "Desde la entrada a la playa sitúa en un plano el tajamar y la costa.",
+        "photo2": "Al regresar busca un encuadre de la llegada desde Las Flores.",
+        "caption": "Acceso turístico a Playa Puerto Mocho.",
+        "region": "Ribera y norte de Barranquilla",
+        "transport": "Desde Puerto Colombia llega primero al norte de Barranquilla. Usa transporte urbano o taxi hasta la entrada concreta de la ficha; el corredor fluvial es largo y los accesos no son intercambiables.",
+        "stay": "Riomar o Alto Prado acortan los traslados a los accesos del norte. El Prado conviene para combinar la ribera con un día de arquitectura; calcula el regreso al hotel después de un programa nocturno.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Puerto Mocho Beach",
@@ -327,7 +700,20 @@
         "route": "Find the Las Flores station and check the authorised transport to Puerto Mocho. At the beach walk the marked visitor area and return to the same arrival point.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe, and Barranquilla District publish information for this circuit. Confirm access at this stop’s gate or ticket desk.",
         "question": "Is the trip from Las Flores part of the visit?",
-        "answer": "Yes. Check the outward and final return service before continuing to the sand."
+        "answer": "Yes. Check the outward and final return service before continuing to the sand.",
+        "context": "The breakwater explains why a beach outing here also tells a story about river navigation. The structure guides the river mouth, while the beach offers a different use of the same setting. A visible line of engineering stretching into the distance is not necessarily an authorised footpath to its end.",
+        "q0": "Should I go straight to the sand or to Las Flores?",
+        "a0": "For the organised route, start at the announced Las Flores station and confirm the current service there.",
+        "q1": "Does this involve walking the whole breakwater?",
+        "a1": "The suggested walk stays within the designated visitor beach and does not follow the entire engineered structure.",
+        "photo1": "From the beach approach include the breakwater and shore in one view.",
+        "photo2": "On the return frame the arrival point from Las Flores.",
+        "caption": "Visitor area at Puerto Mocho Beach.",
+        "region": "North Barranquilla and its waterside",
+        "transport": "From Puerto Colombia reach northern Barranquilla first. Take city transport or a taxi to the specific entry in this guide. The long river corridor has several entrances which are not interchangeable.",
+        "stay": "Riomar or Alto Prado shorten transfers to the northern entrances. El Prado suits a river visit paired with an architectural day; plan the return to your hotel after evening activities.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "莫乔港海滩",
@@ -335,9 +721,23 @@
         "route": "到拉斯弗洛雷斯车站核对开往海滩的交通。抵达后沿开放沙滩步行，返程回到原下车点。",
         "management": "Puerta de Oro加勒比发展公司及巴兰基亚特区发布游线信息。实际进入范围请在本景点门岗或票务处核对。",
         "question": "拉斯弗洛雷斯到海滩这段如何安排？",
-        "answer": "把交通也计入行程，去沙滩前核对去程和末班返程时间。"
+        "answer": "把交通也计入行程，去沙滩前核对去程和末班返程时间。",
+        "context": "防波堤说明这次海滩游览也关乎河道航运。工程设施引导河口，旁边沙滩则把同一片环境用于休闲。看得见向远处延伸的构筑物，不代表允许游客一路走到尽头。",
+        "q0": "直接去沙滩还是先到拉斯弗洛雷斯？",
+        "a0": "走官方游线先到其公布的拉斯弗洛雷斯站，现场确认接驳安排。",
+        "q1": "需要走完整条堤坝吗？",
+        "a1": "游线仅覆盖对访客开放的海滩，不能沿工程设施任意前行。",
+        "photo1": "从海滩入口同框拍防波堤和岸线。",
+        "photo2": "回程拍从拉斯弗洛雷斯抵达海滩的位置。",
+        "caption": "莫乔港海滩游览区。",
+        "region": "巴兰基亚北部与滨水区",
+        "transport": "从哥伦比亚港先到巴兰基亚北部，再换市内交通或出租车至本页所列具体入口。滨水走廊很长，不同入口不可混用。",
+        "stay": "住里奥马尔或上普拉多可缩短前往北部入口的车程。住普拉多更方便把滨水与建筑散步结合，若参加夜间活动应事先安排返程。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "la-ventana-al-mundo",
@@ -353,7 +753,20 @@
         "route": "Llega al sector de la rotonda de calle 110, identifica el paso peatonal y toma la vista desde el perímetro. No atravieses los carriles para centrar la foto.",
         "management": "Obra impulsada por Tecnoglass. Las condiciones de circulación y cruce corresponden a las autoridades distritales de tránsito.",
         "question": "¿Qué define la mejor foto?",
-        "answer": "Busca el cielo dentro del marco desde un punto peatonal; varía el ángulo sin bajar a la vía."
+        "answer": "Busca el cielo dentro del marco desde un punto peatonal; varía el ángulo sin bajar a la vía.",
+        "context": "La pieza aprovecha una rotonda como lugar de exposición a gran escala. Lo que desde el vehículo parece un bloque de color se separa a pie en superficies, reflejos y huecos. Elige dos puntos en el mismo tramo peatonal y compara qué parte del cielo aparece dentro de la abertura.",
+        "q0": "¿Es una ventana de un edificio?",
+        "a0": "Es una escultura independiente: mira el vacío entre los planos, no busques una entrada para subir.",
+        "q1": "¿Qué materiales se distinguen desde fuera?",
+        "a1": "El soporte metálico contrasta con el vidrio coloreado que cambia con la luz y el ángulo.",
+        "photo1": "Desde la acera orienta la cámara para que el cielo ocupe el hueco.",
+        "photo2": "A pocos pasos de lado, fotografía el espesor de los planos de vidrio.",
+        "caption": "Escultura La Ventana al Mundo.",
+        "region": "Ribera y norte de Barranquilla",
+        "transport": "Desde Puerto Colombia llega primero al norte de Barranquilla. Usa transporte urbano o taxi hasta la entrada concreta de la ficha; el corredor fluvial es largo y los accesos no son intercambiables.",
+        "stay": "Riomar o Alto Prado acortan los traslados a los accesos del norte. El Prado conviene para combinar la ribera con un día de arquitectura; calcula el regreso al hotel después de un programa nocturno.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Window to the World",
@@ -361,7 +774,20 @@
         "route": "Arrive at the Calle 110 roundabout, locate a pedestrian crossing and view the piece from the perimeter. Stay out of traffic when lining up a photograph.",
         "management": "Tecnoglass promoted the sculpture. District traffic authorities regulate the approaches and crossings.",
         "question": "What makes the best photo?",
-        "answer": "Frame the sky inside the opening from a pedestrian position. Change the angle without entering the road."
+        "answer": "Frame the sky inside the opening from a pedestrian position. Change the angle without entering the road.",
+        "context": "The work uses a roundabout as a large-scale exhibition site. What seems a single coloured mass from a moving vehicle resolves into surfaces, reflections and openings when viewed on foot. Try two positions along the same pedestrian edge and compare how much sky appears inside the frame.",
+        "q0": "Is it a window in a building?",
+        "a0": "It is a freestanding sculpture. Look through the opening between the planes rather than looking for a stairway inside.",
+        "q1": "Which materials stand out?",
+        "a1": "The metal support contrasts with coloured glass whose appearance varies with lighting and angle.",
+        "photo1": "From the pavement align sky with the opening.",
+        "photo2": "Step sideways along the pavement to show the thickness of the glass planes.",
+        "caption": "Window to the World sculpture.",
+        "region": "North Barranquilla and its waterside",
+        "transport": "From Puerto Colombia reach northern Barranquilla first. Take city transport or a taxi to the specific entry in this guide. The long river corridor has several entrances which are not interchangeable.",
+        "stay": "Riomar or Alto Prado shorten transfers to the northern entrances. El Prado suits a river visit paired with an architectural day; plan the return to your hotel after evening activities.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "世界之窗纪念碑",
@@ -369,9 +795,23 @@
         "route": "抵达110街环岛后先找到人行过街处，从环岛外围找角度，取景时不要穿过车流。",
         "management": "纪念碑由Tecnoglass推动建设，周边道路及行人过街由特区交通部门管理。",
         "question": "照片的重点在哪里？",
-        "answer": "从人行区拍天空落在纪念碑开口中的画面，不进入车道取景。"
+        "answer": "从人行区拍天空落在纪念碑开口中的画面，不进入车道取景。",
+        "context": "这件作品把交通环岛变成大型公共艺术展示面。行车时看似完整色块，停下步行观察便能分辨多个表面、倒影与空隙。在同一段人行边缘选两个位置，比较框内天空的变化。",
+        "q0": "它是某栋建筑的窗户吗？",
+        "a0": "它是独立雕塑，重点是平面之间的取景空隙，不是寻找登楼入口。",
+        "q1": "外观上能辨认哪些材料？",
+        "a1": "金属支撑与彩色玻璃形成对比，玻璃外观随光线及观察角度变化。",
+        "photo1": "在人行道上用雕塑框住天空。",
+        "photo2": "沿人行道横移，拍出玻璃色块的厚度。",
+        "caption": "世界之窗公共雕塑。",
+        "region": "巴兰基亚北部与滨水区",
+        "transport": "从哥伦比亚港先到巴兰基亚北部，再换市内交通或出租车至本页所列具体入口。滨水走廊很长，不同入口不可混用。",
+        "stay": "住里奥马尔或上普拉多可缩短前往北部入口的车程。住普拉多更方便把滨水与建筑散步结合，若参加夜间活动应事先安排返程。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "luna-del-rio",
@@ -387,7 +827,20 @@
         "route": "Desde el Pabellón de Cristal sigue las indicaciones de taquilla. Puedes ver la estructura desde el paseo antes de decidir si compras un viaje.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe y el Distrito de Barranquilla publican información del circuito. Confirma el acceso del día en el control o taquilla de esta parada.",
         "question": "¿Tengo que subir para ver la rueda?",
-        "answer": "El paseo permite ver el conjunto. La cabina requiere su propio acceso y billete."
+        "answer": "El paseo permite ver el conjunto. La cabina requiere su propio acceso y billete.",
+        "context": "La rueda es también una referencia para orientarse en un paseo lineal. A nivel del suelo la ves entre otros equipamientos recreativos; al elevarse la cabina, el conjunto se reduce y aparece la relación entre ciudad, paseo y río. Conviene localizar primero la salida y la taquilla, que no son intercambiables.",
+        "q0": "¿Dónde comprar el acceso correcto?",
+        "a0": "Identifica la taquilla que indica Luna del Río o el enlace de venta publicado en el directorio municipal.",
+        "q1": "¿Qué referencia buscar al bajar?",
+        "a1": "El Pabellón de Cristal ayuda a volver al eje peatonal y a enlazar con las demás paradas del sector.",
+        "photo1": "Desde el paseo frente a la noria incluye el círculo completo.",
+        "photo2": "Desde el costado del pabellón encuadra cabinas y río al fondo.",
+        "caption": "Noria Luna del Río junto al Magdalena.",
+        "region": "Ribera y norte de Barranquilla",
+        "transport": "Desde Puerto Colombia llega primero al norte de Barranquilla. Usa transporte urbano o taxi hasta la entrada concreta de la ficha; el corredor fluvial es largo y los accesos no son intercambiables.",
+        "stay": "Riomar o Alto Prado acortan los traslados a los accesos del norte. El Prado conviene para combinar la ribera con un día de arquitectura; calcula el regreso al hotel después de un programa nocturno.",
+        "hours": "Comprueba la sesión de hoy con el responsable antes de salir. Las horas de taquilla, culto o actividad pueden diferir del acceso a la calle.",
+        "fees": "Compra únicamente el billete de la atracción elegida mediante la taquilla o el canal enlazado en Visit Barranquilla. Caminar por el malecón es independiente de subir."
       },
       "en": {
         "title": "Luna del Río observation wheel",
@@ -395,7 +848,20 @@
         "route": "Walk from the Crystal Pavilion towards the marked ticket office. Examine the wheel from the promenade before deciding whether to buy a ride.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe, and Barranquilla District publish information for this circuit. Confirm access at this stop’s gate or ticket desk.",
         "question": "Do I need a ride to see the wheel?",
-        "answer": "The promenade overlooks the whole structure. Boarding a cabin requires a separate ticket and entry."
+        "answer": "The promenade overlooks the whole structure. Boarding a cabin requires a separate ticket and entry.",
+        "context": "The wheel doubles as a landmark on a long, linear promenade. At ground level it stands among recreation facilities. As a cabin rises, those facilities shrink and the relationship between city, promenade and river comes into view. Locate the exit as well as the ticket desk; they serve different purposes.",
+        "q0": "Where do I get the right ticket?",
+        "a0": "Look for the Luna del Río ticket desk or the booking link published in the city’s visitor directory.",
+        "q1": "What landmark helps after the ride?",
+        "a1": "The Crystal Pavilion helps orient you back to the promenade and neighbouring stops.",
+        "photo1": "From the promenade opposite the wheel include its full circle.",
+        "photo2": "From the pavilion side frame cabins against the river.",
+        "caption": "Luna del Río wheel beside the Magdalena.",
+        "region": "North Barranquilla and its waterside",
+        "transport": "From Puerto Colombia reach northern Barranquilla first. Take city transport or a taxi to the specific entry in this guide. The long river corridor has several entrances which are not interchangeable.",
+        "stay": "Riomar or Alto Prado shorten transfers to the northern entrances. El Prado suits a river visit paired with an architectural day; plan the return to your hotel after evening activities.",
+        "hours": "Check today’s visitor session with the venue before leaving. Ticket desk, worship or programme hours can differ from street access.",
+        "fees": "Buy the specific ride through its ticket office or the channel linked by Visit Barranquilla. Walking on the promenade does not include the ride."
       },
       "zh": {
         "title": "河月摩天轮",
@@ -403,9 +869,23 @@
         "route": "从水晶展亭循售票指示步行，在步道上先看清轮体结构，再决定是否购票乘坐。",
         "management": "Puerta de Oro加勒比发展公司及巴兰基亚特区发布游线信息。实际进入范围请在本景点门岗或票务处核对。",
         "question": "不乘坐也能看摩天轮吗？",
-        "answer": "可以在步道上看整个结构；进轿厢要另行购票。"
+        "answer": "可以在步道上看整个结构；进轿厢要另行购票。",
+        "context": "摩天轮同时是线性河岸步道上的定位点。在地面上它夹在其他游乐设施之间，轿厢上升后，这些设施渐小，城市、步道与河流的相对关系逐渐清晰。先认清出口和售票处，两者用途不同。",
+        "q0": "在哪里买对票？",
+        "a0": "找写有Luna del Río的售票处，或市旅游目录列出的该项目售票入口。",
+        "q1": "下来后用哪个地标辨方向？",
+        "a1": "以水晶展亭为参照回到滨河步行主线，再衔接附近设施。",
+        "photo1": "从正对摩天轮的步道拍完整轮体。",
+        "photo2": "从展亭侧面以河岸为背景拍轿厢。",
+        "caption": "抹大拉河旁的河月摩天轮。",
+        "region": "巴兰基亚北部与滨水区",
+        "transport": "从哥伦比亚港先到巴兰基亚北部，再换市内交通或出租车至本页所列具体入口。滨水走廊很长，不同入口不可混用。",
+        "stay": "住里奥马尔或上普拉多可缩短前往北部入口的车程。住普拉多更方便把滨水与建筑散步结合，若参加夜间活动应事先安排返程。",
+        "hours": "出发前向接待方核对当天可参观时段，售票、礼拜或活动时间与街道通行不同。",
+        "fees": "到该项目售票处或市旅游目录列出的渠道购买对应设施的票，滨河步道通行与游乐设施乘坐分开。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "carrusel-del-rio",
@@ -421,7 +901,20 @@
         "route": "Entra al sector recreodeportivo por calle 72 y avanza hacia la noria. Busca la fila propia del carrusel y confirma en el acceso las condiciones para niños.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe y el Distrito de Barranquilla publican información del circuito. Confirma el acceso del día en el control o taquilla de esta parada.",
         "question": "¿Sirve la entrada de la noria?",
-        "answer": "Cada atracción tiene su acceso; revisa el producto indicado en la taquilla."
+        "answer": "Cada atracción tiene su acceso; revisa el producto indicado en la taquilla.",
+        "context": "La estructura de doble altura se aprecia mejor antes de ponerse en la fila: desde un poco más lejos se distinguen las dos plataformas y el movimiento repetido de cada vuelta. Para quienes viajan con niños, mirar un ciclo completo desde fuera ayuda a decidir si el ritmo y el acceso son adecuados.",
+        "q0": "¿Dónde esperar a alguien que va a subir?",
+        "a0": "Acuerda un punto fuera de la fila en el paseo, con vista a la salida del carrusel.",
+        "q1": "¿Qué lo diferencia de la Luna del Río?",
+        "a1": "El carrusel gira en plataformas horizontales de dos niveles; la noria eleva cabinas alrededor de un eje horizontal.",
+        "photo1": "Desde fuera de la fila toma un encuadre frontal de los dos niveles.",
+        "photo2": "Muévete al lateral del paseo para situarlo cerca de la noria vecina.",
+        "caption": "Carrusel de dos niveles del Gran Malecón.",
+        "region": "Ribera y norte de Barranquilla",
+        "transport": "Desde Puerto Colombia llega primero al norte de Barranquilla. Usa transporte urbano o taxi hasta la entrada concreta de la ficha; el corredor fluvial es largo y los accesos no son intercambiables.",
+        "stay": "Riomar o Alto Prado acortan los traslados a los accesos del norte. El Prado conviene para combinar la ribera con un día de arquitectura; calcula el regreso al hotel después de un programa nocturno.",
+        "hours": "Comprueba la sesión de hoy con el responsable antes de salir. Las horas de taquilla, culto o actividad pueden diferir del acceso a la calle.",
+        "fees": "Compra únicamente el billete de la atracción elegida mediante la taquilla o el canal enlazado en Visit Barranquilla. Caminar por el malecón es independiente de subir."
       },
       "en": {
         "title": "River Carousel",
@@ -429,7 +922,20 @@
         "route": "Enter the recreation sector from Calle 72 and head for the observation wheel. Find the carousel's own queue and check children's admission conditions at its entrance.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe, and Barranquilla District publish information for this circuit. Confirm access at this stop’s gate or ticket desk.",
         "question": "Does a wheel ticket cover the carousel?",
-        "answer": "They have separate entrances. Check the product named at the ticket office."
+        "answer": "They have separate entrances. Check the product named at the ticket office.",
+        "context": "Stand back before joining the queue to see both levels of the carousel and the repeated movement of each turn. For families, watching a complete cycle from outside makes it easier to judge the pace and discuss admission with staff before committing to a ride.",
+        "q0": "Where can companions wait?",
+        "a0": "Choose a point on the promenade outside the queue, with a clear view of the carousel exit.",
+        "q1": "How does it differ from Luna del Río?",
+        "a1": "The carousel turns on two horizontal levels. The wheel lifts cabins around a horizontal axle.",
+        "photo1": "From outside the queue photograph the two levels head-on.",
+        "photo2": "Move along the promenade to show its position beside the observation wheel.",
+        "caption": "Two-level carousel on the Gran Malecón.",
+        "region": "North Barranquilla and its waterside",
+        "transport": "From Puerto Colombia reach northern Barranquilla first. Take city transport or a taxi to the specific entry in this guide. The long river corridor has several entrances which are not interchangeable.",
+        "stay": "Riomar or Alto Prado shorten transfers to the northern entrances. El Prado suits a river visit paired with an architectural day; plan the return to your hotel after evening activities.",
+        "hours": "Check today’s visitor session with the venue before leaving. Ticket desk, worship or programme hours can differ from street access.",
+        "fees": "Buy the specific ride through its ticket office or the channel linked by Visit Barranquilla. Walking on the promenade does not include the ride."
       },
       "zh": {
         "title": "河畔旋转木马",
@@ -437,9 +943,23 @@
         "route": "从72街进入滨河游乐区，向摩天轮方向走，认清旋转木马自己的排队入口，到入口核对儿童乘坐条件。",
         "management": "Puerta de Oro加勒比发展公司及巴兰基亚特区发布游线信息。实际进入范围请在本景点门岗或票务处核对。",
         "question": "摩天轮票能坐木马吗？",
-        "answer": "两项设施入口各自独立，请看售票处列明的票种。"
+        "answer": "两项设施入口各自独立，请看售票处列明的票种。",
+        "context": "排队前先后退几步，能同时看到木马上下两层，以及每转一圈反复出现的动作。带孩子的家庭可在外面看完一整轮，判断节奏是否合适，再向工作人员询问乘坐条件。",
+        "q0": "陪同者在哪里等？",
+        "a0": "在步道上队列以外、又能看到旋转木马出口的位置约定集合。",
+        "q1": "它和河月摩天轮怎样区别？",
+        "a1": "旋转木马在双层水平平台上回转，摩天轮的轿厢则绕水平轴上下运行。",
+        "photo1": "从队列外侧正拍上下两层。",
+        "photo2": "沿步道侧移，同框展示附近的摩天轮。",
+        "caption": "大滨河步道上的双层旋转木马。",
+        "region": "巴兰基亚北部与滨水区",
+        "transport": "从哥伦比亚港先到巴兰基亚北部，再换市内交通或出租车至本页所列具体入口。滨水走廊很长，不同入口不可混用。",
+        "stay": "住里奥马尔或上普拉多可缩短前往北部入口的车程。住普拉多更方便把滨水与建筑散步结合，若参加夜间活动应事先安排返程。",
+        "hours": "出发前向接待方核对当天可参观时段，售票、礼拜或活动时间与街道通行不同。",
+        "fees": "到该项目售票处或市旅游目录列出的渠道购买对应设施的票，滨河步道通行与游乐设施乘坐分开。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "muelle-gran-malecon",
@@ -455,7 +975,20 @@
         "route": "Desde Puerta de Oro sigue los letreros hacia el Gran Malecón y busca la entrada del muelle. Quédate en la zona de paseo; el embarque depende del servicio anunciado.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe y el Distrito de Barranquilla publican información del circuito. Confirma el acceso del día en el control o taquilla de esta parada.",
         "question": "¿Se puede abordar cualquier barco?",
-        "answer": "Solo en los servicios anunciados y por la zona habilitada por el operador."
+        "answer": "Solo en los servicios anunciados y por la zona habilitada por el operador.",
+        "context": "La escala del Magdalena sorprende más al compararla con objetos de tamaño conocido: una embarcación, el borde del muelle o los peatones al otro lado del paseo. Quédate un momento en lugar de recorrer el muelle de punta a punta deprisa. El movimiento de las naves hace visible la corriente y el tamaño del cauce.",
+        "q0": "¿Es el antiguo muelle de Puerto Colombia?",
+        "a0": "Este muelle está en el Magdalena junto a Puerta de Oro; el histórico de Puerto Colombia se proyecta sobre el Caribe.",
+        "q1": "¿Puedo verlo sin contratar un paseo fluvial?",
+        "a1": "El paseo público permite una parada de observación aun cuando no haya un embarque programado.",
+        "photo1": "Desde el arranque del muelle dirige la vista hacia el río.",
+        "photo2": "Desde la barandilla pública mira hacia el trazado del malecón.",
+        "caption": "Muelle del Gran Malecón cerca de Puerta de Oro.",
+        "region": "Ribera y norte de Barranquilla",
+        "transport": "Desde Puerto Colombia llega primero al norte de Barranquilla. Usa transporte urbano o taxi hasta la entrada concreta de la ficha; el corredor fluvial es largo y los accesos no son intercambiables.",
+        "stay": "Riomar o Alto Prado acortan los traslados a los accesos del norte. El Prado conviene para combinar la ribera con un día de arquitectura; calcula el regreso al hotel después de un programa nocturno.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Puerta de Oro river pier",
@@ -463,7 +996,20 @@
         "route": "Follow signs from Puerta de Oro to the Gran Malecón, then find the pier entrance. Remain on the public deck; boarding depends on the service offered.",
         "management": "Puerta de Oro, Empresa de Desarrollo Caribe, and Barranquilla District publish information for this circuit. Confirm access at this stop’s gate or ticket desk.",
         "question": "Can I board any boat?",
-        "answer": "Only join an advertised service in the operator's designated boarding area."
+        "answer": "Only join an advertised service in the operator's designated boarding area.",
+        "context": "Compare the Magdalena with familiar objects: a boat, the pier edge or people further along the promenade. Pause instead of hurrying straight to the far end. Passing vessels make the width of the channel and the relationship between the promenade and a working river easier to grasp.",
+        "q0": "Is this the old Puerto Colombia pier?",
+        "a0": "This pier sits on the Magdalena beside Puerta de Oro. The historic Puerto Colombia pier extends into the Caribbean.",
+        "q1": "Can I visit without booking a river trip?",
+        "a1": "The public promenade offers a viewing stop even when no departure is scheduled.",
+        "photo1": "From the pier entrance frame the river beyond the deck.",
+        "photo2": "From the public railing look back along the promenade.",
+        "caption": "Gran Malecón pier near Puerta de Oro.",
+        "region": "North Barranquilla and its waterside",
+        "transport": "From Puerto Colombia reach northern Barranquilla first. Take city transport or a taxi to the specific entry in this guide. The long river corridor has several entrances which are not interchangeable.",
+        "stay": "Riomar or Alto Prado shorten transfers to the northern entrances. El Prado suits a river visit paired with an architectural day; plan the return to your hotel after evening activities.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "黄金之门河岸码头",
@@ -471,9 +1017,23 @@
         "route": "从黄金之门会展区循标识向大滨河道步行，找到码头入口。留在公共桥面，乘船须按当日运营安排。",
         "management": "Puerta de Oro加勒比发展公司及巴兰基亚特区发布游线信息。实际进入范围请在本景点门岗或票务处核对。",
         "question": "可以随便登船吗？",
-        "answer": "只能从运营方指定的登船点参加公布的班次。"
+        "answer": "只能从运营方指定的登船点参加公布的班次。",
+        "context": "把河流同熟悉尺度的物体比较，例如船、护栏或步道另一头的人，就更容易理解抹大拉河的宽度。无需急着走到底，在同一处等船驶过，反而更能体会休闲步道紧邻繁忙航道的关系。",
+        "q0": "这是哥伦比亚港的古码头吗？",
+        "a0": "不是同一处。这里在黄金之门附近的抹大拉河上，历史码头则伸入加勒比海。",
+        "q1": "不订船也能看河吗？",
+        "a1": "可从公共滨河步道观察，没有船班时也能安排这一站。",
+        "photo1": "在码头入口沿桥面朝河拍。",
+        "photo2": "从公共护栏处回望滨河步道。",
+        "caption": "黄金之门附近的大滨河道码头。",
+        "region": "巴兰基亚北部与滨水区",
+        "transport": "从哥伦比亚港先到巴兰基亚北部，再换市内交通或出租车至本页所列具体入口。滨水走廊很长，不同入口不可混用。",
+        "stay": "住里奥马尔或上普拉多可缩短前往北部入口的车程。住普拉多更方便把滨水与建筑散步结合，若参加夜间活动应事先安排返程。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "edificio-antigua-intendencia-fluvial",
@@ -489,7 +1049,20 @@
         "route": "Llega por la carrera 46, rodea solamente el frente peatonal y mira desde la plaza hacia el canal. Pregunta por exposiciones antes de intentar ingresar.",
         "management": "Distrito de Barranquilla: espacio público y programación cultural. El acceso puede variar con actos y montajes.",
         "question": "¿Es un puerto de embarque?",
-        "answer": "La visita se centra en el antiguo edificio administrativo y su entorno cultural."
+        "answer": "La visita se centra en el antiguo edificio administrativo y su entorno cultural.",
+        "context": "La palabra intendencia describe una función administrativa. Este detalle importa al interpretar el conjunto: aquí se organizaba actividad ligada a la navegación; los espacios de carga y los edificios de aduana cumplían tareas distintas. La visita gana sentido al continuar hacia las otras piezas del antiguo frente portuario.",
+        "q0": "¿Es lo mismo que la Aduana?",
+        "a0": "No. La intendencia se vinculaba a la autoridad fluvial; la Aduana se reconoce como otro conjunto cultural e histórico.",
+        "q1": "¿Qué mirar si está cerrado?",
+        "a1": "La implantación junto a la vía y al canal permite interpretar el antiguo vínculo entre oficinas y navegación desde el exterior.",
+        "photo1": "Desde la plaza encuadra el frente de la antigua intendencia.",
+        "photo2": "Desde un lateral público busca una vista conjunta de edificio y corredor fluvial.",
+        "caption": "Antigua Intendencia Fluvial de Barranquilla.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "La ficha de la ciudad registra lunes a viernes 08:00–15:00. Los actos culturales pueden modificar el acceso interior.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "Old River Authority Building",
@@ -497,7 +1070,20 @@
         "route": "Approach on Carrera 46, follow the pedestrian frontage and look from the square towards the channel. Ask about exhibitions before entering.",
         "management": "Barranquilla District oversees public space and cultural programming. Event setup can change pedestrian access.",
         "question": "Is this a passenger landing?",
-        "answer": "The attraction is the former administrative building and its cultural setting."
+        "answer": "The attraction is the former administrative building and its cultural setting.",
+        "context": "The name refers to an administrative function. This matters when interpreting the site: the authority organised river-related activity, while loading areas and customs buildings served other purposes. The walk becomes more meaningful when you connect the building to the other pieces of the old port frontage.",
+        "q0": "Is it the same as the customs house?",
+        "a0": "They are separate sites. This building served river administration; the customs house forms another historic cultural complex.",
+        "q1": "What can I see if the doors are closed?",
+        "a1": "Its position beside road and channel reveals the old connection between offices and navigation from outside.",
+        "photo1": "From the plaza frame the old authority building’s frontage.",
+        "photo2": "From a public side position look for building and river corridor together.",
+        "caption": "Barranquilla’s former river authority building.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "The city directory lists weekdays 08:00–15:00. Events may change interior access.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "旧河务署",
@@ -505,9 +1091,23 @@
         "route": "沿46大道抵达，顺行人一侧绕过建筑正面，从广场朝水道方向观察。想进馆先问是否有开放展览。",
         "management": "巴兰基亚特区管理公共空间与文化活动。活动搭建期间的步行通道可能调整。",
         "question": "这里是乘船码头吗？",
-        "answer": "参观重点是旧河务行政建筑及周边文化空间。"
+        "answer": "参观重点是旧河务行政建筑及周边文化空间。",
+        "context": "“河务署”指向一种行政职能。这里处理与河运有关的事务，而装卸区和海关各有其他功能。把旧署与旧港沿线的其他建筑串起来，能比只拍一张立面照更清楚地理解港口如何运作。",
+        "q0": "它就是旧海关吗？",
+        "a0": "不是同一建筑。这里曾承担河务行政，旧海关属于另一处历史文化建筑群。",
+        "q1": "关门时还能看懂什么？",
+        "a1": "从公共街边观察建筑与道路、水道的相对位置，就能理解旧河务办公室选址。",
+        "photo1": "从广场拍旧河务署正面。",
+        "photo2": "从公共侧面同框纳入建筑与河道走廊。",
+        "caption": "巴兰基亚旧河务署。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "市旅游目录列工作日08:00至15:00，文化活动可能改变室内开放。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "estacion-montoya",
@@ -523,7 +1123,20 @@
         "route": "Busca el frente de calle 39 en el sector de la Aduana. Observa primero la longitud del edificio desde la acera opuesta y continúa a pie hacia la plaza aduanera.",
         "management": "Corporación Luis Eduardo Nieto Arteta (CLENA), entidad cultural del complejo de la Aduana. La recepción orienta sobre las dependencias y visitas.",
         "question": "¿Sale el tren histórico desde aquí?",
-        "answer": "La parada propuesta es patrimonial: observa la estación y continúa a la Aduana a pie."
+        "answer": "La parada propuesta es patrimonial: observa la estación y continúa a la Aduana a pie.",
+        "context": "La estación muestra la parte terrestre de una economía organizada alrededor del agua. Imagina a pasajeros y mercancías cambiando de medio de transporte, en contraste con el uso cultural que domina hoy este sector. La proximidad de la Aduana ayuda a entender por qué tareas distintas quedaron agrupadas en unos pocos edificios.",
+        "q0": "¿Dónde situarme para ver la estación entera?",
+        "a0": "En el frente público de calle 39, con suficiente distancia para leer la longitud del edificio.",
+        "q1": "¿Con qué punto formar una visita de dos paradas?",
+        "a1": "Con la antigua Aduana: compara un edificio de tránsito con uno dedicado al control y gestión portuaria.",
+        "photo1": "Desde la acera opuesta fotografía la longitud del frente de estación.",
+        "photo2": "Al acercarte a la esquina busca una vista oblicua del antiguo inmueble ferroviario.",
+        "caption": "Estación Montoya en el sector de la Aduana.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Montoya Railway Station",
@@ -531,7 +1144,20 @@
         "route": "Find the Calle 39 frontage in the customs district. Take in the length of the station from the opposite pavement, then continue towards the customs plaza.",
         "management": "Corporación Luis Eduardo Nieto Arteta (CLENA), the customs complex cultural organisation. Reception advises on access to individual facilities.",
         "question": "Can I catch a heritage train here?",
-        "answer": "This is an architectural stop. View the station, then walk to the customs complex."
+        "answer": "This is an architectural stop. View the station, then walk to the customs complex.",
+        "context": "The station shows the land side of an economy built around water. Imagine passengers and goods changing transport here, then compare that traffic with the cultural uses that dominate the district today. The nearby customs complex helps explain why distinct functions clustered within a small group of buildings.",
+        "q0": "Where can I see the full station?",
+        "a0": "Use the public Calle 39 frontage and leave enough distance to see its length.",
+        "q1": "What pairs well for a two-stop visit?",
+        "a1": "The old customs house. Compare a transport building with one devoted to port administration.",
+        "photo1": "From the opposite pavement frame the length of the station.",
+        "photo2": "At the street corner take an oblique view of the railway building.",
+        "caption": "Montoya Station in the customs district.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "蒙托亚火车站",
@@ -539,9 +1165,23 @@
         "route": "到海关区39街一侧找站房，先从街对面观察建筑的长度，再步行前往海关广场。",
         "management": "旧海关文化机构Corporación Luis Eduardo Nieto Arteta（CLENA）提供场地与服务指引，具体开放空间请问接待处。",
         "question": "这里能搭历史列车吗？",
-        "answer": "本路线参观历史站房，随后步行到海关建筑群。"
+        "answer": "本路线参观历史站房，随后步行到海关建筑群。",
+        "context": "车站呈现的是依水而生的经济体系中陆运的一面。想象旅客与货物在此换乘，再与今天以文化活动为主的街区对比。海关近在咫尺，解释了为何职能各异的建筑集中在一小块地方。",
+        "q0": "从哪里看完整站房？",
+        "a0": "站在39街公共一侧，保留足够距离观察站房整体长度。",
+        "q1": "时间只够两站怎么搭配？",
+        "a1": "连着看旧海关，对比交通站房与港口管理建筑。",
+        "photo1": "从对侧人行道横向取站房全景。",
+        "photo2": "在街角斜拍旧铁路建筑。",
+        "caption": "海关区内的蒙托亚车站。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "plaza-de-la-aduana",
@@ -557,7 +1197,20 @@
         "route": "Entra por el acceso del complejo en Vía 40. Recorre el frente de la Aduana y vuelve al punto de información para identificar biblioteca y archivo sin invadir oficinas.",
         "management": "Corporación Luis Eduardo Nieto Arteta (CLENA), entidad cultural del complejo de la Aduana. La recepción orienta sobre las dependencias y visitas.",
         "question": "¿La plaza y las salas comparten horario?",
-        "answer": "La portería del complejo informa sobre el acceso de cada dependencia."
+        "answer": "La portería del complejo informa sobre el acceso de cada dependencia.",
+        "context": "La mejor manera de leer la plaza es pasar del espacio libre al umbral del edificio, no atravesarla de una sola vez. El recorrido enlaza la memoria del control de mercancías con el uso contemporáneo del recinto como sede cultural. La programación interior tiene sus propias condiciones de entrada.",
+        "q0": "¿Dónde fotografiar la simetría?",
+        "a0": "Busca un punto frontal en la explanada; retrocede hasta incluir los extremos sin bloquear las entradas.",
+        "q1": "¿Qué puedo añadir si queda tiempo?",
+        "a1": "Pregunta en recepción por la Biblioteca Piloto o por CIMU, ambos dentro del ámbito cultural de la Aduana.",
+        "photo1": "Desde el eje de la explanada encuadra el antiguo edificio aduanero.",
+        "photo2": "Desde un borde de la plaza usa el espacio abierto como primer término.",
+        "caption": "Plaza ante el antiguo complejo aduanero.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "La ficha municipal indica lunes a sábado 08:30–18:30, domingo cerrado. Las dependencias culturales tienen horarios propios.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Customs Plaza",
@@ -565,7 +1218,20 @@
         "route": "Enter the complex from Vía 40, walk along the former customs facade, then return to reception for directions to the library and archive.",
         "management": "Corporación Luis Eduardo Nieto Arteta (CLENA), the customs complex cultural organisation. Reception advises on access to individual facilities.",
         "question": "Do the plaza and galleries share hours?",
-        "answer": "Ask at the complex gate about each facility's opening arrangements."
+        "answer": "Ask at the complex gate about each facility's opening arrangements.",
+        "context": "Read the plaza by moving gradually from the open forecourt to the building’s threshold instead of crossing it in one rush. This short transition links the memory of goods inspection with the complex’s present cultural use. Indoor programmes have their own admission arrangements.",
+        "q0": "Where can I photograph the symmetry?",
+        "a0": "Choose a frontal position on the forecourt and step back until the ends fit without blocking entrances.",
+        "q1": "What can I add with extra time?",
+        "a1": "Ask reception about the Pilot Library or CIMU, both within the customs cultural complex.",
+        "photo1": "From the forecourt axis frame the former customs house.",
+        "photo2": "From an edge of the square use the open space as foreground.",
+        "caption": "Plaza in front of the old customs complex.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "The city lists Monday–Saturday 08:30–18:30 and Sunday closure. Cultural facilities keep separate hours.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "海关广场",
@@ -573,9 +1239,23 @@
         "route": "从40号大道一侧进入，沿旧海关立面走一段，再回接待处问清图书馆与档案馆入口，避免误入办公区。",
         "management": "旧海关文化机构Corporación Luis Eduardo Nieto Arteta（CLENA）提供场地与服务指引，具体开放空间请问接待处。",
         "question": "广场和展厅同时开放吗？",
-        "answer": "各设施开放安排分别由建筑群门岗说明。"
+        "answer": "各设施开放安排分别由建筑群门岗说明。",
+        "context": "从开阔前庭慢慢走向建筑门槛，比匆匆横穿广场更能读懂场地。这一小段路把昔日货物查验与如今的文化用途联系起来。广场开放不等于里面每个活动都能随时进入。",
+        "q0": "哪里适合拍对称构图？",
+        "a0": "在广场正对立面的位置后退，直到两端入镜，并留出出入口。",
+        "q1": "有余裕可以加哪一站？",
+        "a1": "到接待处询问示范图书馆或城市记忆互动中心，两处都在旧海关文化区。",
+        "photo1": "在前庭中轴取旧海关正面。",
+        "photo2": "从广场侧缘把空旷地面作为前景。",
+        "caption": "旧海关建筑群前的广场。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "市旅游目录列周一至周六08:30至18:30，周日关闭，各文化设施另有开放时间。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "biblioteca-piloto-del-caribe",
@@ -591,7 +1271,20 @@
         "route": "Desde la portería de Vía 40 pide la Biblioteca Piloto y sigue las señales de lectura, no las del archivo. Consulta en mostrador qué salas admiten visitantes ese día.",
         "management": "Corporación Luis Eduardo Nieto Arteta (CLENA), entidad cultural del complejo de la Aduana. La recepción orienta sobre las dependencias y visitas.",
         "question": "¿Biblioteca y archivo son la misma sala?",
-        "answer": "Son servicios distintos. Consulta en el mostrador de biblioteca para lectura o préstamo."
+        "answer": "Son servicios distintos. Consulta en el mostrador de biblioteca para lectura o préstamo.",
+        "context": "Una biblioteca en un antiguo recinto mercantil ofrece otra lectura del puerto: por el Caribe circularon ideas y publicaciones además de mercancías. Antes de recorrer las estanterías, pregunta qué materiales de consulta local están disponibles. La visita responde así a una pregunta concreta sobre la región y no solo al interés por el edificio.",
+        "q0": "¿Se puede consultar un libro sin pedirlo prestado?",
+        "a0": "Pregunta por lectura en sala; el préstamo a domicilio puede tener requisitos distintos.",
+        "q1": "¿Por qué visitar biblioteca y plaza por separado?",
+        "a1": "La plaza se entiende como espacio portuario; la biblioteca muestra el uso cultural que hoy ocupa parte del complejo.",
+        "photo1": "Desde la plaza fotografía el acceso al conjunto bibliotecario.",
+        "photo2": "En sala, si se permite, encuadra las estanterías sin incluir lectores identificables.",
+        "caption": "Interior de la Biblioteca Piloto del Caribe.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "Horario del directorio: lunes a viernes 08:00–17:00 y sábado 09:00–11:45. Consulta cambios festivos en la biblioteca.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "Caribbean Pilot Library",
@@ -599,7 +1292,20 @@
         "route": "At the Vía 40 gate ask for Biblioteca Piloto and follow the reading-room signs rather than the archive signs. Check which rooms welcome visitors at the desk.",
         "management": "Corporación Luis Eduardo Nieto Arteta (CLENA), the customs complex cultural organisation. Reception advises on access to individual facilities.",
         "question": "Are the library and the archive the same room?",
-        "answer": "They are separate services. Ask the library desk about reading or borrowing."
+        "answer": "They are separate services. Ask the library desk about reading or borrowing.",
+        "context": "A library inside a former trading complex offers another perspective on the port. Ideas and publications travelled through the Caribbean as well as goods. Before browsing, ask which local-reference materials are available. A specific question about the region gives the visit a purpose beyond viewing the building.",
+        "q0": "Can I read without borrowing?",
+        "a0": "Ask about on-site reading. Taking materials away may require separate registration.",
+        "q1": "Why treat the plaza and library as separate stops?",
+        "a1": "The plaza explains the port setting; the library shows how part of the complex now serves readers.",
+        "photo1": "From the plaza photograph the approach to the library complex.",
+        "photo2": "If staff allow photography, frame the shelves without identifiable readers.",
+        "caption": "Inside the Caribbean Pilot Library.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Directory hours are Monday–Friday 08:00–17:00 and Saturday 09:00–11:45. Check holiday changes with the library.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "加勒比示范图书馆",
@@ -607,9 +1313,23 @@
         "route": "在40号大道门岗询问示范图书馆，循阅览区而非档案馆的指示前行，到柜台确认当日对访客开放的空间。",
         "management": "旧海关文化机构Corporación Luis Eduardo Nieto Arteta（CLENA）提供场地与服务指引，具体开放空间请问接待处。",
         "question": "图书馆和档案馆是一处阅览室吗？",
-        "answer": "是不同服务，普通阅读或借阅请到图书馆柜台询问。"
+        "answer": "是不同服务，普通阅读或借阅请到图书馆柜台询问。",
+        "context": "设在旧贸易建筑群里的图书馆让港口史多了一层含义：在加勒比流动的不仅是货物，还有思想与出版物。翻阅书架前，可先询问有哪些地方资料可供查阅，让到访不仅停留在参观建筑。",
+        "q0": "不外借也能阅览吗？",
+        "a0": "可向工作人员询问馆内阅读条件，外借通常另有手续。",
+        "q1": "为何把广场和图书馆分开看？",
+        "a1": "广场讲的是港口空间，图书馆展示其中一部分今天如何为读者服务。",
+        "photo1": "从广场拍通往图书馆的入口。",
+        "photo2": "馆方允许时拍书架，避开能辨认的读者。",
+        "caption": "加勒比示范图书馆内部。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "旅游目录列周一至周五08:00至17:00、周六09:00至11:45，节假日向馆方核对。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "centro-interactivo-de-memoria-urbana-cimu",
@@ -625,7 +1345,20 @@
         "route": "Desde la plaza de la Aduana busca en recepción el acceso de CIMU. Confirma si hay recorrido o exposición disponible y termina regresando a la plaza para comparar paisaje y relato.",
         "management": "Corporación Luis Eduardo Nieto Arteta (CLENA), entidad cultural del complejo de la Aduana. La recepción orienta sobre las dependencias y visitas.",
         "question": "¿Qué aporta después de ver la Aduana?",
-        "answer": "Relaciona las construcciones y vías que acabas de recorrer con la memoria colectiva de la ciudad."
+        "answer": "Relaciona las construcciones y vías que acabas de recorrer con la memoria colectiva de la ciudad.",
+        "context": "La propuesta del centro combina testimonios, recursos visuales y tecnología. Conviene distinguir lo que aparece en una representación de lo que todavía existe en la calle: anota un nombre o una vía que reconozcas y busca esa referencia al volver a salir. La memoria urbana se vuelve así una comparación entre experiencias y lugares.",
+        "q0": "¿Es una biblioteca de consulta?",
+        "a0": "CIMU propone interpretación de la memoria urbana; para libros y lectura pide la Biblioteca Piloto.",
+        "q1": "¿Quién impulsa su programa cultural?",
+        "a1": "La Corporación Luis Eduardo Nieto Arteta, con aliados como la Cámara de Comercio de Barranquilla.",
+        "photo1": "Desde el acceso público encuadra la identificación de CIMU dentro de la Aduana.",
+        "photo2": "En el interior pide permiso para registrar un panel o recurso visual sin flash.",
+        "caption": "Exposición del Centro Interactivo de Memoria Urbana.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "El directorio registra lunes a viernes 08:00–16:30; fines de semana 09:00–11:30 y 12:00–15:30. Los eventos pueden modificar turnos.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "Interactive Centre for Urban Memory",
@@ -633,7 +1366,20 @@
         "route": "From the customs plaza ask at reception for the CIMU entrance and its current programme. After the visit step back onto the plaza and compare the urban landscape with what you saw inside.",
         "management": "Corporación Luis Eduardo Nieto Arteta (CLENA), the customs complex cultural organisation. Reception advises on access to individual facilities.",
         "question": "Why visit after seeing the customs house?",
-        "answer": "It connects buildings and roads you just saw with the city's collective memory."
+        "answer": "It connects buildings and roads you just saw with the city's collective memory.",
+        "context": "The centre combines testimony, visual narratives and technology. Distinguish what a display represents from what still stands in the street: note a name or road you recognise and look for it once outside. Urban memory then becomes an active comparison between individual experiences and surviving places.",
+        "q0": "Is this a reference library?",
+        "a0": "CIMU interprets urban memory. Ask for the Pilot Library for books and reading.",
+        "q1": "Who supports the cultural programme?",
+        "a1": "Corporación Luis Eduardo Nieto Arteta works with partners including the Barranquilla Chamber of Commerce.",
+        "photo1": "From the public entrance frame the CIMU identification inside the customs complex.",
+        "photo2": "Inside ask before photographing a display or visual resource, without flash.",
+        "caption": "Exhibition at the Interactive Centre for Urban Memory.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Listed hours are weekdays 08:00–16:30, weekends 09:00–11:30 and noon–15:30. Special events can change sessions.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "城市记忆互动中心",
@@ -641,9 +1387,23 @@
         "route": "从海关广场到服务台找到互动中心入口，核对当前开放的展览或导览。看完回到广场，对照眼前街景和馆内所见。",
         "management": "旧海关文化机构Corporación Luis Eduardo Nieto Arteta（CLENA）提供场地与服务指引，具体开放空间请问接待处。",
         "question": "为何适合在海关之后参观？",
-        "answer": "展览让刚刚走过的建筑、街道与城市集体记忆联系起来。"
+        "answer": "展览让刚刚走过的建筑、街道与城市集体记忆联系起来。",
+        "context": "中心把口述记忆、视觉叙事与技术展项结合起来。看展时区分“展项如何呈现”和“街上今天仍存什么”，记下一条熟悉的街名，出馆再去辨认。城市记忆便成为体验与现实场所之间的对照。",
+        "q0": "这里是文献阅览室吗？",
+        "a0": "CIMU重在解读城市记忆，查书阅读请找示范图书馆。",
+        "q1": "谁推动这里的文化项目？",
+        "a1": "CLENA与巴兰基亚商会等伙伴共同推动文化项目。",
+        "photo1": "在公共入口拍旧海关内的中心标识。",
+        "photo2": "馆内先获允许再无闪光拍摄展板或可视化展项。",
+        "caption": "城市记忆互动中心的展览。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "目录列工作日08:00至16:30，周末09:00至11:30及12:00至15:30，遇活动调整。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "iglesia-san-nicolas",
@@ -659,7 +1419,20 @@
         "route": "Empieza en la plaza frente a la carrera 42. Mira el conjunto desde el extremo opuesto y acércate por el eje central sin obstaculizar a los fieles.",
         "management": "Arquidiócesis de Barranquilla y personal del templo. El culto y las celebraciones tienen prioridad sobre los recorridos.",
         "question": "¿Desde dónde caben las torres en la foto?",
-        "answer": "Retrocede al lado lejano de la plaza; deja libre la entrada durante misa."
+        "answer": "Retrocede al lado lejano de la plaza; deja libre la entrada durante misa.",
+        "context": "La dedicación a San Nicolás de Tolentino y la historia de la comunidad son anteriores a la imagen neogótica que hoy domina la plaza. No atribuyas toda la fachada a la fecha más antigua del templo. La silueta actual es la parte visible de una historia de construcción y transformación mucho más larga.",
+        "q0": "¿Es mejor verla antes o después de recorrer el mercado?",
+        "a0": "Antes, para reconocer sus torres como referencia al regresar por las calles comerciales.",
+        "q1": "¿A qué santo está dedicado el templo?",
+        "a1": "A San Nicolás de Tolentino. La dedicación ayuda a distinguirlo de otras iglesias del centro.",
+        "photo1": "Desde el extremo de la plaza encuadra torres y fachada completas.",
+        "photo2": "Desde el borde lateral registra los vanos apuntados sin obstaculizar la puerta.",
+        "caption": "Fachada de la iglesia de San Nicolás.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "El directorio de la ciudad indica diariamente 07:00–19:30. Consulta al templo los intervalos libres de celebraciones.",
+        "fees": "La asistencia al culto difiere de una visita organizada. Pregunta en el templo por recorridos disponibles y sus condiciones."
       },
       "en": {
         "title": "Church of San Nicolás de Tolentino",
@@ -667,7 +1440,20 @@
         "route": "Start in the square opposite Carrera 42. View the complete frontage from the far side, then approach along the central axis, leaving entrances free for worshippers.",
         "management": "Archdiocese of Barranquilla and the church staff. Worship and ceremonies take priority over sightseeing.",
         "question": "Where can I fit the towers into a photo?",
-        "answer": "Step back to the far side of the square and keep the church entrance clear during Mass."
+        "answer": "Step back to the far side of the square and keep the church entrance clear during Mass.",
+        "context": "The dedication to Saint Nicholas of Tolentino and the history of the congregation predate the neo-Gothic image dominating the plaza today. The oldest date associated with the church should not be assigned to every part of the facade. Its present silhouette belongs to a much longer story of building and alteration.",
+        "q0": "Should I see it before or after the market streets?",
+        "a0": "Start here so its towers become a reference point when you return through the commercial streets.",
+        "q1": "Which saint is the church dedicated to?",
+        "a1": "Saint Nicholas of Tolentino. The dedication distinguishes it from the other city-centre churches.",
+        "photo1": "From the far side of the square include both towers and the frontage.",
+        "photo2": "From the side of the square photograph pointed openings without blocking the door.",
+        "caption": "Facade of San Nicolás Church.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "The city directory lists 07:00–19:30 daily. Ask the church for times outside services.",
+        "fees": "Attending worship is separate from an organised visit. Ask church staff about available tours and conditions."
       },
       "zh": {
         "title": "圣尼古拉斯·德托伦蒂诺教堂",
@@ -675,9 +1461,23 @@
         "route": "从42大道前的广场出发，先在远侧看完整立面，再沿中轴靠近，为进出礼拜的人留出门口。",
         "management": "巴兰基亚总教区及教堂工作人员负责宗教场所；礼拜与仪式优先。",
         "question": "哪里能拍全塔楼？",
-        "answer": "退到广场远侧，弥撒期间别堵住教堂入口。"
+        "answer": "退到广场远侧，弥撒期间别堵住教堂入口。",
+        "context": "圣尼古拉斯·德托伦蒂诺这一主保传统及信众社群的历史早于今天广场上显眼的新哥特式外观。不要把教堂最早出现的年代套在所有立面构件上，现有轮廓是长期建设与改造留下的结果。",
+        "q0": "先逛市场还是先看教堂？",
+        "a0": "先看教堂有助于辨认塔楼，逛过周围商业街后可借它定位返回。",
+        "q1": "教堂供奉哪位圣人？",
+        "a1": "主保是托伦蒂诺的圣尼古拉斯，据此可区分老城的其他教堂。",
+        "photo1": "从广场远侧摄入双塔与立面。",
+        "photo2": "在广场侧面取尖拱细节，留出门口。",
+        "caption": "圣尼古拉斯教堂正面。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "市旅游目录列每日07:00至19:30，适合参观的礼拜间隔请问教堂。",
+        "fees": "参加礼拜与预约导览不同，具体参观项目及收费向教堂工作人员核对。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "plaza-de-la-paz",
@@ -693,7 +1493,20 @@
         "route": "Llega al cruce de calle 53 y carrera 46. Entra por el paso señalizado y recorre la explanada mirando hacia la Catedral; durante montajes sigue los desvíos oficiales.",
         "management": "Gobernación del Atlántico. Consulta su programación cultural para conocer montajes, exposiciones y condiciones de ingreso.",
         "question": "¿Qué explica el tamaño de la plaza?",
-        "answer": "Fue preparada para una concentración multitudinaria en 1986; hoy también acoge actos civiles."
+        "answer": "Fue preparada para una concentración multitudinaria en 1986; hoy también acoge actos civiles.",
+        "context": "Mirar hacia la catedral desde el centro de la explanada permite imaginar la concentración de julio de 1986. Después acércate a un borde: allí reaparecen el ruido y el ritmo de la ciudad. El mismo suelo admite una lectura ceremonial y otra cotidiana, dependiendo de dónde se detenga el observador.",
+        "q0": "¿Se puede combinar con la catedral?",
+        "a0": "Sí. Los dos espacios se miran entre sí, aunque el horario interior del templo depende de celebraciones.",
+        "q1": "¿Dónde orientarse si hay una concentración?",
+        "a1": "Usa el perímetro y las entradas autorizadas; los accesos empleados un día normal pueden cambiar.",
+        "photo1": "Desde la plaza mira hacia la catedral para mostrar la amplitud del espacio.",
+        "photo2": "Desde el borde urbano toma una perspectiva longitudinal de la explanada.",
+        "caption": "Vista del conjunto de la Plaza de la Paz.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Peace Square",
@@ -701,7 +1514,20 @@
         "route": "Start at Calle 53 and Carrera 46. Use a marked crossing, then walk across the open space facing the cathedral. Follow event diversions during setup.",
         "management": "Atlántico departmental government. Consult its cultural programme for events, displays and current admission arrangements.",
         "question": "Why is the square so large?",
-        "answer": "It was laid out for a mass gathering in 1986 and still hosts civic events."
+        "answer": "It was laid out for a mass gathering in 1986 and still hosts civic events.",
+        "context": "From the centre of the forecourt, face the cathedral and picture the gathering in July 1986. Then move towards an edge, where street noise and the pace of the city return. This contrast reveals the square's ceremonial scale as well as its role in everyday life.",
+        "q0": "Can I combine it with the cathedral?",
+        "a0": "Yes. The spaces face one another, although access inside the cathedral depends on services.",
+        "q1": "How do I navigate during a gathering?",
+        "a1": "Use the perimeter and signed entrances; everyday approaches may be diverted.",
+        "photo1": "From the plaza face the cathedral to show the extent of the space.",
+        "photo2": "From the city-side edge frame a long view across the forecourt.",
+        "caption": "View of the Peace Square complex.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "和平广场",
@@ -709,9 +1535,23 @@
         "route": "到53街与46大道交会处，从标识过街点进入广场，朝主教座堂方向穿过开阔场地，遇活动布置按指示绕行。",
         "management": "大西洋省政府负责；活动布展、展览及开放安排可查省文化活动公告。",
         "question": "广场为何如此开阔？",
-        "answer": "1986年为大型集会建设，今天也用于公共活动。"
+        "answer": "1986年为大型集会建设，今天也用于公共活动。",
+        "context": "站在广场中央面向主教座堂，可以想象1986年7月人群聚集的场面。转向外围，城市的车声与日常节奏随即回来。同一块场地既有仪式性的宏大尺度，也是一处日常通行和休息的公共空间。",
+        "q0": "适合和主教座堂一起逛吗？",
+        "a0": "两处彼此相望，很适合衔接，但教堂室内开放随礼拜安排。",
+        "q1": "有大型活动时怎么走？",
+        "a1": "沿外围寻找活动开放入口，平日使用的通道可能临时改变。",
+        "photo1": "站在广场上面向座堂表现开阔尺度。",
+        "photo2": "在临街边缘纵向拍广场。",
+        "caption": "和平广场全景。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "catedral-metropolitana-maria-reina",
@@ -727,7 +1567,20 @@
         "route": "Desde la Plaza de la Paz busca el acceso indicado para visitantes. Entra solo si está permitido, observa primero el eje del altar y sal por la puerta pública señalizada.",
         "management": "Arquidiócesis de Barranquilla y personal del templo. El culto y las celebraciones tienen prioridad sobre los recorridos.",
         "question": "¿Qué obra buscar primero?",
-        "answer": "El Cristo Libertador centra la atención; mira después cómo se filtra la luz por los vitrales."
+        "answer": "El Cristo Libertador centra la atención; mira después cómo se filtra la luz por los vitrales.",
+        "context": "Empieza por el conjunto, no por un detalle aislado. El gran espacio interior da a la escultura y a los mosaicos una presencia que cambia según la distancia. Los vitrales añaden otra dimensión temporal: la luz sobre el piso y los muros varía durante la jornada, incluso sin cambiar las obras expuestas.",
+        "q0": "¿Desde dónde ver el volumen exterior?",
+        "a0": "Desde la Plaza de la Paz se puede tomar distancia suficiente para encuadrar el conjunto.",
+        "q1": "¿Conviene hacer fotos durante la liturgia?",
+        "a1": "Espera a que termine y consulta al personal. El acceso turístico está subordinado al culto.",
+        "photo1": "Desde la Plaza de la Paz encuadra el volumen moderno del templo.",
+        "photo2": "Ya dentro, si se autoriza, fotografía el vitral desde el pasillo sin acercarte al altar.",
+        "caption": "Catedral Metropolitana María Reina.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "Comprueba la sesión de hoy con el responsable antes de salir. Las horas de taquilla, culto o actividad pueden diferir del acceso a la calle.",
+        "fees": "La asistencia al culto difiere de una visita organizada. Pregunta en el templo por recorridos disponibles y sus condiciones."
       },
       "en": {
         "title": "Metropolitan Cathedral of Mary Queen",
@@ -735,7 +1588,20 @@
         "route": "From Peace Square locate the visitor entrance. If admission is allowed, first look along the axis towards the altar, then leave through the signed public exit.",
         "management": "Archdiocese of Barranquilla and the church staff. Worship and ceremonies take priority over sightseeing.",
         "question": "What should I look for first?",
-        "answer": "Find the Cristo Libertador, then see how light comes through the stained glass."
+        "answer": "Find the Cristo Libertador, then see how light comes through the stained glass.",
+        "context": "Start with the whole space before choosing a detail. The spacious interior changes the apparent scale of sculpture and mosaics as you approach. Stained glass adds a time dimension: light on floors and walls varies through the day even though the artworks remain in place.",
+        "q0": "Where can I see the exterior volume?",
+        "a0": "Peace Square gives enough distance to see the building as a whole.",
+        "q1": "Should I take photographs during a service?",
+        "a1": "Wait until it ends and ask staff. Sightseeing is secondary to worship.",
+        "photo1": "From Peace Square frame the modern mass of the cathedral.",
+        "photo2": "Inside, if permitted, photograph stained glass from an aisle without approaching the altar.",
+        "caption": "Metropolitan Cathedral of Mary Queen.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Check today’s visitor session with the venue before leaving. Ticket desk, worship or programme hours can differ from street access.",
+        "fees": "Attending worship is separate from an organised visit. Ask church staff about available tours and conditions."
       },
       "zh": {
         "title": "圣母君王主教座堂",
@@ -743,9 +1609,23 @@
         "route": "从和平广场找到访客入口，允许入内时先沿中轴看祭坛方向，再由指定公共出口离开。",
         "management": "巴兰基亚总教区及教堂工作人员负责宗教场所；礼拜与仪式优先。",
         "question": "先看哪件作品？",
-        "answer": "先找《解放者基督》，再观察光如何穿过彩窗。"
+        "answer": "先找《解放者基督》，再观察光如何穿过彩窗。",
+        "context": "进门后先看整体再找具体作品。宽大的内部空间让雕塑与镶嵌画随距离产生不同尺度感。彩窗又增加了时间维度：作品没有移动，墙面和地板上的光却随一天的时刻改变。",
+        "q0": "从哪里看完整建筑体量？",
+        "a0": "从和平广场一侧拉开距离，能把整体收入视野。",
+        "q1": "礼拜时适合拍照吗？",
+        "a1": "等待仪式结束并询问工作人员，游客参观须尊重宗教活动。",
+        "photo1": "从和平广场拍主教座堂的现代体量。",
+        "photo2": "获准时在过道拍彩窗，勿靠近祭坛。",
+        "caption": "圣母君王主教座堂。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "出发前向接待方核对当天可参观时段，售票、礼拜或活动时间与街道通行不同。",
+        "fees": "参加礼拜与预约导览不同，具体参观项目及收费向教堂工作人员核对。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "museo-del-carnaval",
@@ -761,7 +1641,20 @@
         "route": "Desde la carrera 54 localiza el número 49B-39. Empieza dentro por la presentación del Carnaval y termina el paseo observando los murales que encuentres en las calles abiertas del barrio.",
         "management": "Carnaval de Barranquilla: museo y atención de visitantes en Barrio Abajo.",
         "question": "¿Vale la pena fuera de Carnaval?",
-        "answer": "El museo ayuda a interpretar los preparativos, personajes y danzas más allá de los días de desfile."
+        "answer": "El museo ayuda a interpretar los preparativos, personajes y danzas más allá de los días de desfile.",
+        "context": "Un disfraz inmóvil permite examinar costuras, materiales y proporciones que pasan casi inadvertidos durante un desfile. Conserva esa imagen antes de observar representaciones de baile: la pieza cambia de significado cuando se imagina en movimiento. Esta comparación entre taller, vitrina y calle es una buena guía para una visita breve.",
+        "q0": "¿Qué detalle elegir si tengo poco tiempo?",
+        "a0": "Escoge un personaje y sigue su vestuario y movimiento en vez de intentar memorizar todos los nombres.",
+        "q1": "¿El museo está en la ruta de desfiles?",
+        "a1": "La sede está en Barrio Abajo; para asistir a un desfile consulta su recorrido específico de ese año.",
+        "photo1": "Desde la acera opuesta muestra la fachada del museo en Barrio Abajo.",
+        "photo2": "Con permiso, elige un detalle de vestuario en sala en lugar de un retrato de visitantes.",
+        "caption": "Museo del Carnaval en Barrio Abajo.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "El directorio indica martes a sábado 09:00–12:00 y 14:00–16:00; domingo 09:00–16:00 y lunes cerrado. Verifica en taquilla antes de viajar.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "Carnival Museum",
@@ -769,7 +1662,20 @@
         "route": "On Carrera 54 find number 49B-39. Begin with the museum's introduction, then continue on public streets in Barrio Abajo and look for painted walls along the way.",
         "management": "Carnaval de Barranquilla operates the museum and its visitor service in Barrio Abajo.",
         "question": "Is it worth visiting outside carnival dates?",
-        "answer": "The museum explains preparations, characters and dances beyond the parade days."
+        "answer": "The museum explains preparations, characters and dances beyond the parade days.",
+        "context": "A costume at rest lets you study seams, materials and proportions that a parade spectator can easily miss. Keep that image in mind when you see dance interpreted; the piece takes on a different meaning when imagined in motion. Comparing workshop, display and street offers a focus for a short visit.",
+        "q0": "Which detail should I focus on with little time?",
+        "a0": "Choose one character and follow its costume and movement rather than trying to memorise every name.",
+        "q1": "Is this the parade route?",
+        "a1": "The museum is in Barrio Abajo. Each parade has a separate route to check for that year.",
+        "photo1": "From the opposite pavement frame the museum frontage in Barrio Abajo.",
+        "photo2": "With permission, photograph a costume detail rather than visitors in the gallery.",
+        "caption": "Carnival Museum in Barrio Abajo.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Listed hours are Tuesday–Saturday 09:00–12:00 and 14:00–16:00, Sunday 09:00–16:00, closed Monday. Confirm at the museum before travelling.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "狂欢节博物馆",
@@ -777,9 +1683,23 @@
         "route": "到54大道49B-39号，从馆内对狂欢节的介绍开始；出馆沿下城区公共街道散步，留意途中墙绘。",
         "management": "Carnaval de Barranquilla负责下城区馆舍与游客接待。",
         "question": "狂欢节以外也值得去吗？",
-        "answer": "馆内能看到游行之外的筹备工作、角色和舞蹈文化。"
+        "answer": "馆内能看到游行之外的筹备工作、角色和舞蹈文化。",
+        "context": "静止的戏服能让人端详缝线、材料与比例，这些细节在游行人潮中很容易错过。带着这个印象再看舞蹈介绍，想象服装运动时会呈现什么效果。用工坊、展柜和街头三种场景对照，短暂停留也能有所收获。",
+        "q0": "时间短该选哪个细节？",
+        "a0": "选一个传统角色，追踪它的服装和动作，比记住所有角色姓名更容易理解。",
+        "q1": "到博物馆就是看游行的地点吗？",
+        "a1": "馆址在下城区，具体游行须按当年活动路线查找观看位置。",
+        "photo1": "从下城区街对面的步道拍博物馆正面。",
+        "photo2": "馆内经许可拍服饰细节，避开游客肖像。",
+        "caption": "下城区狂欢节博物馆。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "目录列周二至周六09:00至12:00、14:00至16:00，周日09:00至16:00，周一闭馆，请提前向馆方核对。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "60–90"
   },
   {
     "slug": "museo-del-atlantico",
@@ -795,7 +1715,20 @@
         "route": "Busca la fachada de carrera 39 y revisa la programación antes de subir a las salas. Regresa a la calle para situar el antiguo edificio público dentro del centro comercial histórico.",
         "management": "Gobernación del Atlántico. Consulta su programación cultural para conocer montajes, exposiciones y condiciones de ingreso.",
         "question": "¿Qué uso tenía el edificio?",
-        "answer": "Fue sede departamental antes de su transformación en museo."
+        "answer": "Fue sede departamental antes de su transformación en museo.",
+        "context": "El punto de partida puede ser la calle, donde todavía resulta evidente que se trata de un inmueble pensado para una institución pública. Dentro, las salas sirven a una escala territorial mayor que la ciudad. Al leer la procedencia de objetos o trabajos expuestos, localiza el municipio correspondiente dentro de Atlántico.",
+        "q0": "¿Todas las salas forman una misma exposición?",
+        "a0": "La programación cambia. Solicita en la entrada la lista de salas abiertas antes de organizar la visita.",
+        "q1": "¿Qué fecha marca su uso como museo?",
+        "a1": "La inauguración museística fue en diciembre de 2011; el edificio administrativo es anterior.",
+        "photo1": "En carrera 39 busca el frente antiguo a distancia de acera.",
+        "photo2": "Desde la entrada busca la relación entre señalización museística y edificio administrativo.",
+        "caption": "Antigua sede departamental, hoy Museo del Atlántico.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "El directorio registra lunes a viernes 08:00–12:00 y 14:00–16:00. Confirma qué salas abren en cada turno.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "Atlántico Museum",
@@ -803,7 +1736,20 @@
         "route": "Find the Carrera 39 facade and check the programme before entering galleries. Return to the street to see how the former seat of government fits into the commercial centre.",
         "management": "Atlántico departmental government. Consult its cultural programme for events, displays and current admission arrangements.",
         "question": "What did the building originally house?",
-        "answer": "It served the departmental government before its transformation into a museum."
+        "answer": "It served the departmental government before its transformation into a museum.",
+        "context": "Start in the street, where the building still reads as a public institution. Inside, its galleries address a territory larger than Barranquilla alone. When labels identify the origin of objects or artworks, locate the municipality within Atlántico to understand the museum’s departmental scope.",
+        "q0": "Are the galleries always one exhibition?",
+        "a0": "Programmes change. Ask for the list of open galleries before planning your visit.",
+        "q1": "When did its museum use begin?",
+        "a1": "The museum opened in December 2011. The government building itself is older.",
+        "photo1": "On Carrera 39 frame the historic frontage from the pavement.",
+        "photo2": "From the entrance frame the museum signs against the former government building.",
+        "caption": "Former departmental seat, now the Atlántico Museum.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "The directory lists weekdays 08:00–12:00 and 14:00–16:00. Confirm which galleries are open during each session.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "大西洋省博物馆",
@@ -811,9 +1757,23 @@
         "route": "从39大道找到建筑正面，先进门核对当日展厅安排。看完回到街上，比较旧省府与周围商业老城的关系。",
         "management": "大西洋省政府负责；活动布展、展览及开放安排可查省文化活动公告。",
         "question": "这座建筑过去做什么用？",
-        "answer": "改成博物馆前曾承担省政府办公职能。"
+        "answer": "改成博物馆前曾承担省政府办公职能。",
+        "context": "先在街上留意建筑作为公共机构的体量。展厅关注的范围比巴兰基亚市更广。阅读物件与作品的来源说明时，可同时认清它出自大西洋省哪个市镇，这正是省级博物馆与市区单一展览的区别。",
+        "q0": "所有展厅总是在办同一个展览吗？",
+        "a0": "不同展厅展程可能不同，进门先索取当天开放名单。",
+        "q1": "什么时候开始用作博物馆？",
+        "a1": "博物馆于2011年12月开馆，原有的行政建筑历史更早。",
+        "photo1": "在39大道隔着人行道拍旧立面。",
+        "photo2": "在入口拍新馆标识与旧行政建筑的关系。",
+        "caption": "原省政府办公建筑，现大西洋省博物馆。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "目录列周一至周五08:00至12:00及14:00至16:00，各时段开放展厅请问馆方。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "museo-arqueologico-de-pueblos-karib",
@@ -829,7 +1789,20 @@
         "route": "Llega a la portería de Uninorte en la vía a Puerto Colombia y solicita la ruta peatonal al MAPUKA. Lleva identificación para el control universitario y vuelve por el paso autorizado.",
         "management": "Universidad del Norte, responsable del MAPUKA y del acceso al campus.",
         "question": "¿Es una visita en el campus?",
-        "answer": "Sí. Confirma la entrada universitaria para visitantes y lleva documento de identificación."
+        "answer": "Sí. Confirma la entrada universitaria para visitantes y lleva documento de identificación.",
+        "context": "MAPUKA permite ver la región más allá de las fronteras municipales actuales. Una misma vitrina puede reunir objetos diferentes por función o procedencia; busca primero la fecha y la localidad de la pieza. Así evitas pensar en las comunidades arqueológicas del Caribe como un único grupo sin cambios a través del tiempo.",
+        "q0": "¿Para qué sirven los nombres San Jacinto y Malambo?",
+        "a0": "Son referencias regionales para ubicar materiales y comparar tradiciones, no nombres de salas comerciales.",
+        "q1": "¿Se puede llegar andando desde el castillo?",
+        "a1": "El paseo comienza dentro de Uninorte. Desde el castillo organiza transporte hasta la portería de la universidad.",
+        "photo1": "Desde el acceso universitario autorizado registra la señalización del museo.",
+        "photo2": "En una sala autorizada encuadra una pieza con su cartela, respetando las reglas de flash.",
+        "caption": "Área de exposición del museo MAPUKA.",
+        "region": "Campus de Uninorte",
+        "transport": "Viaja por el corredor Barranquilla–Puerto Colombia hasta la portería de Universidad del Norte. Pregunta por MAPUKA antes de atravesar el control: el acceso de automóviles puede diferir del peatonal.",
+        "stay": "Riomar permite combinar el campus con visitas urbanas sin salir de Barranquilla. Puerto Colombia centro resulta más práctico si el muelle y Salgar ocupan el resto del día; prevé transporte para la portería.",
+        "hours": "El directorio municipal indica lunes a viernes 09:00–17:30 y sábado 09:00–13:00. El calendario universitario puede afectar la entrada.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "MAPUKA Archaeology Museum",
@@ -837,7 +1810,20 @@
         "route": "Arrive at the Uninorte gate on the Puerto Colombia road. Ask for the campus walking route to MAPUKA, bring ID for the university checkpoint and leave through an authorised gate.",
         "management": "Universidad del Norte manages MAPUKA and campus access.",
         "question": "Is the museum on campus?",
-        "answer": "Yes. Check the visitor entrance with the university and bring identification."
+        "answer": "Yes. Check the visitor entrance with the university and bring identification.",
+        "context": "MAPUKA presents a region whose past predates modern municipal boundaries. Objects in a case may differ in function or origin, so read the date and locality first. This keeps the Caribbean’s archaeological communities from seeming like a single unchanging group across time.",
+        "q0": "Why do San Jacinto and Malambo matter?",
+        "a0": "They locate the material regionally and help visitors compare archaeological traditions.",
+        "q1": "Can I walk from the castle?",
+        "a1": "The suggested walk starts on campus. Arrange transport from the castle to the university gate.",
+        "photo1": "At the authorised campus approach photograph the museum signs.",
+        "photo2": "In a permitted gallery frame an object with its label and follow flash rules.",
+        "caption": "Exhibition space at MAPUKA.",
+        "region": "Uninorte campus",
+        "transport": "Take the Barranquilla–Puerto Colombia corridor to the Universidad del Norte gate. Ask for MAPUKA before passing the checkpoint; vehicle and pedestrian entrances may differ.",
+        "stay": "Riomar pairs a campus visit with urban stops in Barranquilla. Central Puerto Colombia is better if the pier and Salgar fill the rest of the day; arrange transport to the university gate.",
+        "hours": "The directory lists weekdays 09:00–17:30 and Saturday 09:00–13:00. Campus schedules may affect visitor admission.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "MAPUKA加勒比考古博物馆",
@@ -845,9 +1831,23 @@
         "route": "沿哥伦比亚港公路到北方大学门岗，带身份证件询问校内前往MAPUKA的步行线路，参观后从获准开放的校门离开。",
         "management": "北方大学管理MAPUKA及校园出入。",
         "question": "馆址在校园内吗？",
-        "answer": "在大学内，先核对访客入口并携带身份证件。"
+        "answer": "在大学内，先核对访客入口并携带身份证件。",
+        "context": "MAPUKA研究的地区历史早于今天的市镇边界。一个展柜中物件可能来自不同时代、用途或聚落，先读标签上的地名与年代，有助于避免把加勒比考古文化误解为一支始终相同的群体。",
+        "q0": "圣哈辛托和马兰博这些地名有何用？",
+        "a0": "它们帮助把材料放回不同地区，比较当地的考古传统。",
+        "q1": "能从城堡一路步行过去吗？",
+        "a1": "建议步行段从校园开始，从城堡到大学门岗应另行安排交通。",
+        "photo1": "在校园开放通道拍考古馆指示牌。",
+        "photo2": "在允许拍摄的厅内同框记录器物与说明牌，遵守闪光灯限制。",
+        "caption": "MAPUKA博物馆展区。",
+        "region": "北方大学校园",
+        "transport": "沿巴兰基亚至哥伦比亚港走廊抵达北方大学门岗。通过门禁前询问MAPUKA的步行路线，车辆入口和访客步行入口可能不同。",
+        "stay": "住里奥马尔便于结合校园和市区参观。若当天还想去码头和萨尔加尔，可住哥伦比亚港镇中心，另安排到大学门岗的交通。",
+        "hours": "目录列工作日09:00至17:30、周六09:00至13:00，访客入校仍随校历调整。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "60–90"
   },
   {
     "slug": "zoologico-de-barranquilla",
@@ -863,7 +1863,20 @@
         "route": "Desde calle 77 accede por la taquilla, revisa el plano y sigue el circuito público sin tocar barreras. Vuelve al punto de entrada por los caminos interiores señalizados.",
         "management": "Fundación Botánica y Zoológica de Barranquilla, operadora del zoológico.",
         "question": "¿Está garantizado ver un animal en primer plano?",
-        "answer": "Depende de su comportamiento. Lee los paneles y evita llamar o alimentar a los animales."
+        "answer": "Depende de su comportamiento. Lee los paneles y evita llamar o alimentar a los animales.",
+        "context": "El papel de la fundación operadora se reconoce tanto en las normas del recorrido como en el contenido de los paneles. Si un animal se retira de la vista, compara la información sobre su hábitat con lo que sí puedes observar: cobertura vegetal, refugios y lugares elevados forman parte de la lectura del recinto.",
+        "q0": "¿Es buena idea llevar comida para los animales?",
+        "a0": "No. El personal controla su alimentación; guarda los alimentos de visitantes en las zonas permitidas.",
+        "q1": "¿Qué hacer si viajo con niños pequeños?",
+        "a1": "Elige unos pocos recintos desde el plano de entrada y conserva tiempo para leer señales y descansar.",
+        "photo1": "Desde el sendero público fotografía el entorno completo del recinto.",
+        "photo2": "Desde un punto de descanso usa zoom para observar sin golpear los cristales.",
+        "caption": "Fauna del Zoológico de Barranquilla.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "El directorio registra lunes a viernes 09:00–16:00 y fines de semana 09:00–16:30. Confirma última admisión con el zoológico.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "Barranquilla Zoo",
@@ -871,7 +1884,20 @@
         "route": "Enter from Calle 77 through the ticket office, consult the plan and stay on public paths without touching enclosure barriers. Return by the marked internal route.",
         "management": "Fundación Botánica y Zoológica de Barranquilla operates the zoo.",
         "question": "Will every animal be in close view?",
-        "answer": "That depends on its behaviour. Read the signs and avoid calling or feeding the animals."
+        "answer": "That depends on its behaviour. Read the signs and avoid calling or feeding the animals.",
+        "context": "The operating foundation’s role appears in visitor rules as well as interpretive signs. When an animal retreats from view, compare the habitat information with what remains visible. Vegetation, shelters and raised resting places are part of understanding an enclosure rather than empty gaps in a visit.",
+        "q0": "Should I bring food for the animals?",
+        "a0": "Staff control their diet. Keep visitors' food in the permitted areas.",
+        "q1": "What works with young children?",
+        "a1": "Choose a few enclosures on the entrance map and leave time to read signs and rest.",
+        "photo1": "From the public path frame the whole habitat setting.",
+        "photo2": "From a rest point use zoom rather than tapping glass to bring animals closer.",
+        "caption": "Wildlife at Barranquilla Zoo.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Listed hours are weekdays 09:00–16:00 and weekends 09:00–16:30. Confirm last admission with the zoo.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "巴兰基亚动物园",
@@ -879,9 +1905,23 @@
         "route": "从77街售票处入园，先看平面图，沿公共游径步行，避免触碰围栏，再按园内指示回到入口。",
         "management": "巴兰基亚动植物基金会运营动物园。",
         "question": "每种动物都能近距离看到吗？",
-        "answer": "取决于动物活动情况，阅读标牌即可，不要呼喊或投喂。"
+        "answer": "取决于动物活动情况，阅读标牌即可，不要呼喊或投喂。",
+        "context": "运营基金会的工作既体现在参观规则中，也体现在解说牌上。若动物退到看不见的地方，可以对照环境说明观察植被覆盖、庇护处和高处休息点。这些也是理解展区设计的线索。",
+        "q0": "可以带食物喂动物吗？",
+        "a0": "膳食由园方管理，游客食品只能在允许的区域食用。",
+        "q1": "带幼儿如何安排参观？",
+        "a1": "在入口地图上先选少数展区，预留读解说牌与休息的时间。",
+        "photo1": "站在公共游径拍整个生境。",
+        "photo2": "在可停留位置用变焦观察，勿敲打玻璃。",
+        "caption": "巴兰基亚动物园中的动物。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "目录列工作日09:00至16:00、周末09:00至16:30，末次入园请向园方核对。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "60–90"
   },
   {
     "slug": "parque-los-fundadores",
@@ -897,7 +1937,20 @@
         "route": "Llega al cruce con calle 59, atraviesa por el paso peatonal y entra al bulevar. Desde el monumento sigue por el lado arbolado y regresa al cruce.",
         "management": "Distrito de Barranquilla: espacio público y programación cultural. El acceso puede variar con actos y montajes.",
         "question": "¿A quién recuerda el monumento?",
-        "answer": "A Ernesto Cortissoz y a los mártires de la aviación."
+        "answer": "A Ernesto Cortissoz y a los mártires de la aviación.",
+        "context": "En un barrio conocido por sus residencias, este espacio introduce una memoria pública muy distinta. No se trata de entrar a una casa o de recorrer una exposición: son la inscripción, la orientación de la pieza y su lugar en el bulevar los que cuentan la historia. El tránsito circundante hace especialmente importante elegir bien el cruce.",
+        "q0": "¿Necesito una entrada para ver la dedicatoria?",
+        "a0": "La pieza se contempla en el espacio público del bulevar; respeta cualquier cierre por acto cívico.",
+        "q1": "¿Con qué paseo de arquitectura se relaciona?",
+        "a1": "Úsalo como parada de memoria al recorrer a pie el bulevar y las residencias de El Prado.",
+        "photo1": "Desde la entrada del bulevar sitúa el monumento dentro del parque.",
+        "photo2": "En el paso peatonal interior encuadra la dedicatoria sin atravesar la calzada.",
+        "caption": "Monumento del Parque Los Fundadores.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Founders Park",
@@ -905,7 +1958,20 @@
         "route": "At Calle 59 use a marked crossing to enter the boulevard. From the monument follow the tree-lined side and return to the crossing.",
         "management": "Barranquilla District oversees public space and cultural programming. Event setup can change pedestrian access.",
         "question": "Who does the monument commemorate?",
-        "answer": "Ernesto Cortissoz and the aviation martyrs."
+        "answer": "Ernesto Cortissoz and the aviation martyrs.",
+        "context": "In a district known for its residences, the park introduces a different kind of public memory. No house entry or exhibition is needed: the inscription, the monument’s placement and its position on the boulevard tell the story. Surrounding traffic makes choosing a marked crossing particularly important.",
+        "q0": "Do I need admission to read the dedication?",
+        "a0": "The monument stands in public boulevard space. Respect temporary closures for civic events.",
+        "q1": "How does it fit an architectural walk?",
+        "a1": "Use it as a memorial stop between the boulevard and the residences of El Prado.",
+        "photo1": "From the boulevard entrance place the monument in its park setting.",
+        "photo2": "From within the pedestrian space photograph the dedication without entering the roadway.",
+        "caption": "Monument in Founders Park.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "奠基者公园",
@@ -913,9 +1979,23 @@
         "route": "到59街交会处走人行道进入林荫带，从纪念物沿树荫侧步行，再折返过街点。",
         "management": "巴兰基亚特区管理公共空间与文化活动。活动搭建期间的步行通道可能调整。",
         "question": "纪念物是纪念谁的？",
-        "answer": "埃内斯托·科尔蒂索斯及航空先驱。"
+        "answer": "埃内斯托·科尔蒂索斯及航空先驱。",
+        "context": "在以住宅著称的街区，这座公园讲述的是另一种公共记忆。无需入馆，铭文、纪念物的朝向以及它在林荫道中的位置本身就在讲故事。周围车流较多，先选好过街点再靠近纪念物。",
+        "q0": "读铭文需要门票吗？",
+        "a0": "纪念物在林荫道公共空间内，遇纪念活动临时封控时须配合。",
+        "q1": "如何排入建筑散步？",
+        "a1": "把公园放在林荫道与普拉多住宅区之间，作为主题从住宅转向公共纪念的停留点。",
+        "photo1": "从林荫道入口同框拍纪念物与公园。",
+        "photo2": "在园内步行空间取铭文，不走入车道。",
+        "caption": "奠基者公园内的纪念物。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "hotel-el-prado",
@@ -931,7 +2011,20 @@
         "route": "Sigue la acera de carrera 54 hasta el frente del hotel junto a calle 70. Contempla los jardines desde el acceso; para entrar al establecimiento consulta a recepción.",
         "management": "Administración del Hotel El Prado para toda visita interior; la observación desde la acera es independiente.",
         "question": "¿Es necesario alojarse para mirar la fachada?",
-        "answer": "La fachada se ve desde el espacio público. Los salones y jardines pueden tener acceso controlado."
+        "answer": "La fachada se ve desde el espacio público. Los salones y jardines pueden tener acceso controlado.",
+        "context": "El alojamiento fue parte de la modernización del barrio y sigue siendo un establecimiento en funcionamiento. Observa desde el espacio público la distancia entre calle y fachada: el jardín construye una secuencia de llegada muy diferente a la entrada directa de una casa de comercio en el centro histórico.",
+        "q0": "¿Puedo usar la piscina con una visita de fachada?",
+        "a0": "La observación exterior no incluye los servicios del hotel. Consulta directamente por acceso y tarifas.",
+        "q1": "¿Qué relación guarda con El Prado?",
+        "a1": "El retiro ajardinado y la escala del edificio ilustran el carácter residencial y social del barrio.",
+        "photo1": "Desde la acera de carrera 54 usa el jardín como primer plano.",
+        "photo2": "Desde el acceso autorizado mira de lado la sucesión de arcos y volúmenes.",
+        "caption": "Edificio y jardines del Hotel El Prado.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "Hotel El Prado heritage frontage",
@@ -939,7 +2032,20 @@
         "route": "Follow the Carrera 54 pavement to the hotel frontage near Calle 70. View the gardens from the approach; ask reception before entering hotel premises.",
         "management": "Hotel El Prado management controls indoor access. The pavement provides an independent exterior view.",
         "question": "Must I stay at the hotel to see the facade?",
-        "answer": "The facade is visible from public space. The hotel controls access to salons and gardens."
+        "answer": "The facade is visible from public space. The hotel controls access to salons and gardens.",
+        "context": "The hotel formed part of the district’s modernisation and remains a working establishment. From public space, note the distance between street and facade. The garden sets up an arrival sequence very different from the direct entrance to a trading house in the historic centre.",
+        "q0": "Does an exterior visit include the pool?",
+        "a0": "An exterior walk includes no hotel services. Ask the hotel directly about admission and charges.",
+        "q1": "How does the building relate to El Prado?",
+        "a1": "Its garden setback and scale illustrate the district’s residential and social character.",
+        "photo1": "From the Carrera 54 pavement use the garden as foreground.",
+        "photo2": "From the permitted approach look sideways at the repeating arches and forms.",
+        "caption": "Hotel El Prado and its gardens.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "普拉多酒店历史立面",
@@ -947,9 +2053,23 @@
         "route": "沿54大道的人行道走到靠近70街的酒店正面，从入口一侧欣赏花园，想进入酒店设施先向前台询问。",
         "management": "酒店管理方负责内部接待，公共人行道可独立欣赏外观。",
         "question": "一定要住宿才能看外观吗？",
-        "answer": "公共街道上可以看立面，沙龙和花园由酒店控制出入。"
+        "answer": "公共街道上可以看立面，沙龙和花园由酒店控制出入。",
+        "context": "酒店是街区近代发展的一部分，至今仍在营业。从公共道路观察街道到立面的距离，花园形成逐步进入建筑的空间序列，与老城商铺临街开门的布局截然不同。",
+        "q0": "参观外观可以用游泳池吗？",
+        "a0": "看外观不含酒店内部服务，相关权限与收费须问酒店。",
+        "q1": "它如何体现普拉多街区特色？",
+        "a1": "花园退距与建筑体量体现了这一带住宅和社交活动共存的布局。",
+        "photo1": "从54大道人行道以花园作前景。",
+        "photo2": "在允许通行的位置斜拍连续的拱与体量。",
+        "caption": "普拉多酒店建筑与花园。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "quinta-jose-blanco-2",
@@ -965,7 +2085,20 @@
         "route": "Ubica calle 66 número 54-43. Detente sobre la acera sin entrar al jardín y cambia unos pasos de posición para ver la repetición de los vanos.",
         "management": "Residencia de acceso privado en el itinerario patrimonial del Distrito. La inclusión en una ruta no autoriza el ingreso.",
         "question": "¿Se puede entrar a la residencia?",
-        "answer": "El recorrido arquitectónico se hace desde la calle; no presupone acceso doméstico."
+        "answer": "El recorrido arquitectónico se hace desde la calle; no presupone acceso doméstico.",
+        "context": "Esta casa figura en la ruta arquitectónica de El Prado por la composición de sus volúmenes. Una observación útil consiste en dibujar con la mirada el contorno completo antes de fijarse en los motivos más llamativos. El nombre José Blanco también se asocia a otra quinta del sector; comprueba el número de calle al llegar.",
+        "q0": "¿Cómo distinguir esta quinta de la otra del mismo nombre?",
+        "a0": "Esta ficha corresponde a calle 66, número 54-43; la otra referencia del itinerario está en calle 67.",
+        "q1": "¿Qué elemento ayuda a leer el estilo?",
+        "a1": "La repetición de los vanos y sus marcos, visible sin acercarse a las ventanas de la vivienda.",
+        "photo1": "Desde enfrente en calle 66 encuadra las ventanas agrupadas.",
+        "photo2": "Desde la misma acera cambia a una vista oblicua de los cuerpos de fachada.",
+        "caption": "Quinta José Blanco en calle 66.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "Programa la observación exterior con luz de día. Los servicios privados y los cierres por eventos no siguen un horario común.",
+        "fees": "El paseo exterior por el espacio público no requiere comprar una actividad. Alquileres, transporte y servicios privados se pagan por separado."
       },
       "en": {
         "title": "José Blanco House on Calle 66",
@@ -973,7 +2106,20 @@
         "route": "Find Calle 66 number 54-43. Remain on the pavement outside the garden and shift a few steps sideways to see the windows repeat.",
         "management": "A private residence on the district heritage itinerary. Listing on the walk grants no right of entry.",
         "question": "Can I go inside the house?",
-        "answer": "This architectural stop is viewed from the street and grants no access to the home."
+        "answer": "This architectural stop is viewed from the street and grants no access to the home.",
+        "context": "The facade is included in the El Prado itinerary for the composition of its volumes. Trace the outline of the whole building before focusing on individual motifs. The José Blanco name also appears on another house in the district, so check the street number on arrival.",
+        "q0": "How do I distinguish it from the similarly named house?",
+        "a0": "This entry is for Calle 66 number 54-43. The other itinerary reference lies on Calle 67.",
+        "q1": "Which feature helps me read the style?",
+        "a1": "The repetition of the openings and frames, visible without approaching the home's windows.",
+        "photo1": "From opposite on Calle 66 frame the grouped windows.",
+        "photo2": "From the same pavement take an oblique view of the facade sections.",
+        "caption": "José Blanco residence on Calle 66.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Plan the exterior walk in daylight. Private facilities and event closures do not follow a common timetable.",
+        "fees": "No booked activity is needed for the public exterior walk. Transport, rentals and private services are separate."
       },
       "zh": {
         "title": "66街何塞·布兰科宅邸",
@@ -981,9 +2127,23 @@
         "route": "到66街54-43号，在花园外的人行道停下，横向移动几步观察反复出现的窗组，不进入庭院。",
         "management": "这是一处纳入特区遗产线路的私人住宅，入选线路不意味着可以进入。",
         "question": "能进屋参观吗？",
-        "answer": "建筑游线从公共街边观察，不包含入户权限。"
+        "answer": "建筑游线从公共街边观察，不包含入户权限。",
+        "context": "这栋住宅因体量组合被收入普拉多建筑线路。先沿建筑外轮廓看完整体，再辨认最醒目的装饰图案。附近还有与何塞·布兰科有关的另一栋宅邸，抵达时核对街道编号十分重要。",
+        "q0": "如何与同名宅邸区分？",
+        "a0": "本页是66街54-43号那一栋，线路中另一个相似名称的地点位于67街。",
+        "q1": "观察哪处能读懂风格？",
+        "a1": "看窗洞和边框的重复节奏，在公共街边就能辨认，不必靠近住宅窗户。",
+        "photo1": "站在66街对侧拍成组窗户。",
+        "photo2": "沿同一侧人行道移动，斜拍各个立面分段。",
+        "caption": "66街何塞·布兰科宅邸。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "外观步行建议白天进行，私人设施与临时活动封控各有安排。",
+        "fees": "公共区域外观步行无需购买活动票，交通、租赁及私人服务另计。"
       }
-    }
+    },
+    "minutes": "20–35"
   },
   {
     "slug": "la-cueva",
@@ -999,7 +2159,20 @@
         "route": "Desde la avenida 20 de Julio busca el frente identificado como La Cueva. Pregunta qué espacios culturales están abiertos antes de ocupar una mesa o iniciar un recorrido.",
         "management": "Fundación La Cueva para la programación cultural del recinto y las visitas.",
         "question": "¿Es una casa natal de García Márquez?",
-        "answer": "La relación es la tertulia literaria; la visita se centra en el antiguo punto de reunión."
+        "answer": "La relación es la tertulia literaria; la visita se centra en el antiguo punto de reunión.",
+        "context": "El origen como tienda de barrio ayuda a entender que la historia literaria no siempre nació en academias o salas formales. Aquí se cruzaban conversaciones, pintura, periodismo y comidas. Antes de entrar, contempla la escala del local desde la avenida: forma parte del relato precisamente porque era un lugar de encuentro cotidiano.",
+        "q0": "¿Quiénes se reunían aquí?",
+        "a0": "Escritores, periodistas y artistas vinculados al Grupo de Barranquilla; el lugar se recuerda por el intercambio entre disciplinas.",
+        "q1": "¿Un servicio de mesa equivale a una visita cultural?",
+        "a1": "Consulta ambos por separado. La programación de la fundación y el servicio del establecimiento pueden tener accesos distintos.",
+        "photo1": "Desde la avenida encuadra el frente del local literario.",
+        "photo2": "Dentro, si se permite, toma una vista del espacio de reunión sin fotografiar comensales de cerca.",
+        "caption": "Espacio de encuentro en La Cueva.",
+        "region": "Barranquilla urbana",
+        "transport": "Desde Salgar toma transporte hacia Barranquilla y continúa hasta la dirección indicada. Al apearte confirma el número de calle y carrera antes de iniciar el tramo peatonal; los dos ejes tienen numeraciones diferentes.",
+        "stay": "El Prado funciona bien para combinar arquitectura y museos durante varios días. Alojarse en el Centro Histórico reduce el traslado matutino a la Aduana o a San Nicolás; comprueba el acceso nocturno del alojamiento.",
+        "hours": "Comprueba la sesión de hoy con el responsable antes de salir. Las horas de taquilla, culto o actividad pueden diferir del acceso a la calle.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "La Cueva literary meeting place",
@@ -1007,7 +2180,20 @@
         "route": "From Avenida 20 de Julio find the frontage signed La Cueva. Ask which cultural spaces are open before taking a table or beginning an indoor visit.",
         "management": "Fundación La Cueva handles cultural programming and visits.",
         "question": "Is this García Márquez's birthplace?",
-        "answer": "Its literary connection is the gathering of writers here. Visit it as their meeting place."
+        "answer": "Its literary connection is the gathering of writers here. Visit it as their meeting place.",
+        "context": "Its beginnings as a neighbourhood shop show that literary history did not always start in academies or formal halls. Conversation, painting, journalism and meals crossed paths here. Look at the premises from the avenue before entering; their everyday scale is part of the story of an informal meeting place.",
+        "q0": "Who gathered here?",
+        "a0": "Writers, journalists and artists associated with the Barranquilla Group; it is remembered for exchanges across disciplines.",
+        "q1": "Does a restaurant reservation include a cultural visit?",
+        "a1": "Ask separately. Foundation programmes and hospitality services can have different access arrangements.",
+        "photo1": "From the avenue frame the literary venue’s frontage.",
+        "photo2": "Inside, if permitted, frame the gathering space without close-ups of diners.",
+        "caption": "Gathering space at La Cueva.",
+        "region": "Urban Barranquilla",
+        "transport": "From Salgar take transport into Barranquilla and continue to the listed address. On arrival check both the calle and carrera numbers before the walk; the two street axes use separate numbering.",
+        "stay": "El Prado is convenient for a multi-day itinerary of architecture and museums. The historic centre cuts the morning trip to the customs district or San Nicolás; check the hotel’s evening approach.",
+        "hours": "Check today’s visitor session with the venue before leaving. Ticket desk, worship or programme hours can differ from street access.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "拉奎瓦文学聚会旧址",
@@ -1015,9 +2201,23 @@
         "route": "从七月二十日大道找到标有La Cueva的正面，先询问文化空间当天开放范围，再决定是否进内参观或用餐。",
         "management": "La Cueva基金会负责文化活动及场馆参观。",
         "question": "这是马尔克斯出生地吗？",
-        "answer": "它与文学的关系源于作家聚会，参观重点是当年的交流空间。"
+        "answer": "它与文学的关系源于作家聚会，参观重点是当年的交流空间。",
+        "context": "前身是邻里商店，让人明白文学史并不总发生在学院或正式大厅中。交谈、绘画、新闻写作和用餐曾在此交会。进门前从大道上看看店铺尺度，那种日常性正是它作为非正式文学聚会空间的关键。",
+        "q0": "这里过去有哪些人聚会？",
+        "a0": "与巴兰基亚群体有关的作家、记者与艺术家，场所的重要性正来自不同领域之间的交流。",
+        "q1": "订餐是否自动包含文化参观？",
+        "a1": "请分别询问。基金会文化项目和餐饮服务可能有不同接待安排。",
+        "photo1": "在大道上拍文学聚会场所正面。",
+        "photo2": "室内获准后拍聚会空间全景，避开用餐者特写。",
+        "caption": "拉奎瓦聚会空间。",
+        "region": "巴兰基亚市区",
+        "transport": "从萨尔加尔搭车进入巴兰基亚市区，再到本页具体地址。下车后分别核对街（Calle）与大道（Carrera）编号，这两类道路的编号不可混看。",
+        "stay": "住普拉多适合连续几天看历史建筑与博物馆。住老城则可缩短清晨去海关区或圣尼古拉斯的路程，订房时核对夜间出入路线。",
+        "hours": "出发前向接待方核对当天可参观时段，售票、礼拜或活动时间与街道通行不同。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "30–50"
   },
   {
     "slug": "casa-museo-julio-flores",
@@ -1033,7 +2233,20 @@
         "route": "Haz el traslado a Usiacurí antes de iniciar la caminata. Recorre la transversal 20 hasta la casa señalizada y pregunta en la entrada por la visita guiada de las salas.",
         "management": "COPROUS, entidad de conservación y atención de la Casa Museo Julio Flórez.",
         "question": "¿Qué colores identifican la casa?",
-        "answer": "El azul y el blanco ayudan a distinguir la casa entre las calles de Usiacurí."
+        "answer": "El azul y el blanco ayudan a distinguir la casa entre las calles de Usiacurí.",
+        "context": "La etapa de Usiacurí se conoce mejor al prestar atención a las dimensiones de la casa y a la relación entre espacios de familia y trabajo. El nombre del poeta es nacional, pero la escala del museo sigue siendo la de una vivienda en un poblado. Deja margen para escuchar la explicación local en vez de hacer solo una foto de la fachada.",
+        "q0": "¿Con quién vivió el poeta en esta etapa?",
+        "a0": "Con Petrona Moreno y sus hijos, durante la última parte de su vida.",
+        "q1": "¿Puedo organizarla como un paseo desde Barranquilla?",
+        "a1": "Es una excursión a Usiacurí. Reserva primero el traslado de ida y vuelta y comprueba el horario del museo.",
+        "photo1": "Desde la calle encuadra la fachada azul y blanca.",
+        "photo2": "Desde el umbral autorizado busca la relación entre jardín y vivienda antes de entrar.",
+        "caption": "Casa Museo Julio Flórez en Usiacurí.",
+        "region": "Usiacurí",
+        "transport": "Organiza transporte intermunicipal hasta Usiacurí; al llegar pide la transversal 20 de la Casa Museo. Confirma el regreso antes de entrar al recorrido, especialmente en fin de semana.",
+        "stay": "Usiacurí centro facilita llegar a pie a la casa y pasar tiempo en el poblado. Barranquilla (El Prado) ofrece una base urbana para varias excursiones; el día del museo exige ida y vuelta por carretera.",
+        "hours": "La ficha turística registra viernes a domingo 13:00–17:00. Confirma disponibilidad de guía antes del traslado a Usiacurí.",
+        "fees": "Solicita la tarifa vigente y las condiciones de reserva en la recepción de este lugar antes de llegar; las visitas guiadas o sesiones especiales pueden tener condiciones distintas."
       },
       "en": {
         "title": "Julio Flórez House Museum",
@@ -1041,7 +2254,20 @@
         "route": "Travel to Usiacurí before beginning this walk. Follow Transversal 20 to the signed house and ask at the entrance about a guided visit to its rooms.",
         "management": "COPROUS oversees conservation and visitor arrangements for the Julio Flórez House Museum.",
         "question": "Which colours identify the house?",
-        "answer": "Blue and white distinguish it on the streets of Usiacurí."
+        "answer": "Blue and white distinguish it on the streets of Usiacurí.",
+        "context": "Pay attention to the house’s scale and the relationship between domestic and working spaces to understand the Usiacurí period. The poet has national significance, but the museum remains a home in a small town. Allow time for local interpretation rather than stopping only for a facade photograph.",
+        "q0": "Who lived with the poet during this period?",
+        "a0": "Petrona Moreno and their children shared the home in the last period of his life.",
+        "q1": "Is this a walking trip from Barranquilla?",
+        "a1": "It is an excursion to Usiacurí. Arrange transport both ways and check museum hours before setting out.",
+        "photo1": "From the street frame the blue-and-white frontage.",
+        "photo2": "From the authorised threshold frame the relationship of garden and house before entering.",
+        "caption": "Julio Flórez House Museum in Usiacurí.",
+        "region": "Usiacurí",
+        "transport": "Arrange intermunicipal transport to Usiacurí, then ask for Transversal 20 at the house museum. Confirm your return connection before joining a tour, particularly at weekends.",
+        "stay": "Central Usiacurí makes the house and village easy to explore on foot. Barranquilla’s El Prado offers an urban base for several excursions but requires a return road trip on museum day.",
+        "hours": "The tourism directory lists Friday–Sunday 13:00–17:00. Check guide availability before travelling to Usiacurí.",
+        "fees": "Ask this venue’s reception for its current admission and booking conditions before arrival. Guided visits and special sessions may have separate conditions."
       },
       "zh": {
         "title": "胡利奥·弗洛雷斯故居",
@@ -1049,8 +2275,22 @@
         "route": "先搭车抵达乌西亚库里再开始步行，沿20横街走到有故居标识的房屋，在入口询问室内导览安排。",
         "management": "COPROUS负责诗人故居的保护和游客接待。",
         "question": "如何辨认诗人故居？",
-        "answer": "蓝白配色是它在乌西亚库里街头的辨识特征。"
+        "answer": "蓝白配色是它在乌西亚库里街头的辨识特征。",
+        "context": "理解诗人在乌西亚库里这一时期，适合留意住宅尺度以及家庭生活与工作空间的联系。诗人虽享有全国声誉，故居仍是一座小镇住宅。行程中留些时间听当地讲解，比只在门外拍照更能理解这段生涯。",
+        "q0": "诗人晚年与谁同住？",
+        "a0": "与佩特罗娜·莫雷诺及子女一起在这里度过晚年。",
+        "q1": "适合从巴兰基亚步行过去吗？",
+        "a1": "这是前往另一市镇乌西亚库里的短途旅行，先安排往返交通并核对馆舍开放时间。",
+        "photo1": "从街上取蓝白色故居正面。",
+        "photo2": "在允许参观的入口处先拍花园与房屋的关系。",
+        "caption": "乌西亚库里胡利奥·弗洛雷斯故居。",
+        "region": "乌西亚库里",
+        "transport": "先搭跨市镇交通到乌西亚库里，再问故居所在的20横街。进馆前先确定回程班次，周末尤其需要提前安排。",
+        "stay": "住乌西亚库里镇中心方便步行参观故居并探索村镇。住巴兰基亚普拉多适合安排多次短途旅行，但去故居当天须另留往返车程。",
+        "hours": "旅游目录列周五至周日13:00至17:00，赴乌西亚库里前联系馆方核对导览。",
+        "fees": "出发前向本场地接待方查询当天票价及预约条件，导览和特别场次可能另行安排。"
       }
-    }
+    },
+    "minutes": "30–50"
   }
 ]
