@@ -1,7 +1,13 @@
 {
+  "accessNotice": {
+    "title": "Access during restoration",
+    "body": "On October 15, 2026, the Atlántico departmental government said Castillo de Salgar was not receiving visitors during restoration. We found no official reopening announcement. Check with the department before travelling and respect restricted areas.",
+    "gov": "Atlántico department’s restoration plan",
+    "press": "October 15 access notice (El Heraldo)"
+  },
   "meta": {
     "title": "Castle Salgar | Tourist Attraction in Atlántico, Colombia",
-    "description": "Explore Castle Salgar, a historical monument in Puerto Colombia, Atlántico, Colombia, and experience the perfect blend of 19th-century military fortress and modern tourism."
+    "description": "A historic fortress on the Caribbean coast of Puerto Colombia. Access restricted during works"
   },
   "header": {
     "siteName": "Castle Salgar",
@@ -13,74 +19,74 @@
   },
   "hero": {
     "title": "Castle Salgar",
-    "subtitle": "A century-old military fortress on the Caribbean coast, from colonial bastion to modern tourist destination.\nHere, feel the historical legacy since 1848, enjoy fine dining, and admire the stunning Caribbean Sea views.",
+    "subtitle": "A historic fortress on the Caribbean coast of Puerto Colombia.",
     "rating": "4.5",
     "reviewCount": "1,200+",
-    "hours": "Historical Monument / Restaurant / Event Venue",
-    "openMaps": "Get Directions",
+    "hours": "Access restricted during works",
+    "openMaps": "View the monument’s location",
     "viewGuide": "View Visit Guide"
   },
   "intro": {
     "title": "Explore the Castle",
-    "description": "Discover an important historical landmark in Atlántico, Colombia — a unique attraction that perfectly blends 19th-century military architecture, modern tourism facilities, and Caribbean charm.\n\nCastle Salgar is located in the municipality of Puerto Colombia, about 20 minutes from Barranquilla. The castle was originally built in 1848 on the ruins of the older Fort of San Antonio (built by the Spanish to monitor Caribbean maritime smuggling). \n\nIn its subsequent history, it was used as a customs control station, prison, refugee camp, and even a school. After careful restoration, the castle now serves as an upscale restaurant, viewpoint, and event venue for weddings and concerts, making it an excellent place to experience the history and modernity of Colombia's Caribbean region.",
+    "description": "Castle Salgar is located in the municipality of Puerto Colombia, about 20 minutes from Barranquilla. The castle was originally built in 1848 on the ruins of the older Fort of San Antonio (built by the Spanish to monitor Caribbean maritime smuggling).  Explore the castle’s history and setting in this guide and its photo gallery.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "🌅 Morning Tour: Visit the castle's historical buildings ➔ Learn about military fortress history ➔ Enjoy Caribbean Sea views",
-        "🍽️ Afternoon Food Tour: Taste local cuisine at the castle restaurant ➔ Tour modern event spaces ➔ Experience the blend of history and modernity",
-        "🌅 Evening Time: Enjoy sunset at the viewpoint ➔ Photograph the castle at night ➔ Experience the Caribbean night breeze"
+        "Check access before setting out",
+        "Do not cross barriers or enter work areas; follow official instructions.",
+        "Explore the castle’s history and setting in this guide and its photo gallery."
       ]
     },
     "alsoKnownAs": {
       "title": "Core Highlights",
       "items": [
         "🏰 Century-old Military Fortress: A military bastion built in 1848, originally used to monitor Caribbean smuggling. After multiple restorations, it is now a well-preserved historical monument.",
-        "🍽️ Upscale Restaurant & Event Venue: The castle features an upscale restaurant serving local cuisine. It is also an ideal venue for weddings, concerts, and other events.",
-        "🌊 Caribbean Sea Views: Located in Puerto Colombia, offering beautiful Caribbean Sea views, perfect for photography and sightseeing."
+        "Do not plan on the castle restaurant or event spaces being available. Check with the departmental government before planning a visit.",
+        "The castle stands on the Caribbean coast of Puerto Colombia. Sea views are part of its setting, but access to the viewpoint has not been confirmed."
       ]
     },
     "items": [
       {
-        "title": "🏰 Explore the Century-old Fortress",
-        "description": "Built in 1848 as a military bastion on the ruins of Fort of San Antonio. Learn about the castle's legendary history from military fortress to customs station, prison, school, and modern tourist destination."
+        "title": "Access during restoration",
+        "description": "Explore the castle’s history and setting in this guide and its photo gallery."
       },
       {
-        "title": "🍽️ Savor Upscale Restaurant Cuisine",
-        "description": "The castle houses an upscale restaurant offering specialties from Colombia's Caribbean region. Dine in a century-old historical building and feel the unique historical atmosphere."
+        "title": "Check access before setting out",
+        "description": "Do not plan on the castle restaurant or event spaces being available. Check with the departmental government before planning a visit."
       },
       {
-        "title": "🌅 Admire Stunning Caribbean Sunsets",
-        "description": "Located in Puerto Colombia, the castle is an excellent spot to enjoy Caribbean sunsets. In the evening, photograph the beautiful scenery of the castle and the sea."
+        "title": "Caribbean setting",
+        "description": "The castle stands on the Caribbean coast of Puerto Colombia. Sea views are part of its setting, but access to the viewpoint has not been confirmed."
       }
     ]
   },
   "route": {
     "title": "Visit Guide",
-    "overview": "Perfect One-Day Itinerary:",
+    "overview": "Access checks before planning a visit",
     "steps": [
-      "Morning (Historical Exploration): Visit the castle's historical buildings, learn about the historical changes since 1848, and explore the architectural features of the military fortress.",
-      "Afternoon (Culinary Experience): Enjoy local cuisine at the castle restaurant, visit modern event spaces, and feel the perfect blend of history and modernity.",
-      "Evening (Sunset Viewing): Head to the viewpoint, enjoy the Caribbean sunset, and photograph the beautiful scenery of the castle and the sea."
+      "Check access before setting out",
+      "Do not cross barriers or enter work areas; follow official instructions.",
+      "Explore the castle’s history and setting in this guide and its photo gallery."
     ],
     "supplementsTitle": "Practical Tips",
     "supplements": [
-      "Best Time: It is recommended to go in the evening, as you can enjoy both the historical buildings during the day and the night views.",
-      "Sun Protection & Hydration: The Caribbean region has strong sunlight. Please carry sunscreen, sunglasses, and plenty of drinking water.",
-      "Photography Preparation: The castle is an excellent location for photographing Caribbean scenery. It is recommended to bring a camera or ensure your phone is fully charged."
+      "The castle is in Puerto Colombia. The map identifies the monument, not an open visitor entrance.",
+      "Do not cross barriers or enter work areas; follow official instructions.",
+      "The castle stands on the Caribbean coast of Puerto Colombia. Sea views are part of its setting, but access to the viewpoint has not been confirmed."
     ],
-    "scheduleTitle": "🗓️ Recommended Itinerary (2-3 hours)",
+    "scheduleTitle": "Access during restoration",
     "scheduleItems": [
       {
-        "time": "10:00 AM (Historical Exploration)",
-        "description": "Visit the castle's historical buildings, learn about the history from 1848 to the present, and explore the architectural features of the military fortress."
+        "time": "Check access before setting out",
+        "description": "The castle is in Puerto Colombia. The map identifies the monument, not an open visitor entrance."
       },
       {
-        "time": "1:00 PM (Culinary Experience)",
-        "description": "Enjoy lunch at the castle restaurant, taste specialties from Colombia's Caribbean region, and visit modern event spaces."
+        "time": "Access during restoration",
+        "description": "Do not cross barriers or enter work areas; follow official instructions."
       },
       {
-        "time": "5:00 PM (Sunset Viewing)",
-        "description": "Head to the viewpoint, enjoy the Caribbean sunset, photograph the beautiful scenery of the castle and the sea, and feel the Caribbean night breeze."
+        "time": "Access checks before planning a visit",
+        "description": "Explore the castle’s history and setting in this guide and its photo gallery."
       }
     ],
     "tipsTitle": "💡 Practical Tips",
@@ -91,7 +97,7 @@
       },
       {
         "title": "Transportation Info",
-        "description": "The castle is about 20 minutes from Barranquilla. Self-driving or taxi is recommended. The castle has parking."
+        "description": "The castle is in Puerto Colombia. The map identifies the monument, not an open visitor entrance."
       }
     ]
   },
@@ -106,7 +112,7 @@
       {
         "id": "architecture",
         "title": "Architectural Features",
-        "content": "The castle retains the characteristics of 19th-century military architecture while incorporating modern restoration and renovation. The bright yellow exterior is a distinctive feature of the castle, with modern restaurants and event spaces inside."
+        "content": "The castle retains the characteristics of 19th-century military architecture while incorporating modern restoration and renovation. The bright yellow exterior is a distinctive feature of the castle."
       },
       {
         "id": "location",
@@ -135,11 +141,11 @@
     "petFriendly": "Pet Friendly",
     "petFriendlyValue": "Please consult on-site staff",
     "tickets": "Tickets",
-    "ticketsValue": "Free entry (restaurant dining and event venue rental charged separately)",
+    "ticketsValue": "No admission price has been confirmed during the works.",
     "facilities": "Facilities",
-    "facilitiesValue": "Nearby public restrooms, restaurants, parking, and event spaces",
+    "facilitiesValue": "Restaurant, parking and event-space availability has not been confirmed.",
     "hours": "Opening Hours",
-    "hoursValue": "Mon-Fri 08:00–17:00, Sat-Sun 08:00–19:00",
+    "hoursValue": "No visiting hours have been confirmed during the works.",
     "rating": "Rating",
     "ratingValue": "4.5 / 5.0 (based on 1,200+ reviews)",
     "location": "Location",
@@ -147,26 +153,26 @@
   },
   "hours": {
     "title": "Opening Hours & Visitor Info",
-    "outdoor": "Business Hours",
-    "outdoorTime": "Mon-Fri 08:00–17:00, Sat-Sun 08:00–19:00",
-    "lighthouse": "Best Visiting Time",
-    "summer": "Evening hours",
-    "summerTime": "(Depends on weather and season, please refer to Google Maps)",
+    "outdoor": "Access during restoration",
+    "outdoorTime": "No visiting hours have been confirmed during the works.",
+    "lighthouse": "Check access before setting out",
+    "summer": "Access restricted during works",
+    "summerTime": "Do not cross barriers or enter work areas; follow official instructions.",
     "winter": "Notes",
-    "winterTime": "Bring sunscreen, camera and plenty of water",
+    "winterTime": "Do not cross barriers or enter work areas; follow official instructions.",
     "warning": "💡 Dynamic Weather Tip",
-    "warningTime": "The Caribbean region has a hot climate, perfect for outdoor visits. We recommend bringing sunscreen and plenty of water.",
-    "tip": "The castle has an upscale restaurant where you can taste specialties from Colombia's Caribbean region."
+    "warningTime": "Do not cross barriers or enter work areas; follow official instructions.",
+    "tip": "Do not plan on the castle restaurant or event spaces being available. Check with the departmental government before planning a visit."
   },
   "tickets": {
     "title": "Important Information",
     "outdoor": "Admission Fee",
-    "outdoorPrice": "Free entrance",
+    "outdoorPrice": "No admission price has been confirmed during the works.",
     "lighthouse": "Transportation Info",
     "adults": "From Barranquilla",
-    "adultsPrice": "Take a taxi or drive about 20 minutes",
+    "adultsPrice": "The castle is in Puerto Colombia. The map identifies the monument, not an open visitor entrance.",
     "students": "Recommended Visit Duration",
-    "studentsPrice": "2-3 hours",
+    "studentsPrice": "Do not budget time for a castle visit until reopening is confirmed.",
     "card": "Nearby Attractions",
     "cardPrice": "Puerto Colombia beaches, Barranquilla city center. 👉 [Go to Barranquilla]",
     "officialNotice": "For the latest updates, please refer to the",
@@ -175,24 +181,24 @@
   },
   "transport": {
     "title": "Getting There",
-    "airport": "✈️ Airport to Landmark (Core Recommendation)",
-    "airportDesc": "The closest airport to Castle Salgar is Ernesto Cortissoz International Airport (BAQ). Upon arrival, you can take a taxi or ride-hailing service to Puerto Colombia municipality, then head to Castle Salgar. The journey is about 30 minutes to 1 hour directly to the castle, which is the most efficient way to arrive.",
+    "airport": "Nearest airport",
+    "airportDesc": "Only after reopening is confirmed: The closest airport to Castle Salgar is Ernesto Cortissoz International Airport (BAQ). Upon arrival, you can take a taxi or ride-hailing service to Puerto Colombia municipality, then head to Castle Salgar. The journey is about 30 minutes to 1 hour directly to the castle, which is the most efficient way to arrive.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "From Barranquilla city center, follow the road for about 20 minutes to reach Castle Salgar.",
+    "selfDriveDesc": "Only after reopening is confirmed: From Barranquilla city center, follow the road for about 20 minutes to reach Castle Salgar.",
     "bus": "🚌 Public Transportation (From Barranquilla city center)",
-    "busDesc": "From Barranquilla city center, you can take buses or taxi to Puerto Colombia municipality, then walk or take a taxi to the castle. It is recommended to consult local people for specific bus routes and schedules.",
+    "busDesc": "Only after reopening is confirmed: From Barranquilla city center, you can take buses or taxi to Puerto Colombia municipality, then walk or take a taxi to the castle. It is recommended to consult local people for specific bus routes and schedules.",
     "intercity": "Within the Region",
-    "intercityDesc": "Castle Salgar is located in Puerto Colombia municipality, easily accessible from Barranquilla city center.",
+    "intercityDesc": "Only after reopening is confirmed: Castle Salgar is located in Puerto Colombia municipality, easily accessible from Barranquilla city center.",
     "cycling": "Other Options",
     "cyclingDesc": "You can rent transportation in Barranquilla or take a taxi to explore and better appreciate the Caribbean scenery.",
     "tips": "Travel Tips",
-    "tipsDesc": "The journey from Barranquilla city center is short. It is recommended to plan your itinerary and transportation in advance.",
+    "tipsDesc": "On October 15, 2026, the Atlántico departmental government said Castillo de Salgar was not receiving visitors during restoration. We found no official reopening announcement. Check with the department before travelling and respect restricted areas.",
     "addressTitle": "📍 Address",
     "addressValue": "Cl. 9 #1316, Salgar, Puerto Colombia, Atlántico",
-    "taxiTitle": "🚕 Taxi / Rideshare (Most Recommended)",
-    "taxiDesc": "No matter where you depart from in Barranquilla, taking a taxi directly to Castle Salgar is the most time-saving and effortless way.",
+    "taxiTitle": "Taxi or rideshare",
+    "taxiDesc": "Only after reopening is confirmed: No matter where you depart from in Barranquilla, taking a taxi directly to Castle Salgar is the most time-saving and effortless way.",
     "metroTitle": "🚌 Public Transportation",
-    "metroDesc": "From Barranquilla city center, you can take buses to Puerto Colombia municipality, then take a taxi to the castle.",
+    "metroDesc": "Only after reopening is confirmed: From Barranquilla city center, you can take buses to Puerto Colombia municipality, then take a taxi to the castle.",
     "airportTitle": "✈️ Airport Transport",
     "airportItems": [
       {
@@ -376,7 +382,7 @@
   "about": {
     "title": "About Castle Salgar",
     "introTitle": "Introduction",
-    "introText": "Castle Salgar is a historical monument located in Puerto Colombia, Atlántico, Colombia. Built in 1848, it originally served as a military fortress and customs control station to monitor maritime trade in the Caribbean region. After multiple restorations, the castle now primarily functions as an upscale restaurant, viewpoint, and event venue for weddings and concerts.\n\nSituated on the Caribbean coast, the castle offers excellent sea views. Its bright yellow exterior is a distinctive feature that creates a beautiful contrast with the blue waters of the Caribbean Sea.",
+    "introText": "Castle Salgar is a historical monument located in Puerto Colombia, Atlántico, Colombia. Built in 1848, it originally served as a military fortress and customs control station to monitor maritime trade in the Caribbean region.",
     "managementTitle": "Management Information",
     "managedBy": "Managed By",
     "managementOrg": "Government of Atlántico Province, Colombia",
@@ -425,7 +431,7 @@
   },
   "officialManagement": {
     "title": "About Castle Salgar",
-    "text": "Castle Salgar is a historical monument in Puerto Colombia, Atlántico, Colombia. As a tourist attraction and cultural venue, it is an important place to experience the history and modernity of Colombia's Caribbean region."
+    "text": "A historic fortress on the Caribbean coast of Puerto Colombia. Access restricted during works"
   },
   "cookieSettings": {
     "title": "Cookie Settings",
@@ -490,7 +496,7 @@
     "art": {
       "title": "Modern Functions: From History to Future",
       "subtitle1": "Modern Restoration and Renovation",
-      "desc1": "After multiple restorations, the castle now has modern facilities, including upscale restaurants, viewpoints, and \"glass cube\" event spaces. These modern facilities perfectly blend with the historical buildings, providing visitors with a unique experience."
+      "desc1": "Do not plan on the castle restaurant or event spaces being available. Check with the departmental government before planning a visit."
     }
   },
   "didYouKnow": {
@@ -502,23 +508,23 @@
     "items": [
       {
         "question": "Is Castle Salgar a modern building?",
-        "answer": "No, it is not a modern building, but a genuine century-old historical relic. The castle was originally built in 1848 on the ruins of the older Fort of San Antonio (a colonial fortress). It was originally built by the Spanish to monitor maritime smuggling in the Caribbean.\n\nAs for why it looks not only lacking in historical patina but also like a modern building, there are mainly the following reasons:\n\n1. Multiple heavy renovations: After losing its practical functions such as customs, the castle was abandoned for over 60 years, and even faced the danger of collapse due to coastal erosion. Starting from the 1940s, multiple large-scale restorations were carried out. Especially in recent years (such as the large-scale intervention project around 2022), in order to make it a world-class tourist attraction, the local government has even reshaped it, removing all traces of dilapidation.\n\n2. Modern commercial functions: This building now mainly serves as an upscale restaurant, viewpoint, and event venue for weddings or concerts. In order to meet these modern commercial and entertainment needs, a large number of modern facilities have been added inside and around the castle, and even a modern 'glass cube' event space and modern lighting system have been planned.\n\n3. Extremely fine exterior maintenance: Unlike those historical sites that retain exposed stone and show weathered conditions, Castle Salgar's exterior walls are painted in very bright and beautiful yellow paint, and are maintained with very high frequency of repainting. Smooth walls, clean paving stones, and intact arches mask its original rugged military defense fortress atmosphere.\n\nIn short, it is a 19th-century military fortress wearing a 'modern exquisite coat'. Since the focus of restoration is偏向 on tourism and commercial banquets, rather than pure 'archaeological restoration', it gives visitors an illusion of a modern pseudo-antique building."
+        "answer": "The present structure dates to the nineteenth century. The Atlántico departmental government announced conservation work in 2026. Only use areas that the authorities have expressly reopened."
       },
       {
         "question": "What are the opening hours of Castle Salgar?",
-        "answer": "The opening hours of Castle Salgar are as follows:\n\nMonday to Friday: 08:00–17:00\nSaturday to Sunday: 08:00–19:00\n\nIt is recommended to go in the evening, as you can enjoy both the historical buildings during the day and the night views. Specific opening hours may be adjusted due to special events or holidays, so it is recommended to check Google Maps for the latest information before traveling."
+        "answer": "No visiting hours have been confirmed during the works."
       },
       {
         "question": "Do I need to buy tickets?",
-        "answer": "The castle itself is free to enter. However, if you plan to dine at the upscale restaurant inside the castle, or attend specific events, you may need to pay corresponding fees. It is recommended to check the restaurant menu and prices in advance, or consult the event staff on site."
+        "answer": "No admission price has been confirmed during the works."
       },
       {
         "question": "How to get to Castle Salgar?",
-        "answer": "Castle Salgar is located in the municipality of Puerto Colombia, Atlántico, about 20 minutes from Barranquilla.\n\nRecommended transportation:\n1. Taxi/Ride-hailing: The most convenient way, take a taxi directly from Barranquilla city center.\n2. Self-driving: About 20 minutes drive, the castle has parking.\n3. Public transportation: Take a bus from Barranquilla to Puerto Colombia, then take a taxi to the castle.\n\nThe nearest airport is Ernesto Cortisos International Airport (BAQ), about 30 minutes from the castle."
+        "answer": "The castle is in Puerto Colombia. The map identifies the monument, not an open visitor entrance."
       },
       {
         "question": "Is Castle Salgar suitable for family trips?",
-        "answer": "Yes, Castle Salgar is very suitable for family trips. The castle has spacious outdoor activity spaces where children can run and play in a safe environment. At the same time, the castle's upscale restaurant is also suitable for family dining. However, as the castle is located on the Caribbean coast with strong sunlight, it is recommended to bring sunscreen and plenty of drinking water."
+        "answer": "Do not cross barriers or enter work areas; follow official instructions."
       }
     ]
   }

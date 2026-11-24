@@ -33,7 +33,7 @@ export default function Gallery() {
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Nutibara Sculpture Park ${i + 1}`,
+    alt: captions?.[i] || `Castillo de Salgar ${i + 1}`,
   }));
 
   const visiblePhotos = photos;
